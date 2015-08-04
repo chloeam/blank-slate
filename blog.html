@@ -1,13 +1,15 @@
 ---
-layout: default
+layout: page
+title: Blog
+permalink: /blog/
 ---
 
-<div class="home">
+<div class="blog">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Blog</h1>
 
   <ul class="post-list">
-    {% for post in site.categories.portfolio %}
+    {% for post in site.categories.blog %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
