@@ -6,6 +6,7 @@ tagline: This is a base template for portfolio case studies to create a uniform 
 roles: Design, UX Design, Front-End Development
 categories: portfolio
 permalink: /portfolio/style-guide
+cover: /img/chicago-cover.png
 
 overview: This is the overview. Aenean pellentesque risus quam, eget sollicitudin libero pellentesque vitae. Vestibulum dolor tortor, semper semper cursus quis, elementum sed purus. Donec rhoncus lobortis nulla, consequat vestibulum neque sollicitudin ut. Etiam sagittis magna pulvinar ullamcorper consectetur. Cras quam lectus, scelerisque non quam eget, molestie consectetur felis. Sed ultrices hendrerit lorem id mattis. Cras tincidunt, ipsum eget vestibulum vestibulum, massa nisi tincidunt justo, aliquam euismod nulla erat at enim. Vivamus pellentesque semper ornare. Vestibulum pulvinar vehicula lorem ut dapibus. Morbi pulvinar vitae arcu quis ultricies. Morbi ac dictum risus. Proin et tellus quam.
 
