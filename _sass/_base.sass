@@ -73,7 +73,7 @@ a
 
   &:hover
     color: $text-color
-    text-decoration: underline
+    //text-decoration: underline
     
 /**
  * Blockquotes
@@ -125,7 +125,7 @@ pre
   padding-left: $spacing-unit
   @extend %clearfix
 
-  @include media-query($on-laptop)
+  @media (max-width: $on-laptop)
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}))
     max-width:         calc(#{$content-width} - (#{$spacing-unit}))
     padding-right: $spacing-unit / 2
@@ -162,7 +162,3 @@ pre
 
     path
       fill: $grey-color
-        
-
-.current
-  text-decoration: underline
