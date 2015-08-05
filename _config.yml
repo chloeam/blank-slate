@@ -16,3 +16,12 @@ instagram_username: chloe793
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+
+#navigation:
+# - title: Portfolio
+#   url: /index.html
+# - title: Blog
+#   url: /blog/
+# - title: About
+#   url: /about/
