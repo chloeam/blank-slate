@@ -22,6 +22,8 @@ permalink: pretty
 collections:
   components:
     output: false
+  colors:
+    output: false
 
 #navigation:
 # - title: Portfolio

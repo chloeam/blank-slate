@@ -1,15 +1,23 @@
 .page-title-style
   @extend .page-title
-  font-size: 4em
+  font-size: 6em
+
+#component-select
+  display: block
+  width: 80%
+  margin: 0 auto
+  margin-bottom: $spacing-unit
+  font-family: $base-font
+  font-size: 3em
 
 .component
-  border: 1px solid $gray-color-light
+  border: 1px solid $gray-light
   border-radius: 5px
   //padding: $spacing-unit / 2
   margin-bottom: $spacing-unit
 
 .component-header
-  background-color: $gray-color-light
+  background-color: $gray-light
   padding: $spacing-unit / 2
 
   h3
@@ -22,5 +30,25 @@
     
 .component-content
   margin: $spacing-unit / 2
+
+.color-tile
+  width: 20%
+  height: 50px
+  display: inline-block
+  margin-bottom: $spacing-unit / 2
+  text-align: center
+  border: 1px solid $gray-light
+  border-radius: 5px
+  background-color: blue
+
+  code
+    margin-top: 40px
+  
+$color: (white-color: $white, black-color: $black, gray-color: $gray, background-color: $background-color, primary-color: $primary-color, success-color: $success-color, warning-color: $warning-color, danger-color: $danger-color, info-color: $info-color, gray-light-color: $gray-light, gray-dark-color: $gray-dark, text-color: $text-color, link-color: $link-color, accent-color: $accent-color)
+
+@each $name, $bgcolor in $color 
+  .#{$name}-bg
+    background-color: $bgcolor
+
 
 
