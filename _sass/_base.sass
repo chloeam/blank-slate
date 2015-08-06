@@ -1,86 +1,57 @@
-/**
- * Reset some basic elements
- */
+// RESET
+
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure
   margin: 0
   padding: 0
 
-/**
- * Basic styling
- */
-body
-  font-family: $base-font-family
-  font-size: $base-font-size
-  line-height: $base-line-height
-  font-weight: 300
-  color: $text-color
-  background-color: $background-color
-  -webkit-text-size-adjust: 100%
 
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
+// VERTICAL RHYTHM
+
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm
   margin-bottom: $spacing-unit / 2
 
-/**
- * Images
- */
-img
-  max-width: 100%
-  vertical-align: middle
 
-/**
- * Figures
- */
-figure > img
-  display: block
+// TYPOGRAPHY
 
-figcaption
-  font-size: $small-font-size
-
-/**
- * Lists
- */
-ul, ol
-  margin-left: $spacing-unit
-
-li
-  > ul,
-  > ol
-    margin-bottom: 0
-    
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6
+body
+  font-family: $base-font
+  font-size: $doc-font-size
+  line-height: $doc-line-height
   font-weight: 300
+  color: $text-color
+  background-color: $background-color
+  -webkit-text-size-adjust: 100%
 
-/**
- * Links
- */
+h1, h2, h3, h4, h5, h6
+  font-family: $heading-font
+  text-rendering: optimizeLegibility //fix spacing in headings
+
+// underlined text
+ins
+  text-decoration: none
+  border-bottom: 1px solid $text-color
+
+// links
 a
-  color: $brand-color
+  color: $link-color
   text-decoration: none
 
   &:visited
-    color: darken($brand-color, 15%)
+    color: darken($link-color, 15%)
 
   &:hover
     color: $text-color
     //text-decoration: underline
-    
-/**
- * Blockquotes
- */
+
+// blockquotes
 blockquote
-  color: $grey-color
-  border-left: 4px solid $grey-color-light
+  color: $gray-color
+  border-left: 4px solid $gray-color-light
   padding-left: $spacing-unit / 2
   font-size: 18px
   letter-spacing: -1px
@@ -88,14 +59,14 @@ blockquote
 
   > :last-child
     margin-bottom: 0
-    
-/**
- * Code formatting
- */
+
+
+// CODE FORMATTING
+
 pre,
 code
   font-size: 15px
-  border: 1px solid $grey-color-light
+  border: 1px solid $gray-color-light
   border-radius: 3px
   background-color: #eef
 
@@ -112,10 +83,34 @@ pre
     border: 0
     padding-right: 0
     padding-left: 0
-    
-/**
- * Wrapper
- */
+
+
+// FIGURES, IMAGES
+
+img
+  max-width: 100%
+  vertical-align: middle
+
+figure > img
+  display: block
+
+figcaption
+  font-size: $small-font-size
+
+
+// LISTS
+
+ul, ol
+  margin-left: $spacing-unit
+
+li
+  > ul,
+  > ol
+    margin-bottom: 0
+
+
+// WRAPPER
+
 .wrapper
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2))
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2))
@@ -130,35 +125,31 @@ pre
     max-width:         calc(#{$content-width} - (#{$spacing-unit}))
     padding-right: $spacing-unit / 2
     padding-left: $spacing-unit / 2
-    
 
 
 
+// CLEARFIX
 
-/**
- * Clearfix
- */
 %clearfix
 
   &:after
     content: ""
     display: table
     clear: both
-    
 
 
+// ICONS
 
-
-/**
- * Icons
- */
 .icon
 
   > svg
     display: inline-block
-    width: 16px
-    height: 16px
+    width: auto
+    height: 25px
     vertical-align: middle
 
     path
-      fill: $grey-color
+      fill: $gray-color
+
+    rect
+      fill: $gray-color
