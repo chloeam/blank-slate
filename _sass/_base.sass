@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6
   text-rendering: optimizeLegibility //fix spacing in headings
 
 // underlined text
-ins
+u, ins
   text-decoration: none
   border-bottom: 1px solid $text-color
 
@@ -59,6 +59,15 @@ blockquote
 
   > :last-child
     margin-bottom: 0
+
+// helper styling
+.center
+  text-align: center
+
+.squish
+  width: 80%
+  margin: 0 auto
+  margin-bottom: $spacing-unit / 2
 
 
 // CODE FORMATTING
