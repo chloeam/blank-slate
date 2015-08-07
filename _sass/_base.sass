@@ -29,36 +29,80 @@ body
 
 h1, h2, h3, h4, h5, h6
   font-family: $heading-font
+  font-weight: 700
   text-rendering: optimizeLegibility //fix spacing in headings
+
+h1
+  font-size: 3em
+
+h2
+  font-size: 2em
+
+.heading-thin
+  font-size: 6em
+  font-weight: 100
+
+.heading-thin-italic
+  @extend .heading-thin
+  font-style: italic
+
+.heading-medium
+  font-size: 6em
+  font-weight: 500
+
+.heading-medium-italic
+  @extend .heading-medium
+  font-style: italic
+
+.heading-chunky
+  font-size: 6em
+  font-weight: 900
+
+.heading-chunky-italic
+  @extend .heading-chunky
+  font-style: italic
 
 // underlined text
 u, ins
   text-decoration: none
   border-bottom: 1px solid $text-color
 
+// abbreviations and acronyms
+
+acronym, abbr
+  font-variant: small-caps
+
+
 // links
 a
-  color: $link-color
   text-decoration: none
+  color: $text-color
 
-  &:visited
-    color: darken($link-color, 15%)
+p > a
+  color: $text-color
+  text-decoration: none
+  border-bottom: 2px solid $link-color
 
   &:hover
-    color: $text-color
+    background-color: $link-color
+    border-top: 2px solid $link-color
+
+li > a
+  color: $text-color
+  text-decoration: none
+  border-bottom: 2px solid $link-color
+
+  &:hover
+    background-color: $link-color
+    border-top: 2px solid $link-color
+
+  //&:visited
+    //color: darken($link-color, 15%)
+
+  //&:hover
+    //color: $text-color
     //text-decoration: underline
 
-// blockquotes
-blockquote
-  color: $gray
-  border-left: 4px solid $gray-light
-  padding-left: $spacing-unit / 2
-  font-size: 18px
-  letter-spacing: -1px
-  font-style: italic
-
-  > :last-child
-    margin-bottom: 0
 
 // helper styling
 .center

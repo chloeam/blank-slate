@@ -1,12 +1,12 @@
 ---
 layout: style-guide
-title: Style Guide
+title: Pattern Library
 date: 2015-08-06
 tagline: A Pattern Library
-permalink: /style-guide/
+permalink: /pattern-library/
 ---
 
-This is a style guide: a living document of code detailing all the various colors, typographic elements, UI patterns, and components used on the website to maintain visual consistency.
+This is the pattern library: a living document of code detailing the various colors, typographic elements, UI patterns, and components used on the website to maintain visual consistency. Currently, the library is best viewed on a desktop or laptop device.
 {: .squish .tagline}
 
 {% assign entries = site.colors %}

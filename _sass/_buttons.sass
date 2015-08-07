@@ -1,0 +1,26 @@
+.button
+  display: inline-block
+  background-color: $primary-color
+  border: 3px solid $primary-color
+  margin-bottom: $spacing-unit / 2
+  color: $white
+  padding: 10px 20px
+
+  &:hover
+    background-color: $white
+    color: $text-color
+
+.button-info
+  @extend .button
+  background-color: $info-color
+  border: 3px solid $info-color
+
+.button-success
+  @extend .button
+  background-color: $success-color
+  border: 3px solid $success-color
+
+.button-warning
+  @extend .button
+  background-color: $warning-color
+  border: 3px solid $warning-color

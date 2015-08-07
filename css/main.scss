@@ -10,6 +10,10 @@
 
 // COMPONENTS
 @import "buttons";
+@import "images";
+@import "notices";
+@import "quotes";
+@import "tables";
 @import "syntax-highlighting";
 @import "style-guide";
 
@@ -17,5 +21,6 @@
 @import
         "layout",
         "header",
+        "portfolio-index",
         "footer";
 ;

@@ -1,0 +1,77 @@
+.project-grid
+  overflow: hidden
+
+.project-preview
+  width: 25%
+  padding-bottom: 25%
+  position: relative
+  float: left
+  overflow: hidden
+
+  &:hover
+    img
+      -webkit-filter: blur(4px)
+        filter: blur(4px)
+
+    .info
+      opacity: 1
+
+.sharpen
+  position: absolute
+
+  img 
+    width: 100%
+    -webkit-transform: scale(1.05)
+      transform: scale(1.05)
+
+.info
+  opacity: 0
+  position: absolute
+  top: 50%
+  left: 50%
+  transform: translate(-50%, -50%)
+  width: 100%
+  color: $white
+  text-align: center
+
+  h2
+    font-weight: 800
+    margin-bottom: 0
+    line-height: 1.2
+
+  p
+    font-family: $heading-font
+    font-weight: 200
+    font-size: 1.3em
+    font-style: italic
+
+.touch
+  .project-preview
+    margin: 10px
+    position: static
+    overflow: visible
+    padding-bottom: 0
+
+    &:hover
+      img
+        -webkit-filter: none
+          filter: none
+
+  .sharpen
+    position: static
+
+  .info
+    opacity: 1
+    color: $text-color
+    position: static
+    top: default
+    left: default
+    transform: none
+    margin-top: $spacing-unit / 2
+    text-align: left
+
+    h2
+      font-size: 1.5em
+
+    p
+      font-size: 1.1em
