@@ -4,18 +4,142 @@ permalink: /
 current: portfolio
 ---
 
-<div class="portfolio">
-
-  <ul class="post-list">
-    {% for post in site.categories.portfolio %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-
-        <img src="{{ post.cover }}">
-      </li>
-    {% endfor %}
-  </ul>
-
+<div class="project-grid">
+  {% for post in site.categories.portfolio %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      <div class="project-preview">
+        <div class="sharpen">
+          <img src="{{ post.cover }}">
+        </div>
+        <div class="info">
+          <h2>{{ post.title }}</h2>
+          <p>{{ post.roles }}</p>
+        </div>
+      </div>
+    </a>
+  {% endfor %}
 </div>
+
+<!--<div class="project-grid touch">
+    
+  <a href="#">
+    <div class="project-preview">
+      <div class="sharpen">
+        <img src="http://c300221.r21.cf1.rackcdn.com/photo-from-sighisoara-city-romania-1370703872_b.jpg" alt="Romania">
+      </div>
+      <div class="info">
+        <h2>Project Name</h2>
+        <p>Illustration, Design</p>
+      </div>
+    </div>
+  </a>
+
+  <a href="#">
+    <div class="project-preview">
+      <div class="sharpen">
+        <img src="http://img14.deviantart.net/6d62/i/2012/280/9/0/new_york_streets_by_alierturk-d5grg0j.jpg" alt="New York">
+      </div>
+      <div class="info">
+        <h2>Longer Project Name</h2>
+        <p>Illustration, Design</p>
+      </div>
+    </div>
+  </a>
+
+  <a href="#">
+    <div class="project-preview">
+      <div class="sharpen">
+        <img src="http://photos.visitphilly.com/love-park-philadelphia-statue6-600vp.jpg" alt="Philadelphia">
+      </div>
+      <div class="info">
+        <h2>Even Longer Project Name</h2>
+        <p>Illustration, Design</p>
+      </div>
+    </div>
+  </a>
+
+  <a href="#">
+    <div class="project-preview">
+      <div class="sharpen">
+        <img src="http://isvr.net/usr/1576242736/CustomPages/images/san_francisco__golden_gate_by_alierturk-d4rksl8.jpg" alt="San Francisco">
+      </div>
+      <div class="info">
+        <h2>Project Name</h2>
+        <p>Illustration, Design, Ideation</p>
+      </div>
+    </div>
+  </a>
+
+  <a href="#">
+    <div class="project-preview">
+      <div class="sharpen">
+        <img src="http://www.travelandleisure.com/sites/default/files/styles/weekend_getaways_landing_page/public/assets/images/201205-wg-los-angeles-walking-tour-venice.jpg?itok=UJtRkZ64" alt="Biking">
+      </div>
+      <div class="info">
+        <h2>Long Project Name</h2>
+        <p>Illustration, Design, Ideation</p>
+      </div>
+    </div>
+  </a>
+
+  <a href="#">
+    <div class="project-preview">
+      <div class="sharpen">
+        <img src="http://papers.co/wallpaper/papers.co-mg77-la-jolla-green-shore-wallpaper-sea-1-wallpaper.jpg" alt="La Jolla">
+      </div>
+      <div class="info">
+        <h2>Project Name</h2>
+        <p>Illustration, Design</p>
+      </div>
+    </div>
+  </a>
+
+  <a href="#">
+    <div class="project-preview">
+      <div class="sharpen">
+        <img src="https://www.visitrenotahoe.com/blog/wp-content/uploads/2013/10/@adventurer_1-Stunning-sunset-tonight-Reno-nevada-outdoors--600x600.jpg" alt="Sunset">
+      </div>
+      <div class="info">
+        <h2>Project Name</h2>
+        <p>Illustration, Design</p>
+      </div>
+    </div>
+  </a>
+
+  <a href="#">
+    <div class="project-preview">
+      <div class="sharpen">
+        <img src="http://media-cdn.tripadvisor.com/media/photo-o/02/21/ee/29/inside-this-four-star.jpg" alt="Chicago">
+      </div>
+      <div class="info">
+        <h2>Project Name</h2>
+        <p>Illustration, Design</p>
+      </div>
+    </div>
+  </a>
+
+  <a href="#">
+    <div class="project-preview">
+      <div class="sharpen">
+        <img src="http://www.glampacker.com/wp-content/uploads/2012/11/carousel.jpg" alt="Carousel">
+      </div>
+      <div class="info">
+        <h2>Project Name</h2>
+        <p>Illustration, Design</p>
+      </div>
+    </div>
+  </a>
+
+  <a href="#">
+    <div class="project-preview">
+      <div class="sharpen">
+        <img src="http://blog.opodo.co.uk/wp-content/uploads/sites/12/2013/04/aerial-paris-supermansw.jpg" alt="Paris">
+      </div>
+      <div class="info">
+        <h2>Project Name</h2>
+        <p>Illustration, Design</p>
+      </div>
+    </div>
+  </a>
+
+</div>-->
