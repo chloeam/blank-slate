@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{% if page.feature %}
+  <div class="feature-image">
+    <img src="{{ page.feature }}" alt="{{ page.title }}">
+  </div>
+{% endif %}
+
+<div class="intro">
+  <h1 class="case-study-title heading-thin-italic">{{ page.title }}</h1>
+  <p class="case-study-tagline">{{ page.tagline }}</p>
+  
+  <div class="meta-info">
+    <p class="completed-date">{{ page.date | date: "%B, %Y" }}</p>
+    <p class="roles">{{ page.roles }}</p>
+  </div>
+  
+  {% if page.overview.size > 580 %}
+    <p class="overview-col">{{ page.overview }}</p>
+  {% else %}
+    <p class="overview">{{ page.overview }}</p>
+  {% endif %}
+  
+</div>
+
+<article class="case-study-content">
+  {{ content }}
+</article>
