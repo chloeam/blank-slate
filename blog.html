@@ -6,21 +6,16 @@ current: blog
 ---
 
 <div class="blog">
+  {% for post in site.categories.blog %}
+    
+    <div class="blog-preview">
+      
+      <a class="post-title-index" href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
+      
+      <p class="post-date-index">{{ post.date | date: "%b %-d, %Y" }}</p>
 
-  <h1 class="page-heading">Blog</h1>
+      <p class="post-tagline">{{ post.tagline }}</p>
+    </div>
 
-  <ul class="post-list">
-    {% for post in site.categories.blog %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  {% endfor %}
 </div>
