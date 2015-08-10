@@ -1,7 +1,8 @@
-.button
+@mixin btn($button-color)
   display: inline-block
-  background-color: $primary-color
-  border: 3px solid $primary-color
+  background-color: $button-color
+  border: 3px solid $button-color
+  border-top: 3px solid $button-color !important  // overrides pink styling on a tag
   margin-bottom: $spacing-unit / 2
   color: $white
   padding: 10px 20px
@@ -10,17 +11,14 @@
     background-color: $white
     color: $text-color
 
+.button
+  @include btn($primary-color)
+
 .button-info
-  @extend .button
-  background-color: $info-color
-  border: 3px solid $info-color
+  @include btn($info-color)
 
 .button-success
-  @extend .button
-  background-color: $success-color
-  border: 3px solid $success-color
+  @include btn($success-color)
 
 .button-warning
-  @extend .button
-  background-color: $warning-color
-  border: 3px solid $warning-color
+  @include btn($warning-color)
