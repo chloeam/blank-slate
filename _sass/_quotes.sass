@@ -7,20 +7,19 @@ blockquote
   color: $text-color
   border-left: 4px solid $accent-color
   padding-left: $spacing-unit / 2
-  font-size: 24px
+  
 
   > p
-    margin-bottom: 0
+    +font-size(24, no, 30)
 
   cite 
-    font-size: 18px
+    +font-size(18)
     font-style: normal
 
 // Pull Quotes
 
 .pullquote-left
   width: 300px
-  font-size: 20px
   float: left
   margin-right: $spacing-unit
   margin-bottom: $spacing-unit
@@ -29,7 +28,6 @@ blockquote
 
 .pullquote-right
   width: 300px
-  font-size: 20px
   float: right
   margin-left: $spacing-unit
   margin-bottom: $spacing-unit

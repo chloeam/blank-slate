@@ -1,12 +1,15 @@
 #component-select
   display: block
-  width: 80%
+  //width: 80%
+  //+span-columns(6)
+  //+shift(3)
   margin: 0 auto
   margin-bottom: $spacing-unit
   font-family: $base-font
-  font-size: 3em
+  +font-size(16)
 
 .component
+  +outer-container
   border: 1px solid $gray-light
   border-radius: 5px
   //padding: $spacing-unit / 2
@@ -26,8 +29,16 @@
 .component-content
   margin: $spacing-unit / 2
 
+.component-rendered
+  +outer-container
+  margin-bottom: $spacing-unit / 2
+
+.component-code
+  +outer-container
+
 .color-tile
-  width: 24%
+  //width: 24%
+  +span-columns(2.8)
   height: 70px
   display: inline-block
   position: relative

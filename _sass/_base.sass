@@ -20,12 +20,16 @@ ul, ol, dl, figure,
 
 body
   font-family: $base-font
-  font-size: $doc-font-size
-  line-height: $doc-line-height
-  font-weight: 300
   color: $text-color
   background-color: $background-color
-  -webkit-text-size-adjust: 100%
+  +font-size(16, no)
+  font-weight: 300
+  //-webkit-text-size-adjust: 100%
+  //font-size: $doc-font-size
+  //line-height: $doc-line-height
+
+p 
+  +font-size(16, yes, 28)
 
 h1, h2, h3, h4, h5, h6
   font-family: $heading-font
@@ -33,14 +37,23 @@ h1, h2, h3, h4, h5, h6
   text-rendering: optimizeLegibility //fix spacing in headings
 
 h1
-  font-size: 3em
+  +font-size(36, $spacing-unit / 2)
 
 h2
-  font-size: 2em
+  +font-size(28, $spacing-unit / 2)
+
+h3
+  +font-size(22, $spacing-unit / 2)
+
+h4, h5, h6
+  +font-size(18, $spacing-unit / 2)
+
+// Header variations, use with extend
 
 .heading-thin
   font-size: 6em
   font-weight: 100
+  text-align: center
 
 .heading-thin-italic
   @extend .heading-thin
@@ -49,33 +62,30 @@ h2
 .heading-medium
   font-size: 6em
   font-weight: 500
+  text-align: center
 
 .heading-medium-italic
   @extend .heading-medium
   font-style: italic
 
 .heading-chunky
-  font-size: 6em
+  +font-size(86, $spacing-unit)
   font-weight: 900
+  text-align: center
 
 .heading-chunky-italic
   @extend .heading-chunky
   font-style: italic
 
 .tagline
-  font-size: 1.3em
-  display: block
-  max-width: 80%
-  margin: 0 auto
-  margin-bottom: $spacing-unit * 2
+  +font-size(22, $spacing-unit * 2)
   text-align: center
-
+  
   @media (max-width: 700px)
-    font-size: 1em
-    margin-bottom: $spacing-unit
+    +font-size(16, $spacing-unit)
 
   @media (max-width: 375px)
-    font-size: 0.8em
+    +font-size(14, $spacing-unit)
 
 // underlined text
 u, ins
@@ -119,22 +129,20 @@ li > a
     //text-decoration: underline
 
 
-// helper styling
-.center
-  text-align: center
+// helper styling, use with extend or in markdown
 
 .squish
-  width: 80%
-  margin: 0 auto
+  //width: 80%
+  //margin: 0 auto
   margin-bottom: $spacing-unit / 2
-
+  +span-columns(6)
+  +shift(3)
 
 // CODE FORMATTING
 
 pre,
 code
-  font-size: 14px
-  //border: 1px solid $gray-light
+  +font-size(14, no, 20)
   border-radius: 3px
   background-color: whitesmoke
 
@@ -162,7 +170,7 @@ figure > img
   display: block
 
 figcaption
-  font-size: $small-font-size
+  +font-size($small-font-size)
 
 
 // LISTS
@@ -171,27 +179,27 @@ ul, ol
   margin-left: $spacing-unit
 
 li
-  > ul,
-  > ol
-    margin-bottom: 0
+  +font-size(16, yes, 22)
 
 
 // WRAPPER
 
 .wrapper
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2))
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2))
-  margin-right: auto
-  margin-left: auto
-  padding-right: $spacing-unit
-  padding-left: $spacing-unit
-  @extend %clearfix
+  //max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2))
+  //max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2))
+  //margin-right: auto
+  //margin-left: auto
+  //padding-right: $spacing-unit
+  //padding-left: $spacing-unit
+  //@extend %clearfix
 
-  @media (max-width: $on-laptop)
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}))
-    max-width:         calc(#{$content-width} - (#{$spacing-unit}))
-    padding-right: $spacing-unit / 2
-    padding-left: $spacing-unit / 2
+  //@media (max-width: $on-laptop)
+    //max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}))
+    //max-width:         calc(#{$content-width} - (#{$spacing-unit}))
+    //padding-right: $spacing-unit / 2
+    //padding-left: $spacing-unit / 2
+  +outer-container
+  padding-top: $spacing-unit
 
 
 

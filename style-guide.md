@@ -7,7 +7,7 @@ permalink: /pattern-library/
 ---
 
 This is the pattern library: a living document of code detailing the various colors, typographic elements, UI patterns, and components used on the website to maintain visual consistency. Currently, the library is best viewed on a desktop or laptop device.
-{: .squish .tagline}
+{: .squish}
 
 {% assign entries = site.colors %}
 {% assign componentsByType = site.components | group_by:"type" %}
