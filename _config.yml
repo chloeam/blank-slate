@@ -18,6 +18,7 @@ instagram_username: chloe793
 # Build settings
 markdown: kramdown
 permalink: pretty
+gems: [bourbon, neat]
 
 collections:
   components:
