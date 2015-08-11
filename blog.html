@@ -6,19 +6,38 @@ current: blog
 ---
 
 <div class="blog">
-  <h1 class="heading-chunky-italic center">Blog Posts</h1>
+  <h1 class="blog-heading">Blog Posts</h1>
   <p class="tagline">Thoughts on design, art school, and front-end development</p>
 
   {% for post in site.categories.blog %}
     
     <div class="blog-preview">
       
-      <a class="post-title-index" href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
-      
       <p class="post-date-index">{{ post.date | date: "%b %-d, %Y" }}</p>
 
+      <a class="post-title-index" href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
+     
       <p class="post-tagline">{{ post.tagline }}</p>
     </div>
 
   {% endfor %}
+
+  <div class="blog-preview">
+      
+    <p class="post-date-index">Jul 12, 2014</p>
+
+    <a class="post-title-index" href="{{ post.url | prepend: site.baseurl }}"><h2>This Is a Post Title</h2></a>
+   
+    <p class="post-tagline">Test test test test</p>
+  </div>
+
+  <div class="blog-preview">
+      
+    <p class="post-date-index">Jul 12, 2014</p>
+
+    <a class="post-title-index" href="{{ post.url | prepend: site.baseurl }}"><h2>Test Title to Test Everything</h2></a>
+   
+    <p class="post-tagline">Test, yo</p>
+  </div>
+
 </div>
