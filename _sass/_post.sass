@@ -1,80 +1,48 @@
-.post
-  width: 80%
-  margin: 60px auto
-  overflow: hidden
+.post-title
+  +span-columns(10)
+  +shift(1)
+  +font-size(42)
 
-  @media (max-width: $header-break)
-    margin-top: $spacing-unit
-    margin-bottom: $spacing-unit
+  @media (max-width: $small)
+    +font-size(36)
 
-.post-title 
-  font-size: 42px
-  line-height: 1
-  margin-bottom: $spacing-unit
-  margin-left: $spacing-unit
-
-  @media (max-width: 850px)
-    margin-left: 0
-
-  @media (max-width: $on-laptop) 
-    font-size: 36px
-
-  @media (max-width: $header-break)
-    margin-bottom: $spacing-unit / 2
-
-  @media (max-width: $on-palm)
-    font-size: 1.8em
+  @media (max-width: $xsmall)
+    +font-size(30)
 
 .post-meta
-  float: left
-  width: 20%
-  margin-left: $spacing-unit
-  text-align: right
+  +span-columns(2.5)
+  +shift(1)
+  margin-top: $spacing-unit
 
-  @media (max-width: 850px)
-    margin-left: 0
+  > p
+    +font-size(14, yes, 22)
+    text-align: right
+
+    @media (max-width: $header-break)
+      text-align: left
 
   @media (max-width: $header-break)
-    float: none
-    text-align: left
-    width: auto
-    margin-bottom: $spacing-unit
-
-.post-date
-  margin-bottom: 0
+    +span-columns(11)
+    +shift(1)
+    margin-top: $spacing-unit / 4
 
 .post-content
-  float: right
-  width: 60%
-  margin-bottom: $spacing-unit
-  margin-right: 10%
+  +span-columns(7)
+  +omega
+  margin-top: $spacing-unit
+  
+  > ol, ul
+    margin-bottom: 0
 
-  h2 
-    font-size: 32px
+  > h2, h3, h4
+    margin-top: $spacing-unit
 
-    @media (max-width: $on-laptop) 
-      font-size: 28px  
-    
-  h3 
-    font-size: 26px
+  > h3
+    margin-bottom: 0
 
-    @media (max-width: $on-laptop) 
-      font-size: 22px
-
-  h4 
-    font-size: 20px
-
-    @media (max-width: $on-laptop) 
-      font-size: 18px
-
-  @media (max-width: 850px)
-    width: 70%
-    margin-right: 5%
+  .highlight
+    margin-top: $spacing-unit / 2
 
   @media (max-width: $header-break)
-    float: none
-    width: 100%
-    margin-right: 0
-  
-
-  
+    +span-columns(10)
+    +shift(1)

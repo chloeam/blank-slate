@@ -39,11 +39,20 @@ h1, h2, h3, h4, h5, h6
 h1
   +font-size(36, $spacing-unit / 2)
 
+  @media (max-width: $small)
+    +font-size(28, $spacing-unit / 2)
+
 h2
   +font-size(28, $spacing-unit / 2)
 
+  @media (max-width: $xsmall)
+    +font-size(26, $spacing-unit / 2)
+
 h3
   +font-size(22, $spacing-unit / 2)
+
+  @media (max-width: $xsmall)
+    +font-size(20, $spacing-unit / 2)
 
 h4, h5, h6
   +font-size(18, $spacing-unit / 2)
@@ -53,6 +62,7 @@ h4, h5, h6
 .heading-thin
   font-size: 6em
   font-weight: 100
+  margin-bottom: $spacing-unit / 2
   text-align: center
 
 .heading-thin-italic
@@ -62,6 +72,7 @@ h4, h5, h6
 .heading-medium
   font-size: 6em
   font-weight: 500
+  margin-bottom: $spacing-unit / 2
   text-align: center
 
 .heading-medium-italic
@@ -71,6 +82,7 @@ h4, h5, h6
 .heading-chunky
   +font-size(86, $spacing-unit)
   font-weight: 900
+  margin-bottom: $spacing-unit / 2
   text-align: center
 
 .heading-chunky-italic
@@ -199,7 +211,7 @@ li
     //padding-right: $spacing-unit / 2
     //padding-left: $spacing-unit / 2
   +outer-container
-  padding-top: $spacing-unit / 2
+  padding-top: $spacing-unit
 
 
 
