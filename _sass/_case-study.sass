@@ -1,44 +1,102 @@
+.feature-image
+  > img 
+    margin-bottom: 0
+
 .intro
-  width: 100%
-  text-align: center
-  margin-bottom: $spacing-unit * 2
+  +outer-container
+  margin-top: $spacing-unit
 
 .case-study-title
-  margin-bottom: 0
+  @extend .heading-thin-italic
+  +font-size(105, no, 1.7)
+  +span-columns(10)
+  +shift(1)
+
+  @media (max-width: $large)
+    +font-size(90, no)
+
+  @media (max-width: $medium)
+    +font-size(80, no)
+
+  @media (max-width: $header-break)
+    +font-size(70, no)
+
+  @media (max-width: $small)
+    +font-size(40, no)
 
 .case-study-tagline
-  font-size: 1.5em
+  +font-size(24, $spacing-unit / 2)
+  +span-columns(10)
+  +shift(1)
+  margin-top: $spacing-unit / 2
+  text-align: center
 
-.meta-info
-  width: 60%
-  margin: 0 auto
-  margin-bottom: $spacing-unit
-  overflow: hidden
+  @media (max-width: $large)
+    +font-size(22, $spacing-unit / 2)
+
+  @media (max-width: $medium)
+    +font-size(20, $spacing-unit / 2)
+
+  @media (max-width: $header-break)
+    +font-size(18, $spacing-unit / 2)
+
+  @media (max-width: $small)
+    +font-size(16, $spacing-unit / 2)
 
 .completed-date
-  float: left
-  width: 50%
+  +span-columns(3)
+  +shift(3)
+  text-align: center
+
+  @media (max-width: $header-break)
+    +span-columns(4)
+    +shift(2)
 
 .roles
-  float: left
-  width: 50%
+  +span-columns(3)
+  text-align: center
+
+  @media (max-width: $header-break)
+    +span-columns(4)
 
 .overview
-  @extend .squish
-  text-align: left
-  width: 30%
+  +span-columns(4)
+  +shift(4)
+  line-height: 1.5
+  margin-top: $spacing-unit
+  margin-bottom: $spacing-unit * 2
+
+  @media (max-width: $medium)
+    +span-columns(6)
+    +shift(3)
+
+  @media (max-width: $header-break)
+    +span-columns(8)
+    +shift(2)
 
 .overview-col
   @extend .overview
-  width: 60%
-  -webkit-column-count: 2
-  -moz-column-count: 2
-  column-count: 2
-  -webkit-column-gap: $spacing-unit
-  -moz-column-gap: $spacing-unit
-  column-gap: $spacing-unit
+  +span-columns(8)
+  +shift(2)
+  +columns(2)
+  +column-gap($spacing-unit)
+
+  @media (max-width: $medium)
+    +span-columns(10)
+    +shift(1)
+
+  @media (max-width: $small)
+    +span-columns(8)
+    +shift(2)
+    +columns(1)
+
+  @media (max-width: $xsmall)
+    +span-columns(10)
+    +shift(1)
 
 .case-study-content
+  +outer-container
+
   h1, h2, h3, h4, h5
     text-align: center
 
@@ -46,4 +104,16 @@
 
 #jeff
   width: 67%
-  margin: 0 auto
+
+  @media (max-width: $small)
+    +outer-container(50%)
+
+#chicago-flag
+  @media (max-width: $small)
+    +outer-container(50%)
+    display: block
+    //margin: 0 auto
+    //margin-bottom: $spacing-unit
+    
+
+

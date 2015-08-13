@@ -9,13 +9,12 @@ layout: default
 {% endif %}
 
 <div class="intro">
-  <h1 class="case-study-title heading-thin-italic">{{ page.title }}</h1>
+  <h1 class="case-study-title">{{ page.title }}</h1>
   <p class="case-study-tagline">{{ page.tagline }}</p>
   
-  <div class="meta-info">
-    <p class="completed-date">{{ page.date | date: "%B, %Y" }}</p>
-    <p class="roles">{{ page.roles }}</p>
-  </div>
+  
+  <p class="completed-date">{{ page.date | date: "%B, %Y" }}</p>
+  <p class="roles">{{ page.roles }}</p>
   
   {% if page.overview.size > 580 %}
     <p class="overview-col">{{ page.overview }}</p>

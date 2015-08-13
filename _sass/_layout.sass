@@ -1,11 +1,24 @@
 .half
   +span-columns(6)
+  +omega(2n)
+
+  > ul, ol
+    //display: block
+    //margin: 0 auto
+    //text-align: center
+    +span-columns(4 of 6)
+    +shift(1)
+
+  @media (max-width: $large)
+    padding-right: 10px
+    padding-left: 10px
 
   @media (max-width: $small)
     +span-columns(12)
 
 .third
   +span-columns(4)
+  +omega(3n)
 
   @media (max-width: $medium)
     +span-columns(12)
@@ -55,10 +68,7 @@
 
 
         
-.row
-  overflow: hidden
-  width: 80%
-  margin: 0 auto    
+   
 
 .left
   max-width: 48%
