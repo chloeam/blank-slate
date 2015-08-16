@@ -4,7 +4,7 @@ email: chloe793@gmail.com
 description: > # this means to ignore newlines until next variable
   Portfolio and blog of Chloe Atchue-Mamlet
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://chloeam.com" # the base hostname & protocol for your site
 repo: https://github.com/chloeam/chloeam.github.io
 
 # Social media
