@@ -65,7 +65,7 @@ In order to get crisp edges, there are a couple steps we need to take. We essent
 
 <a class="button" href="http://codepen.io/chloeam/pen/OVGZwg?editors=110" target="_blank">Codepen</a>
 
-Viola!
+Viol&agrave;!
 
 ## Adding a Grid
 

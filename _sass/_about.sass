@@ -3,11 +3,21 @@
   margin-top: $spacing-unit
   margin-bottom: $spacing-unit
 
+  @media (max-width: $large)
+    margin-bottom: 0
+
+  @media (max-width: $medium)
+    margin-top: 0
+
 .about-intro
   +outer-container
 
 .chloe
   +span-columns(3)
+
+  @media (max-width: $header-break)
+    +span-columns(4)
+    +shift(4)
 
 .about-tagline
   +span-columns(9)
@@ -21,6 +31,10 @@
     +font-size(38, $spacing-unit, 46)
     +span-columns(8)
 
+  @media (max-width: $header-break)
+    +shift(2)
+    +font-size(30, $spacing-unit / 2, 40)
+
 .about-content
   +span-columns(6)
   +font-size(20, no, 28)
@@ -28,6 +42,10 @@
   @media (max-width: 800px)
     +font-size(16, no, 22)
     +span-columns(8)
+
+  @media (max-width: $header-break)
+    +shift(2)
+    margin-bottom: $spacing-unit
 
 .cards
   +outer-container
@@ -41,21 +59,35 @@
       background-color: $gray-light
 
 .about-site
-  +span-columns(4)
+  @media (max-width: $header-break)
+    +span-columns(10)
+    +shift(1)
 
-  @media (max-width: 900px)
-    +span-columns(6)
+  //+span-columns(4)
+
+  //@media (max-width: 900px)
+    //+span-columns(6)
 
 .writing
-  +span-columns(4)
+  //+span-columns(4)
 
-  @media (max-width: 900px)
-    +span-columns(6)
-    +omega
+  > p
+    margin-bottom: $spacing-unit / 2
+
+  //@media (max-width: 900px)
+    //+span-columns(6)
+    //+omega
+
+  @media (max-width: $medium)
+    margin-top: $spacing-unit
+
+  @media (max-width: $header-break)
+    +span-columns(10)
+    +shift(1)
 
 .resume
-  +span-columns(4)
-  +omega
+  //+span-columns(4)
+  //+omega
 
   h3
     margin-bottom: 0
@@ -63,9 +95,22 @@
   .resume-date
     font-style: italic
 
-  @media (max-width: 900px)
-    +span-columns(12)
-    padding-top: $spacing-unit
+  @media (max-width: $medium)
+    margin-top: $spacing-unit
+
+  @media (max-width: $header-break)
+    +span-columns(10)
+    +shift(1)
+
+  //@media (max-width: 900px)
+    //+span-columns(12)
+    //padding-top: $spacing-unit
+
+  .work
+    margin-top: $spacing-unit / 2
+
+    > p 
+      margin-bottom: $spacing-unit / 2
 
 
 
