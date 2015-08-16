@@ -11,6 +11,8 @@ tags: Web Development, CSS
 
 I wanted to create a hover effect (currently seen on my portfolio page) where the picture blurs when the user hovers over it so the text on top is legible. Simple enough, right? There's even a handy little CSS `blur` filter. All you have to do is pass in an argument for the blur radius.
 
+For three years while I was at the University of Chicago, I was in an all-female a cappella group called Men in Drag. It is during those years that I gained a solid foundation in graphic design and realized that I wanted to be a designer. When I joined Men in Drag in 2011, the group was just starting to climb. It was getting national recognition for recordings, and that would be the first year that it entered a competition. I sensed the group would benefit from a more polished visual presence, so despite barely knowing Photoshop, I volunteered.
+
 ## The Problem
 
 Here is an image with the class `blur` that gives it the property `filter: blur(4px)`. As you can see, it looks simply horrendous.
