@@ -1,8 +1,7 @@
 # Site settings
 title: Chloe Atchue-Mamlet
 email: chloe793@gmail.com
-description: > # this means to ignore newlines until next variable
-  Portfolio and blog of Chloe Atchue-Mamlet
+description: "Chloe Atchue-Mamlet is a graphic design student and web enthusiast in Philadelphia, PA. This is her portfolio and blog."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chloeam.com" # the base hostname & protocol for your site
 repo: https://github.com/chloeam/chloeam.github.io
@@ -17,7 +16,7 @@ instagram_username: chloe793
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /blog/:title/
 gems: [bourbon, neat]
 
 collections:
