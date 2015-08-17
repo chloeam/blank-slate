@@ -7,7 +7,7 @@ permalink: /sitemap/
 ---
 
 <h1 class="sitemap-heading">Sitemap</h1>
-<p class="tagline">View the <a href="/sitemap.xml/">XML version</a> (for robots!)</p>
+<p class="tagline">View the <a href="/sitemap.xml">XML version</a> (for robots!)</p>
 
 <div class="sitemap col3">
   <ul id="primaryNav">
