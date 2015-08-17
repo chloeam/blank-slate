@@ -9,3 +9,4 @@ gem 'jekyll'
 gem 'github-pages', versions['github-pages']
 gem 'bourbon'
 gem 'neat'
+gem 'jekyll-sitemap'
