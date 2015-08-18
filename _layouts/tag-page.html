@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="tag-page wrapper">
+  <h1 class="blog-heading">{{ page.tag }}</h1>
+  
+  <p class="tagline">Posts tagged "{{ page.tag }}"</p>
+
+  {% for post in site.tags[page.tag] %}
+    {% include post-index.html %}
+  {% endfor %}
+
+</div>
