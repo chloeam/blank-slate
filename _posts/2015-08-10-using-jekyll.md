@@ -5,7 +5,7 @@ date: 2015-08-10
 description: Why would a graphic designer want to build her own site using Jekyll instead of using a Wordpress or Squarespace theme out of the box? The learning opportunity.
 tagline: The How and The Why of using Jekyll to build my portfolio and blog site
 categories: blog
-tags: [jekyll, web-development]
+tags: [Jekyll, Web Development]
 comments: true
 ---
 

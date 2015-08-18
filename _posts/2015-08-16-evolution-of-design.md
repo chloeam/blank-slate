@@ -5,7 +5,7 @@ date: 2015-08-16
 description: I saw a need for better design in my a cappella group and stepped up. Here, I take a look at all the work I did for the group and how it taught me design basics
 tagline: A look back on my design foundation
 categories: blog
-tags: [design, work, look-back]
+tags: [Design, Work, Look Back]
 comments: true
 ---
 
