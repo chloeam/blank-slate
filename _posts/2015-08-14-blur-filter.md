@@ -6,6 +6,7 @@ description: The CSS blur filter default behavior leaves the edges of a photo lo
 tagline: The blur filter leaves the edges of a photo looking horrible. Here's how to prevent that.
 categories: blog
 tags: Web Development, CSS
+comments: true
 ---
 
 ## The Goal
@@ -70,6 +71,7 @@ In order to get crisp edges, there are a couple steps we need to take. We essent
 
 Viol&agrave;!
 
+<!--
 ## Adding a Grid
 
-I wanted my photos displayed in a grid with no margins and the blur as a hover effect along with descriptive text. In order to do this, I needed to add to the underlying structure. I still need to use a wrapping div around the image for the blur effect, but I also need another div, `info`, for the text and another, `project-preview`, to contain both `blur-wrapper` and `info`. Each `project-preview` represents one portfolio project, and they are all contained in a div with the class of `portfolio`. 
+I wanted my photos displayed in a grid with no margins and the blur as a hover effect along with descriptive text. In order to do this, I needed to add to the underlying structure. I still need to use a wrapping div around the image for the blur effect, but I also need another div, `info`, for the text and another, `project-preview`, to contain both `blur-wrapper` and `info`. Each `project-preview` represents one portfolio project, and they are all contained in a div with the class of `portfolio`. -->
