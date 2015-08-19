@@ -5,6 +5,7 @@ description: "Chloe Atchue-Mamlet is a graphic design student and web enthusiast
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chloeam.com" # the base hostname & protocol for your site
 repo: https://github.com/chloeam/chloeam.github.io
+google_analytics_code: UA-66523344-1
 
 # Social media
 twitter_username: chloe793
