@@ -2,22 +2,53 @@
   @extend .heading-chunky-italic
 
 .blog-preview
-  +outer-container
-  margin-bottom: $spacing-unit
+  max-width: 1000px
+  margin: 30px auto
+  overflow: hidden
+
+  @media (max-width: $medium)
+    +span-columns(10)
+    +shift(1)
+    margin-top: $spacing-unit / 2
+    margin-bottom: $spacing-unit / 2
 
 .post-date-index
-  +span-columns(2)
-  +shift(2)
+  margin: 0
+  width: 20%
+  float: left
   text-align: right
-  //background-color: green
+  margin-right: 5%
+
+  @media (max-width: $medium)
+    float: none
+    width: auto
+    text-align: left
+    margin-bottom: $spacing-unit / 2
 
 .post-title-index
-  //background-color: pink
-  +span-columns(7)
+  width: 75%
+  float: right
+  padding-right: 10px
+  
+  h2
+    margin-bottom: $spacing-unit / 2
+
+    @media (max-width: $medium)
+      margin-bottom: 0
+  
+  @media (max-width: $medium)
+    float: none
+    padding-right: 0
 
 .post-tagline
-  //background-color: yellow
-  +span-columns(7)
-  +shift(4)
+  width: 75%
+  line-height: 20px
+  float: right
+  padding-right: 10px
+  
+  @media (max-width: $medium)
+    float: none
+    padding-right: 0
+    width: auto
 
 
