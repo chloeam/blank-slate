@@ -65,6 +65,15 @@ h4, h5, h6
   margin-bottom: $spacing-unit / 2
   text-align: center
 
+  @media (max-width: $medium)
+    +font-size(80, $spacing-unit)
+
+  @media (max-width: $small)
+    +font-size(60, $spacing-unit)
+
+  @media (max-width: $xsmall)
+    +font-size(40, $spacing-unit / 2)
+
 .heading-thin-italic
   @extend .heading-thin
   font-style: italic
@@ -75,6 +84,15 @@ h4, h5, h6
   margin-bottom: $spacing-unit / 2
   text-align: center
 
+  @media (max-width: $medium)
+    +font-size(80, $spacing-unit)
+
+  @media (max-width: $small)
+    +font-size(60, $spacing-unit)
+
+  @media (max-width: $xsmall)
+    +font-size(40, $spacing-unit / 2)
+
 .heading-medium-italic
   @extend .heading-medium
   font-style: italic
@@ -84,6 +102,15 @@ h4, h5, h6
   font-weight: 900
   margin-bottom: $spacing-unit / 2
   text-align: center
+
+  @media (max-width: $medium)
+    +font-size(80, $spacing-unit)
+
+  @media (max-width: $small)
+    +font-size(60, $spacing-unit)
+
+  @media (max-width: $xsmall)
+    +font-size(40, $spacing-unit / 2)
 
 .heading-chunky-italic
   @extend .heading-chunky
