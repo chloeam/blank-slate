@@ -107,7 +107,7 @@ h4, h5, h6
     +font-size(80, $spacing-unit)
 
   @media (max-width: $small)
-    +font-size(60, $spacing-unit)
+    +font-size(60, $spacing-unit / 2)
 
   @media (max-width: $xsmall)
     +font-size(40, $spacing-unit / 2)
@@ -120,11 +120,15 @@ h4, h5, h6
   +font-size(22, $spacing-unit * 2)
   text-align: center
   
+  @media (max-width: $medium)
+    +span-columns(10)
+    +shift(1)
+
   @media (max-width: 700px)
-    +font-size(16, $spacing-unit)
+    +font-size(16, $spacing-unit, 20)
 
   @media (max-width: 375px)
-    +font-size(14, $spacing-unit)
+    +font-size(14, $spacing-unit, 18)
 
 // underlined text
 u, ins
