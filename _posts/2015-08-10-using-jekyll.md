@@ -49,7 +49,7 @@ The core of Jekyll lies mostly in the `_includes`, `_layouts`, `_posts`, `_site`
 
 `_posts` is where you write the bulk of your content. To make a new post, you simply create a new Markdown or HTML file called `YYYY-MM-DD-your-title` with the current date and title. At the top of the file, you need to define a couple variables, called YAML front matter. Here is the front matter for this post: 
 
-{% highlight html %}
+{% highlight yaml %}
 ---
 layout: post
 title: "Using Jekyll: A Design Student Dives Into Front-End Development"
