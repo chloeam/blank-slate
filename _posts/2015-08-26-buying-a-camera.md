@@ -5,7 +5,7 @@ date: 2015-08-26
 description: I purchased a nice DSLR camera perfect for a beginner without knowing anything about photography by following a few simple steps. Anyone can do it.
 tagline: And how you can too
 categories: blog
-tags: [Tools, How-To, Design]
+tags: [Tools, How-To]
 comments: true
 ---
 
