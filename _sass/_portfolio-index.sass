@@ -54,13 +54,16 @@
 
   p
     font-family: $heading-font
-    font-weight: 200
+    font-weight: 300
     font-size: 1.3em
     font-style: italic
 
 .touch
-  width: 90%
-  margin: $spacing-unit auto
+  //width: 90%
+  //margin: $spacing-unit auto
+  +outer-container(90%)
+  max-width: $xlarge
+  margin-top: $spacing-unit
 
   .project-preview
     width: 21%
@@ -101,7 +104,7 @@
     top: default
     left: default
     transform: none
-    margin-top: $spacing-unit / 2
+    margin-top: 0
     text-align: left
 
     h2
