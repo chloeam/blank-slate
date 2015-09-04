@@ -99,6 +99,16 @@
 
   h1, h2, h3, h4, h5
     text-align: center
+    +span-columns(12)
+
+  p
+    +span-columns(12)
+
+    @media (max-width: 1100px)
+      padding: 0 15px
+
+  img 
+    margin-top: $spacing-unit / 2
 
 // IDs
 
