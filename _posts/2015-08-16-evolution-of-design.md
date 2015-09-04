@@ -59,7 +59,7 @@ Later that year we released a CD and had a huge concert to celebrate. I wanted t
 	<figcaption>The album cover</figcaption>
 </figure>
 
-<a href="#" class="button">See the rest of the album art</a>
+<!--<a href="#" class="button">See the rest of the album art</a>-->
 
 <figure>
 	<img src="/img/mid-album-poster.jpg" alt="Men in Drag album release concert poster">
