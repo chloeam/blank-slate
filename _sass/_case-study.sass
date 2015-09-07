@@ -1,6 +1,25 @@
 .feature-image
-  > img 
-    margin-bottom: 0
+  height: 88vh
+  width: 100vw
+  -webkit-background-repeat: no-repeat
+  -moz-background-repeat: no-repeat
+  -o-background-repeat: no-repeat
+  background-repeat: no-repeat
+  -webkit-background-position: center
+  -moz-background-position: center
+  -o-background-position: center
+  background-position: center
+  -webkit-background-size: cover
+  -moz-background-size: cover
+  -o-background-size: cover
+  background-size: cover
+  //background-attachment: fixed
+
+  @media (orientation: portrait)
+    height: 60vh
+
+  @media (max-width: 500px) and (orientation: portrait)
+    height: 40vh
 
 .intro
   +outer-container

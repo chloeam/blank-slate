@@ -3,8 +3,8 @@ layout: default
 ---
 
 {% if page.feature %}
-  <div class="feature-image">
-    <img src="{{ page.feature }}" alt="{{ page.title }}">
+  <div class="feature-image" style="background-image: url({% if page.feature %}{{ page.feature }}{% endif %})">
+    <!--<img src="{{ page.feature }}" alt="{{ page.title }}">-->
   </div>
 {% endif %}
 
