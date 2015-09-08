@@ -13,12 +13,17 @@
   -moz-background-size: cover
   -o-background-size: cover
   background-size: cover
+  background-attachment: fixed
 
   @media (orientation: portrait)
     height: 60vh
+    background-attachment: scroll
 
   @media (max-width: 500px) and (orientation: portrait)
     height: 40vh
+
+.shader
+  background-color: rgba(0,0,0,0.7)
 
 .intro
   +outer-container

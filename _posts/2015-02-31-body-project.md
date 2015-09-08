@@ -9,6 +9,7 @@ roles: Identity, Design
 categories: portfolio
 permalink: /portfolio/body-project
 cover: /img/bp-cover.jpg
+feature: /img/bp-feature.jpg
 
 overview: The University of Chicago Body Project works to promote a healthy body image to the UChicago community. As an official University organization, the logo had to comply with the University's graphic standards by using Gotham for the typeface and not straying outside the given color palette. The challenge was to create a recognizable and unique identity for an organization centered around body positivity while staying true to the University's brand.
 ---
