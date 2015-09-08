@@ -33,23 +33,3 @@ permalink: /sitemap/
     </li>
   </ul>
 </div>
-
-<!--<div class="sitemap">
-  <ul id="primaryNav">
-    <li id="home"><a href="{{ site.url }}/">Home</a></li>
-    <li><a href="{{ site.url }}/">Portfolio</a></li>
-      <ul class="secondary-nav">
-        {% for post in site.categories.portfolio %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
-    <li><a href="{{ site.url }}/blog/">Blog</a></li>
-      <ul class="secondary-nav">
-        {% for post in site.categories.blog %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
-    <li><a href="{{ site.url }}/about/">About</a></li>
-    <li><a href="{{ site.url }}/pattern-library/">Pattern Library</a></li>  
-  </ul>
-</div>-->

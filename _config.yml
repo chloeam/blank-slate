@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chloeam.com" # the base hostname & protocol for your site
 repo: https://github.com/chloeam/chloeam.github.io
 google_analytics_code: UA-66523344-1
+disqus_username: chloeam
 
 # Social media
 twitter_username: chloe793
@@ -25,11 +26,3 @@ collections:
     output: false
   colors:
     output: false
-
-#navigation:
-# - title: Portfolio
-#   url: /index.html
-# - title: Blog
-#   url: /blog/
-# - title: About
-#   url: /about/

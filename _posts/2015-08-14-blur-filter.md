@@ -52,7 +52,7 @@ In order to get crisp edges, there are a couple steps we need to take. We essent
 {% endhighlight %}
 
 #### SASS
-{% highlight sass %}
+{% highlight sass linenos %}
 .blur-wrapper
   width: 50%        // this is where you style the image width
   overflow: hidden  // clips feathery edges
