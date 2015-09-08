@@ -26,13 +26,11 @@
 @import "disqus";
 
 // PAGE
-@import
-        "layout",
-        "header",
-        "portfolio-index",
-        "case-study",
-        "blog",
-        "post",
-        "about",
-        "footer";
-;
+@import "layout";
+@import "header";
+@import "portfolio-index";
+@import "case-study";
+@import "blog";
+@import "post";
+@import "about";
+@import "footer";
