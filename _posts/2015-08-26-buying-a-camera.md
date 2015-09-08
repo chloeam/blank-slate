@@ -2,6 +2,7 @@
 layout: post
 title: "How I Bought a DSLR Camera Without Knowing Anything About Photography"
 date: 2015-08-26
+current: blog
 description: I purchased a nice DSLR camera perfect for a beginner without knowing anything about photography by following a few simple steps. Anyone can do it.
 tagline: And how you can too
 categories: blog

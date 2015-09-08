@@ -2,6 +2,7 @@
 layout: case-study
 title: Aquatic Stationery
 date: 2015-05-01
+current: portfolio
 description: Chloe Atchue-Mamlet illustrated a set of four whimsical aquatic-themed notecards with the goal of system unity.
 tagline: Finding the balance between whimsical and polished
 roles: Illustration

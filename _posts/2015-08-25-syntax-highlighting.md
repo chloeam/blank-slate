@@ -2,6 +2,7 @@
 layout: post
 title: "Changing Jekyll's Default Syntax Highlighting"
 date: 2015-08-25
+current: blog
 description: How I customized Jekyll's default syntax highlighting to be exactly as I wanted and tested it on several different programming languages
 tagline: Making things pretty
 categories: blog

@@ -2,6 +2,7 @@
 layout: case-study
 title: "UChicago Body Project"
 date: 2014-02-31
+current: portfolio
 description: Chloe Atchue-Mamlet designed an identity and collateral materials for the UChicago Body Project, a University organization centered around body positivity.
 tagline: Creating a recognizable identity within a larger brand
 roles: Identity, Design

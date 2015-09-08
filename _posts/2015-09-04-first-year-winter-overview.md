@@ -2,6 +2,7 @@
 layout: post
 title: "An Overview of My Second Quarter at Design School"
 date: 2015-09-04
+current: blog
 description: Chloe Atchue-Mamlet reviews the work she did during her second quarter of design school at Drexel University
 tagline: The work I did, the classes I took, and my feelings about it
 categories: blog

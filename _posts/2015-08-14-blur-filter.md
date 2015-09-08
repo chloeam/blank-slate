@@ -2,6 +2,7 @@
 layout: post
 title: "How To Get Crisp Edges with the CSS Blur Filter"
 date: 2015-08-14
+current: blog
 description: The CSS blur filter default behavior leaves the edges of a photo looking horrible. But you can prevent that with a few simple lines of code.
 tagline: The blur filter leaves the edges of a photo looking horrible. Here's how to prevent that.
 categories: blog
