@@ -32,18 +32,18 @@ Unfortunately, this class was more about mixing paint than it was about learning
 The first major project was to make an accurate 24-hue color wheel. We had all purchased color-aid paper, and our wheels had to match those hues exactly. This was a really hard project for me because I had never worked with colored paint (my swatches were never opaque), and ultimately I had to re-do it. The first wheel took about 8 hours and the second took about 12. Both were exhausting and boring to make, but I understand the purpose of the exercise.
 
 <figure>
-  <img src="/img/design-2-wheel-1.jpg" alt="First color wheel">
+  <img src="/img/design-2/wheel-1.jpg" alt="First color wheel">
   <figcaption>The first try</figcaption>
 </figure>
 
-<img src="/img/design-2-wheel-1-close.jpg" alt="First color wheel close-up">
+<img src="/img/design-2/wheel-1-close.jpg" alt="First color wheel close-up">
 
 <figure>
-  <img src="/img/design-2-wheel-2.jpg" alt="Second color wheel">
+  <img src="/img/design-2/wheel-2.jpg" alt="Second color wheel">
   <figcaption>The second try</figcaption>
 </figure>
 
-<img src="/img/design-2-wheel-2-close.jpg" alt="Second color wheel close-up">
+<img src="/img/design-2/wheel-2-close.jpg" alt="Second color wheel close-up">
 
 ### Scales
 
@@ -51,32 +51,32 @@ Scales are par for the course in a class like this. We did value scales, complem
 
 This first scale was one of our very first assignments, and it was to test our paints. We had to buy multiple pigments of red, yellow, and blue, so we needed to know what differentiated Cobalt Blue from Phthalocyanine Blue.
 
-<img src="/img/design-2-scale-3.jpg" alt="Experimental scales">
+<img src="/img/design-2/scale-3.jpg" alt="Experimental scales">
 
 It was really hard for me to get opaque swatches, which cost me a letter grade or two for each assignment.
 
-<img src="/img/design-2-scale-5.jpg" alt="Experimental scales close-up">
+<img src="/img/design-2/scale-5.jpg" alt="Experimental scales close-up">
 
 We made lots of value scales using tertiary colors:
 
-<img src="/img/design-2-scale-4.jpg" alt="Value scales of tertiary colors">
+<img src="/img/design-2/scale-4.jpg" alt="Value scales of tertiary colors">
 
 And we made several complementary scales, where you mix two complementary colors together to get a neutral:
 
-<img src="/img/design-2-scale-1.jpg" alt="Complementary color scale with neutral in the middle">
+<img src="/img/design-2/scale-1.jpg" alt="Complementary color scale with neutral in the middle">
 
 ### Same Design, Different Colors
 
 I thought this class would be mostly replicating the same design multiple times with different color schemes, but we only did it twice: once in paint, and once using color-aid paper to make a collage.
 
-<img src="/img/design-2-mosaic.jpg" alt="Mosaic in various color schemes">
+<img src="/img/design-2/mosaic.jpg" alt="Mosaic in various color schemes">
 
 The collage was fun to design but challenging to physically make because everything had to be inlaid, which I had never done before. This means that instead of sticking the paper on in multiple layers, it all has to lie smooth in one layer. To accomplish this, you have to cut several pieces at the same time so they fit perfectly together.
 
-<img src="/img/design-2-collage.jpg" alt="Collage in various color schemes">
+<img src="/img/design-2/collage.jpg" alt="Collage in various color schemes">
 
 <figure>
-  <img src="/img/design-2-collage-close.jpg" alt="Collage close-up">
+  <img src="/img/design-2/collage-close.jpg" alt="Collage close-up">
   <figcaption>Here, you can see where I messed up the inlay</figcaption>
 </figure>
 
@@ -84,16 +84,16 @@ The collage was fun to design but challenging to physically make because everyth
 
 My favorite project to complete was this still life, where we were given a black and white photo and had to paint it using complementary colors. I remember that I pulled an all-nighter for this and it took ages, but I loved doing it.
 
-<img src="/img/design-2-still-life.jpg" alt="Purple and orange still life painting">
+<img src="/img/design-2/still-life.jpg" alt="Purple and orange still life painting">
 
 ### Self Portrait
 
 For our final, we did self portraits. We had to use three hues (but multiple values of those hues), and we had to include a pattern around the border of the frame.
 
-<img src="/img/design-2-portrait.jpg" alt="Self portrait using blue, purple, and orange">
+<img src="/img/design-2/portrait.jpg" alt="Self portrait using blue, purple, and orange">
 
 <figure>
-  <img src="/img/design-2-portrait-close.jpg" alt="Self portrait close-up">
+  <img src="/img/design-2/portrait-close.jpg" alt="Self portrait close-up">
   <figcaption>This shot more accurately portrays the color</figcaption>
 </figure>
 
@@ -107,23 +107,23 @@ At the time, I was deciding between majoring in graphic design and product desig
 
 Our only real assignment for this class was the final, which was to redesign a product of our choice as if we were a specific designer that was assigned to us. I got Eva Zeisel, queen of organic forms and ceramic beauty. I studied her work, did a lot of sketches, and decided that a desposable bottle of lotion would be the perfect thing to redesign. As a ceramic designer, she would never make anything meant to be used and tossed, so my challenge was to make re-fillable a bottle of lotion that someone would want to keep on their bathroom counter for years.
 
-<img src="/img/pd-1.jpg" alt="Initial sketches of the lotion bottle redesign">
+<img src="/img/product-design/1.jpg" alt="Initial sketches of the lotion bottle redesign">
 
-<img src="/img/pd-2.jpg" alt="">
+<img src="/img/product-design/2.jpg" alt="">
 
-<img src="/img/pd-3.jpg" alt="">
+<img src="/img/product-design/3.jpg" alt="">
 
-<img src="/img/pd-4.jpg" alt="">
+<img src="/img/product-design/4.jpg" alt="">
 
-<img src="/img/pd-5.jpg" alt="">
+<img src="/img/product-design/5.jpg" alt="">
 
-<img src="/img/pd-6.jpg" alt="">
+<img src="/img/product-design/6.jpg" alt="">
 
 After completing a lot of sketches, we had to build a three-dimensional model of our product out of foam or cardboard. I was obviously influenced by Zeisel's love for organic forms, and I decided to make the pump shaped like a leaf, as Zeisel was also heavily influenced by nature. The final product would be white ceramic with a brushed metal pump.
 
-<img src="/img/pd-model.jpg" alt="Lotion bottle model">
+<img src="/img/product-design/model.jpg" alt="Lotion bottle model">
 
-<img src="/img/pd-model-2.jpg" alt="">
+<img src="/img/product-design/model-2.jpg" alt="">
 
 I absolutely loved this class, and like usual, I wanted more from it. I learned so much about a different area of design, and I loved thinking in this new way. Ultimately I chose not to major in product design because I have a hard time visualizing three-dimensional space, but I really loved learning more about it and trying it out.
 

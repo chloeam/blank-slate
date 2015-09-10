@@ -107,58 +107,58 @@ This was by far my favorite class this quarter. I knew going into it that it was
 
 Because this was an Illustrator course, we did a lot of vectorizing images. The first large project was taking a photo of a toy robot and producing a vector illustration of it without using gradients or transparent shapes. I ultimately had to do this twice because my first try was not nearly detailed enough. Here is my final:
 
-<img src="/img/ci-robot.jpg" alt="Silver robot">
+<img src="/img/computer-imaging-1/robot.jpg" alt="Silver robot">
 
-<img src="/img/ci-robot-close-body.jpg" alt="">
+<img src="/img/computer-imaging-1/robot-close-body.jpg" alt="">
 
-<img src="/img/ci-robot-close-head.jpg" alt="">
+<img src="/img/computer-imaging-1/robot-close-head.jpg" alt="">
 
 ### Self Portrait
 
 The second large project we had to do was a self portrait. With this project, we got a lot more creative freedom than we did with the robot project, and we were allowed to use gradients and transparent shapes. 
 
-<img src="/img/ci-portrait.jpg" alt="Self portrait">
+<img src="/img/computer-imaging-1/portrait.jpg" alt="Self portrait">
 
-<img src="/img/ci-portrait-close-eyes.jpg" alt="">
+<img src="/img/computer-imaging-1/portrait-close-eyes.jpg" alt="">
 
-<img src="/img/ci-portrait-close.jpg" alt="">
+<img src="/img/computer-imaging-1/portrait-close.jpg" alt="">
 
 ### Stationery
 
 For this project, we had to do four pattern-based illustrations that would look great together on a set of stationery. I chose an aquatic theme and wanted to make mine both whimsical and sophisticated. 
 
-<img src="/img/aquatic-stationery-orange.png" alt="Orange octopus illustration">
+<img src="/img/stationery/orange.png" alt="Orange octopus illustration">
 
-<img src="/img/aquatic-stationery-pink.png" alt="Pink octopus illustration with starfish">
+<img src="/img/stationery/pink.png" alt="Pink octopus illustration with starfish">
 
-<img src="/img/aquatic-stationery-light-blue.png" alt="Light blue octopus illustration with starfish and bubbles">
+<img src="/img/stationery/light-blue.png" alt="Light blue octopus illustration with starfish and bubbles">
 
-<img src="/img/aquatic-stationery-dark-blue.png" alt="Dark blue octopus illustration with starfish, bubbles, and fish">
+<img src="/img/stationery/dark-blue.png" alt="Dark blue octopus illustration with starfish, bubbles, and fish">
 
 <a class="button" href="/portfolio/aquatic-stationery/">View the portfolio piece</a>
 
 We then had to lasercut one aspect of the piece, and I chose the details on the octopi. This was my second time using the lasercutter, and I was slightly more adept than I was during my first time.
 
-<img src="/img/ci-stationery-laser.jpg" alt="Lasercut octopus pattern">
+<img src="/img/computer-imaging-1/stationery-laser.jpg" alt="Lasercut octopus pattern">
 
-<img src="/img/ci-stationery-laser-light.jpg" alt="">
+<img src="/img/computer-imaging-1/stationery-laser-light.jpg" alt="">
 
 ### Travel Campaign
 
 For our final, we had to design a travel campaign for a city of our choice, including a poster, postcard, and stamp. I chose Chicago, since it's where I had last lived. The campaign also had to be heavily influenced by a randomly-assigned artist, and I got Roy Lichtenstein. In addition to the pattern use and primary colors Lichtenstein employs, I drew inspiration from the [Chicago flag](https://en.wikipedia.org/wiki/Flag_of_Chicago), which is a huge part of the city's visual identity already. The elements I chose to illustrate are the John Hancock Center (as Chicago is known for skycrapers and had the world's first skyscraper) and the elevated train, which gives the city a distinct look. The slogan I wrote was "Rise High," which complements both the height of the Hancock center as well as the elevated train.
 
 <figure>
-  <img src="/img/chicago-poster.png" alt="Chicago poster featuring skyscraper and elevated train">
+  <img src="/img/chicago/poster.png" alt="Chicago poster featuring skyscraper and elevated train">
   <figcaption>Poster, 13" x 19"</figcaption>
 </figure>
 
 <figure>
-  <img src="/img/chicago-postcard.png" alt="Chicago postercard featuring skyscraper">
+  <img src="/img/chicago/postcard.png" alt="Chicago postercard featuring skyscraper">
   <figcaption>Postcard, 4" x 6"</figcaption>
 </figure>
 
 <figure>
-  <img src="/img/chicago-stamp.png" alt="Chicago stamp">
+  <img src="/img/chicago/stamp.png" alt="Chicago stamp">
   <figcaption>Stamp, 1.5" x 2"</figcaption>
 </figure>
 
