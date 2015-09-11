@@ -1,22 +1,26 @@
-# Site settings
+# Site-wide Settings
+
 title: Chloe Atchue-Mamlet
-email: chloe793@gmail.com
 description: "Chloe Atchue-Mamlet is a graphic design student and web enthusiast in Philadelphia, PA. This is her portfolio and blog."
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/. Don't change unless you know you should.
 url: "http://chloeam.com" # the base hostname & protocol for your site
 repo: https://github.com/chloeam/chloeam.github.io
 google_analytics_code: UA-66523344-1
-disqus_username: chloeam
 
-# Social media
+# Site Owner
+
+name: Chloe Atchue-Mamlet
+email: chloe793@gmail.com
 twitter_username: chloe793
 github_username:  chloeam
 codepen_username: chloeam
 linkedin_link: https://www.linkedin.com/pub/chloe-atchue-mamlet/ab/b74/6a0 #must provide whole url for linkedin
 behance_username: chloeam
 instagram_username: chloe793
+disqus_username: chloeam
 
-# Build settings
+# Jekyll settings
+
 markdown: kramdown
 permalink: /:categories/:title/
 gems: [bourbon, neat, jekyll-sitemap]

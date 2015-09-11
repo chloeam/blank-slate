@@ -14,11 +14,11 @@ I wanted to create a hover effect (currently seen on my portfolio page) where th
 
 Here is an image with the class `blur` that gives it the property `filter: blur(4px)`. As you can see, it looks simply horrendous.
 
-<img class="blur" src="/img/notecards-cover.png">
+<img class="blur" src="/img/stationery/cover.png" alt="Photo with fuzzy edges">
 
 #### HTML
 {% highlight html %}
-<img class="blur" src="/img/notecards-cover.png">
+<img class="blur" src="/img/stationery/cover.png">
 {% endhighlight %}
 
 #### SASS
@@ -37,14 +37,14 @@ In order to get crisp edges, there are a couple steps we need to take. We essent
 
 <div class="demonstration">
 	<div class="blur-wrapper">
-		<img class="blur-crisp" src="/img/notecards-cover.png">
+		<img class="blur-crisp" src="/img/stationery/cover.png" alt="Photo with crisp edges">
 	</div>
 </div>
 
 #### HTML
 {% highlight html %}
 <div class="blur-wrapper">
-  <img class="blur" src="/img/notecards-cover.png">
+  <img class="blur" src="/img/stationery/cover.png">
 </div>
 {% endhighlight %}
 
