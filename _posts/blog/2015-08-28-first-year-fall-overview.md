@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "An Overview of My First Quarter at Design School"
-date: 2015-08-28
-current: blog
 description: Chloe Atchue-Mamlet reviews the work she did during her first quarter of design school at Drexel University
 tagline: The work I did, the classes I took, and my feelings about it
-categories: blog
 tags: [School, Design, Work, Look Back]
-comments: true
+current: blog
 ---
 
 I promised myself that I would reflect on each quarter of design school as it happened, but I took a while to get this site up and running so I'm doing this 9 months after fall quarter ended. It's not ideal, but it'll work. Photographing all my work now was definitely more miserable than it would have been doing it as I went.
@@ -321,4 +317,4 @@ Every Drexel freshman has to take this class. In my college, it's taught by your
 
 The first quarter of design school was a marathon of me fumbling my way through really painting for the first time, realizing that I'd be spending a fortune at the local art supply store, and pushing through a class for which I had no natural talent. I worked really hard, really struggled, pulled all-nighters, and questioned my ability to get everything done, but not once did I question my choice to come here.
 
-<a class="button" href="{% post_url 2015-09-04-first-year-winter-overview %}">Read about winter quarter</a>
+<a class="button" href="{% post_url /blog/2015-09-04-first-year-winter-overview %}">Read about winter quarter</a>

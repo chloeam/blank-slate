@@ -18,7 +18,7 @@ instagram_username: chloe793
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:title/
+permalink: /:categories/:title/
 gems: [bourbon, neat, jekyll-sitemap]
 
 collections:
@@ -26,3 +26,22 @@ collections:
     output: false
   colors:
     output: false
+
+defaults:
+  -
+    scope:
+      path: "blog"
+      type: "posts"
+    values:
+      category: "blog"
+      layout: "post"
+      comments: "true"
+      current: blog
+  -
+    scope:
+      path: "portfolio"
+      type: "posts"
+    values:
+      category: "portfolio"
+      layout: "case-study"
+      current: portfolio

@@ -3,7 +3,6 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-08-04 10:58:13
 tagline: The default welcome post that every Jekyll site ever has
-categories: blog
 tags: [Jekyll, Web Development]
 published: false
 ---

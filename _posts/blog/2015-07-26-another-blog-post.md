@@ -3,7 +3,6 @@ layout: post
 title:  "Another Blog Post: This One's a Longer Title!"
 date:   2015-07-26
 tagline: Here is a blog post with some stuff. This stuff sure is interesting!
-categories: blog
 tags: Tags, Go, Jekyll, Here
 published: false
 ---

@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "An Overview of My Second Quarter at Design School"
-date: 2015-09-04
-current: blog
 description: Chloe Atchue-Mamlet reviews the work she did during her second quarter of design school at Drexel University
 tagline: The work I did, the classes I took, and my feelings about it
-categories: blog
 tags: [School, Design, Work, Look Back]
-comments: true
+current: blog
 ---
 
 Because I transferred to Drexel from another quarter-system school, I went into this knowing that winter quarter would be awful. It just always is, no matter which classes you're taking. Looking back, this does not look like a heavy workload (and it certainly doesn't compare to my spring quarter!), but I definitely felt stressed most of the time. It was a really hard quarter for me, but I pulled through in the end.
@@ -23,7 +19,7 @@ Because I transferred to Drexel from another quarter-system school, I went into 
 
 ## Design II
 
-This is Drexel's color theory class that all design students take their first year right after [Design I]({% post_url 2015-08-28-first-year-fall-overview %}#design-i), the black and white composition class. I was really looking forward to color theory because I love color, but it's always mystified me a little. I can find colors that look great together, but there's no sense of purpose when I select colors for a design project. I was excited to learn more about color and how to use it. 
+This is Drexel's color theory class that all design students take their first year right after [Design I]({% post_url /blog/2015-08-28-first-year-fall-overview %}#design-i), the black and white composition class. I was really looking forward to color theory because I love color, but it's always mystified me a little. I can find colors that look great together, but there's no sense of purpose when I select colors for a design project. I was excited to learn more about color and how to use it. 
 
 Unfortunately, this class was more about mixing paint than it was about learning how to use color well. We learned how to *make* colors, but not really what to do with them once the paint was mixed. 
 
@@ -143,4 +139,4 @@ This class is the second English class that all Drexel freshman need to take. We
 
 This class was pretty much the same as it was [last quarter](/blog/first-year-fall-overview/#the-drexel-experience).
 
-<a class="button" href="{% post_url 2015-09-10-first-year-spring-overview %}">Read about spring quarter</a>
+<a class="button" href="{% post_url /blog/2015-09-10-first-year-spring-overview %}">Read about spring quarter</a>

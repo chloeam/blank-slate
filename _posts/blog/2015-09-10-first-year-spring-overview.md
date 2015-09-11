@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "An Overview of My Third Quarter at Design School"
-current: blog
 description: Chloe Atchue-Mamlet reviews the work she did during her third quarter of design school at Drexel University
 tagline: The work I did, the classes I took, and my feelings about it
-categories: blog
 tags: [School, Design, Work, Look Back]
-comments: true
+current: blog
 ---
 
 ## Skip to a Section
@@ -21,7 +18,7 @@ comments: true
 
 ## Design III
 
-This is the three-dimensional design class that every Drexel freshman design student takes after [Design I]({% post_url 2015-08-28-first-year-fall-overview %}#design-i) (composition) and [Design II]({% post_url 2015-09-04-first-year-winter-overview %}#design-ii) (color theory). Unfortunately I don't have very good photos of these projects since they took up a lot of space in my apartment and I had to throw them out before I got my nice camera.
+This is the three-dimensional design class that every Drexel freshman design student takes after [Design I]({% post_url /blog/2015-08-28-first-year-fall-overview %}#design-i) (composition) and [Design II]({% post_url /blog/2015-09-04-first-year-winter-overview %}#design-ii) (color theory). Unfortunately I don't have very good photos of these projects since they took up a lot of space in my apartment and I had to throw them out before I got my nice camera.
 
 ### Relief
 
@@ -135,7 +132,7 @@ For this project, we had to do four pattern-based illustrations that would look 
 
 <img src="/img/stationery/dark-blue.png" alt="Dark blue octopus illustration with starfish, bubbles, and fish">
 
-<a class="button" href="{% post_url 2015-05-01-aquatic-stationery %}">View the portfolio piece</a>
+<a class="button" href="{% post_url /portfolio/2015-05-01-aquatic-stationery %}">View the portfolio piece</a>
 
 We then had to lasercut one aspect of the piece, and I chose the details on the octopi. This was my second time using the lasercutter, and I was slightly more adept than I was during my first time.
 
@@ -168,7 +165,7 @@ This was such a great class; I developed as a designer and became more adept at 
 
 ## Figure Drawing I
 
-Figure Drawing, like [Introductory Drawing]({% post_url 2015-08-28-first-year-fall-overview %}#introductory-drawing), was a hard class for me because I both hate and am bad at drawing. 
+Figure Drawing, like [Introductory Drawing]({% post_url /blog/2015-08-28-first-year-fall-overview %}#introductory-drawing), was a hard class for me because I both hate and am bad at drawing. 
 
 The first phase in our figure drawing education was gesture drawings of skeletons. The model would stand and pose for two minutes and we would just draw her bones.
 
