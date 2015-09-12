@@ -3,6 +3,7 @@ title: "An Overview of My Third Quarter at Design School"
 description: Chloe Atchue-Mamlet reviews the work she did during her third quarter of design school at Drexel University
 tagline: The work I did, the classes I took, and my feelings about it
 tags: [School, Design, Work, Look Back]
+feature: year-1-spring.jpg
 current: blog
 ---
 

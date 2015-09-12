@@ -3,6 +3,7 @@ title: "An Overview of My First Quarter at Design School"
 description: Chloe Atchue-Mamlet reviews the work she did during her first quarter of design school at Drexel University
 tagline: The work I did, the classes I took, and my feelings about it
 tags: [School, Design, Work, Look Back]
+feature: year-1-fall.jpg
 current: blog
 ---
 

@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+{% if page.feature %}
+  <div class="post-feature" style="background-image: url(/img/post-features/{{ page.feature }})">
+  </div>
+{% endif %}
+
 <div class="wrapper">
 
   <div class="post">
