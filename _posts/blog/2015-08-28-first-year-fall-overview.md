@@ -11,15 +11,7 @@ I promised myself that I would reflect on each quarter of design school as it ha
 
 The first term of design school was tough, but I learned a lot. I took two studio classes: Design I, which was a black and white composition class, and Introductory Drawing, a black and white drawing class that gave everyone some basic skills. The other classes I took were not art- or design-related.
 
-## Skip to a Section
-
-* [Design I](#design-i)
-* [Introductory Drawing](#introductory-drawing)
-* Non-Design Classes
-	* [Composition and Rhetoric I](#composition-and-rhetoric-i-freshman-english)
-	* [Still-Deciding](#still-deciding)
-	* [The Drexel Experience](#the-drexel-experience)
-* [Conclusion](#conclusion)
+{% include toc.html %}
 
 ## Design I
 
@@ -28,6 +20,7 @@ This is your typical black and white composition class that all design students 
 We started with line and made our way through shape, form, space, and texture while learning about value, symmetry, composition, scale, proportion, weight, balance, unity, harmony, and [Gestalt principles](http://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/). I used a lot of paint that quarter.
 
 ### Line
+{:.no_toc}
 
 This was our first assignment. With black pen (I used a Sharpie, oops) we had to produce 8 compositions with various specifications on 6" x 6" board. The first had to be mostly rectilinear (straight) lines with curvilinear (not straight) accents, the second had to be the opposite, the third had to have dashed lines, etc. 
 
@@ -78,6 +71,7 @@ I think this was overall a very successful project (with some boards being bette
 </figure>
 
 ### Figure-Ground Reversal
+{:.no_toc}
 
 The first project we did using shapes was about figure-ground reversal. We had to produce four compositions: rectilinear symmetrical, rectilinear asymmetrical, curvilinear symmetrical, and curvilinear asymmetrical. This was the most fun project for me to complete. 
 
@@ -88,6 +82,7 @@ I'm really happy with the first three, but I think the bottom right is a little 
 <img src="/img/design-1/fgr-sketch.jpg" alt="figure-ground reversal sketches">
 
 ### Space
+{:.no_toc}
 
 Next, we started dealing with multiple values (we made a 9 value grayscale in class) and how two-dimensional shapes can create the illusion of space. We also started using paint.
 
@@ -112,6 +107,7 @@ Next, we started dealing with multiple values (we made a 9 value grayscale in cl
 </figure>
 
 ### Mood
+{:.no_toc}
 
 I loved this project. We had just learned about open and closed composition and how they can create different moods. Here, we had to produce 4 pieces on 8" x 8" board using specified compositional techniques to create certain moods.
 
@@ -136,6 +132,7 @@ I loved this project. We had just learned about open and closed composition and 
 </figure>
 
 ### Abstraction of a Still Life
+{:.no_toc}
 
 For the next project, our professor set up a still life in the center of the room and we had to sketch it realistically, then abstract it based on our sketch. We then painted the abstraction. 
 
@@ -152,6 +149,7 @@ For the next project, our professor set up a still life in the center of the roo
 I feel like I didn't get too much from this project. Apples and water bottles are simple enough shapes that abstracting them is really easy. I wonder if it would have been a better exercise to abstract something more difficult like a human face.
 
 ### Texture
+{:.no_toc}
 
 This was my favorite assignment because it was so experimental and open-ended. Our professor basically just told us to play with paint and see what we could do. We had to produce pieces that portrayed four different kinds of texture: tactile, visual, pattern, and collage. The pieces also had to look like they belonged together.
 
@@ -190,6 +188,7 @@ Together, there is a purposeful rhythm to the pieces. The tactile piece is very 
 </figure>
 
 ### The Final
+{:.no_toc}
 
 For our final, we had to compose eight 8" x 8" boards that went together in a series. We had to move from line to shape to form, then back to shape to line again, and we had to employ some sort of rhythm throughout the collection that tied everything together.
 

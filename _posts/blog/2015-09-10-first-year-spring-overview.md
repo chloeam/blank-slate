@@ -7,21 +7,14 @@ feature: year-1-spring.jpg
 current: blog
 ---
 
-## Skip to a Section
-
-* [Design III](#design-iii)
-* [Computer Imaging I](#computer-imaging-i)
-* [Figure Drawing I](#figure-drawing-i)
-* [Art History: High Renaissance to Modern](#art-history-high-renaissance-to-modern)
-* Non-Design Classes
-  * [Internship in Literary Publishing](#internship-in-literary-publishing)
-  * [Civic Engagement](#civic-engagement)
+{% include toc.html %}
 
 ## Design III
 
 This is the three-dimensional design class that every Drexel freshman design student takes after [Design I]({% post_url /blog/2015-08-28-first-year-fall-overview %}#design-i) (composition) and [Design II]({% post_url /blog/2015-09-04-first-year-winter-overview %}#design-ii) (color theory). Unfortunately I don't have very good photos of these projects since they took up a lot of space in my apartment and I had to throw them out before I got my nice camera.
 
 ### Relief
+{:.no_toc}
 
 For our first project, we slowly grew accustomed to thinking in three dimensions by making a relief based on architectural photos. We built the reliefs out of white museum board, and I remember really having a tough time getting everything to line up.
 
@@ -30,6 +23,7 @@ For our first project, we slowly grew accustomed to thinking in three dimensions
 <img src="/img/design-3/relief-right.jpg" alt="">
 
 ### Boxes
+{:.no_toc}
 
 Our second project was to create sixteen identical boxes out of paper and glue them into a 4 x 4 grid. The boxes couldn't just be cubes; they had to be intricate. I decided to make a two-layered box that would create interesting shadows in the light.
 
@@ -55,6 +49,7 @@ Our second project was to create sixteen identical boxes out of paper and glue t
 <img src="/img/design-3/boxes-close.jpg" alt="">
 
 ### Negative Volume
+{:.no_toc}
 
 For the third project, we had to create a sculpture of a negative space out of cardboard. I chose the space created by the open window in our classroom. The hardest part about this project was how big it was (almost three feet long) and learning how to create beveled joints with tape.
 
@@ -67,6 +62,7 @@ Creating that faceted curve on the front was also rather difficult; I had to mak
 <img src="/img/design-3/volume-tall.jpg" alt="">
 
 ### Serial Planes
+{:.no_toc}
 
 This project was fun because there were several stages, and I used the lasercutter for the first time. First, we filled balloons with plaster and formed little sculptures as the plaster set. When we took the balloons off, we were left with unique organic forms. We then had to approximate that form using a series of twenty flat planes that we would then glue together.
 
@@ -88,6 +84,7 @@ Another part of the project was deciding how the sculpture should be displayed. 
 <img src="/img/design-3/planes-final.jpg" alt="Serial planes project standing on its platform">
 
 ### Final
+{:.no_toc}
 
 For our final project, we were each a given random object we had never seen before and told to build a support structure that would showcase it. I had to make a structure for a seashell, and there were specific height and width requirements. I thought it would be interesting to only show part of the shell because when you find a shell in the sand, you often only see part of it. I also wanted to reference the natural pattern on the shell in the structure, so I cut windows out of the bristol that mimicked it. I'm not too happy with the way it turned out, but I was so rushed at the end of the quarter and I did my best.
 
@@ -102,6 +99,7 @@ Despite having an excellent professor, this class was really difficult for me, a
 This was by far my favorite class this quarter. I knew going into it that it was technical course where we'd learn Adobe Illustrator. Because I've been working with Illustrator for years, I expected to be bored and not really learn anything. To my surprise, I was learning things about the program by the second week! 
 
 ### Robot
+{:.no_toc}
 
 Because this was an Illustrator course, we did a lot of vectorizing images. The first large project was taking a photo of a toy robot and producing a vector illustration of it without using gradients or transparent shapes. I ultimately had to do this twice because my first try was not nearly detailed enough. Here is my final:
 
@@ -112,6 +110,7 @@ Because this was an Illustrator course, we did a lot of vectorizing images. The 
 <img src="/img/computer-imaging-1/robot-close-head.jpg" alt="">
 
 ### Self Portrait
+{:.no_toc}
 
 The second large project we had to do was a self portrait. With this project, we got a lot more creative freedom than we did with the robot project, and we were allowed to use gradients and transparent shapes. 
 
@@ -122,6 +121,7 @@ The second large project we had to do was a self portrait. With this project, we
 <img src="/img/computer-imaging-1/portrait-close.jpg" alt="">
 
 ### Stationery
+{:.no_toc}
 
 For this project, we had to do four pattern-based illustrations that would look great together on a set of stationery. I chose an aquatic theme and wanted to make mine both whimsical and sophisticated. 
 
@@ -142,6 +142,7 @@ We then had to lasercut one aspect of the piece, and I chose the details on the 
 <img src="/img/computer-imaging-1/stationery-laser-light.jpg" alt="">
 
 ### Travel Campaign
+{:.no_toc}
 
 For our final, we had to design a travel campaign for a city of our choice, including a poster, postcard, and stamp. I chose Chicago, since it's where I had last lived. The campaign also had to be heavily influenced by a randomly-assigned artist, and I got Roy Lichtenstein. In addition to the pattern use and primary colors Lichtenstein employs, I drew inspiration from the [Chicago flag](https://en.wikipedia.org/wiki/Flag_of_Chicago), which is a huge part of the city's visual identity already. The elements I chose to illustrate are the John Hancock Center (as Chicago is known for skycrapers and had the world's first skyscraper) and the elevated train, which gives the city a distinct look. The slogan I wrote was "Rise High," which complements both the height of the Hancock center as well as the elevated train.
 
@@ -221,6 +222,7 @@ I drew this on the very last day of class in a two minute pose, and it's the mos
 <img src="/img/figure-drawing/gesture-man.jpg" alt="Charcoal gesture drawing of a man lying down">
 
 ### The Final
+{:.no_toc}
 
 For the final, we had to produce two pieces: a copy of another artist's work and a piece in the style of that artist. I chose Rockwell Kent's [*The Lookout*](https://www.artsy.net/artwork/rockwell-kent-the-lookout). It's like nothing I've ever done before, and I love his bold, graphic style.
 
@@ -251,3 +253,7 @@ This was an internship, but because it was run by a Drexel organization and I wa
 ### Civic Engagement
 
 Every Drexel student must take Civic Engagement: our version of community service. We meet once per week to discuss what it means to volunteer and be a part of a community, and we volunteer for ten hours throughout the quarter for an organization of our choice. Because I love kids and tutoring, I worked with [US Dream Academy](http://www.usdreamacademy.org/).
+
+## Conclusion
+
+Spring quarter was very difficult for me, and I was so relieved when it was over. Often, the quarter system feels like a long sprint. At the very end, I declared as a graphic design major, and I really look forward to starting the bulk of the curriculum next fall. 

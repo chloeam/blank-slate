@@ -9,14 +9,7 @@ current: blog
 
 Because I transferred to Drexel from another quarter-system school, I went into this knowing that winter quarter would be awful. It just always is, no matter which classes you're taking. Looking back, this does not look like a heavy workload (and it certainly doesn't compare to my spring quarter!), but I definitely felt stressed most of the time. It was a really hard quarter for me, but I pulled through in the end.
 
-## Skip to a Section
-
-* [Design II](#design-ii)
-* [History and Analysis of Product Design](#history-and-analysis-of-product-design)
-* [Art History: Early to Late Modern](#art-history-early-to-late-modern)
-* Non-Design Classes
-  * [Composition and Rhetoric II](#composition-and-rhetoric-ii)
-  * [The Drexel Experience](#the-drexel-experience)
+{% include toc.html %}
 
 ## Design II
 
@@ -25,6 +18,7 @@ This is Drexel's color theory class that all design students take their first ye
 Unfortunately, this class was more about mixing paint than it was about learning how to use color well. We learned how to *make* colors, but not really what to do with them once the paint was mixed. 
 
 ### The Color Wheel
+{:.no_toc}
 
 The first major project was to make an accurate 24-hue color wheel. We had all purchased color-aid paper, and our wheels had to match those hues exactly. This was a really hard project for me because I had never worked with colored paint (my swatches were never opaque), and ultimately I had to re-do it. The first wheel took about 8 hours and the second took about 12. Both were exhausting and boring to make, but I understand the purpose of the exercise.
 
@@ -43,6 +37,7 @@ The first major project was to make an accurate 24-hue color wheel. We had all p
 <img src="/img/design-2/wheel-2-close.jpg" alt="Second color wheel close-up">
 
 ### Scales
+{:.no_toc}
 
 Scales are par for the course in a class like this. We did value scales, complementary scales, and experimental, "what happens when I mix these colors together?" scales.
 
@@ -63,6 +58,7 @@ And we made several complementary scales, where you mix two complementary colors
 <img src="/img/design-2/scale-1.jpg" alt="Complementary color scale with neutral in the middle">
 
 ### Same Design, Different Colors
+{:.no_toc}
 
 I thought this class would be mostly replicating the same design multiple times with different color schemes, but we only did it twice: once in paint, and once using color-aid paper to make a collage.
 
@@ -78,12 +74,14 @@ The collage was fun to design but challenging to physically make because everyth
 </figure>
 
 ### Complementary Still Life
+{:.no_toc}
 
 My favorite project to complete was this still life, where we were given a black and white photo and had to paint it using complementary colors. I remember that I pulled an all-nighter for this and it took ages, but I loved doing it.
 
 <img src="/img/design-2/still-life.jpg" alt="Purple and orange still life painting">
 
 ### Self Portrait
+{:.no_toc}
 
 For our final, we did self portraits. We had to use three hues (but multiple values of those hues), and we had to include a pattern around the border of the frame.
 
@@ -101,6 +99,7 @@ Overall, I feel like I became a better painter in this class, but not a better d
 At the time, I was deciding between majoring in graphic design and product design. Because of this, I took an introductory product design class to help me decide. 
 
 ### Redesigning A Bottle of Lotion
+{:.no_toc}
 
 Our only real assignment for this class was the final, which was to redesign a product of our choice as if we were a specific designer that was assigned to us. I got Eva Zeisel, queen of organic forms and ceramic beauty. I studied her work, did a lot of sketches, and decided that a desposable bottle of lotion would be the perfect thing to redesign. As a ceramic designer, she would never make anything meant to be used and tossed, so my challenge was to make re-fillable a bottle of lotion that someone would want to keep on their bathroom counter for years.
 
