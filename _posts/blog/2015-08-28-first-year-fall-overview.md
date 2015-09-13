@@ -5,6 +5,7 @@ tagline: The work I did, the classes I took, and my feelings about it
 tags: [School, Design, Work, Look Back]
 feature: year-1-fall.jpg
 current: blog
+comments: true
 ---
 
 I promised myself that I would reflect on each quarter of design school as it happened, but I took a while to get this site up and running so I'm doing this 9 months after fall quarter ended. It's not ideal, but it'll work. Photographing all my work now was definitely more miserable than it would have been doing it as I went.

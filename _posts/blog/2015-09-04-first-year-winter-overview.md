@@ -5,6 +5,7 @@ tagline: The work I did, the classes I took, and my feelings about it
 tags: [School, Design, Work, Look Back]
 feature: year-1-winter.jpg
 current: blog
+comments: true
 ---
 
 Because I transferred to Drexel from another quarter-system school, I went into this knowing that winter quarter would be awful. It just always is, no matter which classes you're taking. Looking back, this does not look like a heavy workload (and it certainly doesn't compare to my spring quarter!), but I definitely felt stressed most of the time. It was a really hard quarter for me, but I pulled through in the end.

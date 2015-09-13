@@ -5,6 +5,7 @@ tagline: The How and The Why of using Jekyll to build my portfolio and blog site
 tags: [Jekyll, Web Development]
 feature: using-jekyll.png
 current: blog
+comments: true
 ---
 
 The site you are looking at now is the product of months of work. Although it woudn't normally take that long to make such a simple site, I was learning how to do so much for the first time, and I made a lot of missteps along the way. The biggest was overcomplicating the end goal: I first tried to build this site using Ruby on Rails. Now yes, that is insane, but I didn't really know what RoR was or what it should be used for. I just knew that everyone said that I should learn it, and that the best way to learn was through doing an actual project. The project I cared most about was my own website. It wasn't until I realized that maybe I was making this more complicated than it needed to be that I looked into other solutions. 

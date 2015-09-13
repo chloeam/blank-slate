@@ -4,6 +4,7 @@ description: I purchased a nice DSLR camera perfect for a beginner without knowi
 tagline: And how you can too
 tags: [Tools, How-To]
 current: blog
+comments: true
 ---
 
 ## Assess Your Needs

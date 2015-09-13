@@ -4,6 +4,7 @@ description: I saw a need for better design in my a cappella group and stepped u
 tagline: A look back on my design foundation
 tags: [Design, Work, Look Back]
 current: blog
+comments: true
 ---
 
 For three years while I was at the University of Chicago, I was in an all-female a cappella group called <a href="http://menindrag.org/" target="_blank">Men in Drag</a>. It is during those years that I gained a solid foundation in graphic design and realized that I wanted to be a designer. When I joined Men in Drag in 2011, the group was just starting to climb. It was getting national recognition for recordings, and that would be the first year that it entered a competition. I sensed the group would benefit from a more polished visual presence, so despite barely knowing Photoshop, I volunteered. 

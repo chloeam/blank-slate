@@ -4,6 +4,7 @@ description: How I customized Jekyll's default syntax highlighting to be exactly
 tagline: Making things pretty
 tags: [Jekyll, Web Development, How-To]
 current: blog
+comments: true
 ---
 
 Because I like everything to be nice and pretty, I wanted to change Jekyll's default syntax highlighting theme. Along my internet travels, I had come across [Arch Wilhes's site](http://0a.io/) and found his highlighting theme to be gorgeous. When looking at his source code, I saw that he had adapted it from [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme), which was built by Chris Kempson for text editors. So I decided to adapt it as well, with a few adjustments along the way.

@@ -4,6 +4,7 @@ description: The CSS blur filter default behavior leaves the edges of a photo lo
 tagline: The blur filter leaves the edges of a photo looking horrible. Here's how to prevent that.
 tags: [Web Development, CSS]
 current: blog
+comments: true
 ---
 
 ## The Goal

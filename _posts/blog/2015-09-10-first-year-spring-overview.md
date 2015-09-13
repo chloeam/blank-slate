@@ -5,6 +5,7 @@ tagline: The work I did, the classes I took, and my feelings about it
 tags: [School, Design, Work, Look Back]
 feature: year-1-spring.jpg
 current: blog
+comments: true
 ---
 
 {% include toc.html %}
