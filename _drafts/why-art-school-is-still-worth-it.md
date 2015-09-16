@@ -3,6 +3,8 @@ title: Why Art School Is Still Worth It
 description: "It's your portfolio that matters, right? People are making it without a design degree now more than ever, but there are many reasons why art school is still worth it."
 tagline: "More and more people are making it without a degree and leading people to question the value of art school, but here's why it's still worth your while"
 tags: [School]
+comments: true
+current: blog
 ---
 
 Today more than ever before, education is open source. Because of this, anyone with an internet connection, an interest, and drive can learn design. This has a lot of people wondering whether a formal art or design education is still worth it. In this business, it's your portfolio that gets you the job, right? 
