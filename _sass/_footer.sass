@@ -1,19 +1,19 @@
 .site-footer 
   border-top: 1px solid $gray-light
-  padding: $spacing-unit 0
   text-align: center
+  padding-bottom: $spacing-unit
 
   p
     width: 80%
     margin: 0 auto
 
 .social-media-nav
-  margin-top: $spacing-unit / 2
-  margin-bottom: $spacing-unit
-
-  .icon
-    padding-left: 10px
-    padding-right: 10px
+  width: 80%
+  max-width: 400px
+  +display(flex)
+  -webkit-justify-content: space-around
+  justify-content: space-around
+  margin: $spacing-unit auto
 
 .twitter:hover
   path
