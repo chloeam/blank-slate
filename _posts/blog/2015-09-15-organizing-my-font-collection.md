@@ -11,7 +11,7 @@ Like most designers, I have a substantial collection of typefaces, and this summ
 
 ## Why I Need a Font Manager
 
-Font managers allow you to, well, manage your fonts. I can scroll through all the typefaces installed on my computer and preview text, group them into categories, and activate or deactivate them. This last feature is very useful if, like me, you have over 1,000 typefaces that you've installed over the years and your computer is starting to lag when you try to load the list in an application. With a font manager, I can have the couple typefaces I'm using for a specific client or project grouped together and I can deactivate everything except those. That way, the only typefaces to choose from are the relevant ones to the project.
+Font managers allow you to, well, manage your fonts. I can scroll through all the typefaces installed on my computer and preview text, group them into categories, and activate or deactivate them. This last feature is very useful if, like me, you have over 1,000 typefaces that you've installed over the years and your computer is starting to lag when you try to load the list in an application. With a font manager, I can have the couple typefaces I'm using for a specific client or project grouped together and can deactivate everything except those. That way, the only typefaces to choose from are the relevant ones to the project.
 
 <div class="notice-info">
   <h4>The Difference Between a Font and a Typeface</h4>
@@ -56,7 +56,7 @@ I also created a couple sets I knew would be useful even though they are not cla
 * Licensed Personal: for free fonts that are only licensed for personal use
 * Ornaments
 * Small Caps
-* One set for each source from which I've downloaded fonts (Google Fonts, Font Squirrel, etc.)
+* One set for each source from which I've downloaded fonts ([Google Fonts](https://www.google.com/fonts), [Font Squirrel](http://www.fontsquirrel.com/), etc.)
 * One set for each client, containing the typefaces in their identity (this list will grow)
 * Superfamilies (like Alegreya or Roboto, which have serif and sans serif families)
 
