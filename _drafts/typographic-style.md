@@ -9,6 +9,8 @@ current: blog
 
 Dry, long read filled with flowery prose. Not textbook-y enough to indicate it's a reference book, but not prosy enough to indicate it should be read in one sitting. Bringhurst's writing sits in the purgatory between prose and didactic, leaving no indication as to whether this book should be read cover-to-cover or used for reference. It's awfully dry to read straight through, but the sparse table of contents leads me to believe that it's meant to be and we're just supposed to suck it up.
 
+He takes paragrphs to say what doesn't need to be said at all.
+
 "Typography makes at least two kinds of sense, if it makes any sense at all. It makes visual sense and historical sense" -9
 
 "By all means break the rules, and break them beautifully, deliberately and well" -10

@@ -24,6 +24,17 @@ layout: default
     </div>
 
     <article class="post-content">
+      {% if page.book.stars %}
+        <p class="stars">{{ page.book.stars }}</p>
+      {% endif %}
+
+      {% if page.book.quote %}
+        <blockquote>
+          <p>{{ page.book.quote }}</p>
+          <p><cite>{{ page.book.author }}, {{ page.book.title }}</cite></p>
+        </blockquote>
+      {% endif %}
+
       {{ content }}
     </article>
 
