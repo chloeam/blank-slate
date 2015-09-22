@@ -8,7 +8,7 @@ current: blog
 book: 
   title: "Don't Make Me Think: A Common Sense Approach to Web and Mobile Usability"
   author: Steve Krug
-  stars: "&#9733;&#9733;&#9733;&#9733;&#9733;"
+  stars: 5
 layout: post
 ---
 

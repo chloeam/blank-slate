@@ -25,7 +25,11 @@ layout: default
 
     <article class="post-content">
       {% if page.book.stars %}
-        <p class="stars">{{ page.book.stars }}</p>
+        <p class="stars">
+          {% for i in (1..page.book.stars) %}
+            &#9733; <!--symbol for black star-->
+          {% endfor %}
+        </p>
       {% endif %}
 
       {% if page.book.quote %}
