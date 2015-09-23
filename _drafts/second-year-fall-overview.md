@@ -21,8 +21,12 @@ I was so stoked for this class! Typography is a huge component of graphic design
 
 ## Computer Imaging II
 
+This is the second class in a series of three technical classes in the Adobe software. The first taught us Illustrator, and this one taught us Photoshop. On the first day, our professor emphasized that he wasn't so much teaching us Photoshop as he was teaching us how to be comfortable learning how to use software on our own. He showed us the basics, and it's up to us to do the rest. 
+
 ## Photography I
 
 This black and white digital photography course was all about learning the basics and starting to explore. In the very first class we went over how to properly expose a photo by adusting shutter speed, aperture, and ISO, and I was completely overwhelmed. 
 
 ## Art History: High Renaissance to Modern
+
+I had this class once per week for 3 hours, and boy did it feel like 3 hours. 

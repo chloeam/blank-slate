@@ -1,18 +1,22 @@
 ---
-title: "Dont Make Me Think: A Review"
+title: "Dont Make Me Think by Steve Krug: A Review"
 description: "A review of Steve Krug's Don't Make Me Think Revisited, A Common Sense Approach to Web and Mobile Usability by design student, Chloe Atchue-Mamlet"
-tagline: "Will go here someday"
+tagline: "An excellent book for aspiring web and interactive designers"
 tags: [Design, Book Reviews, Web Development]
 comments: true
 current: blog
 book: 
   title: "Don't Make Me Think: A Common Sense Approach to Web and Mobile Usability"
   author: Steve Krug
-  stars: 5
-layout: post
+  overall: 5
+  informational: 5
+  readability: 5
+  enjoyability: 4
 ---
 
 *Don't Make Me Think* by Steve Krug reads like part guidebook, part essay on why usability is important, how to do usability testing, and how to solve some common usability problems. If you're interested in web design or development, or any kind of interactive design, I cannot recommend this book enough.
+
+{% include toc.html %}
 
 ## Summary
 
@@ -81,3 +85,5 @@ I was always taught that in the design world, form follows function. Which is to
 One place I disagreed with Krug was in his mobile section. He says, "The siren song of one-design-fits-all-screen-sizes has a long history of bright hopes, broken promises, and weary designers and developers. If there are two things I can tell you about scalable design (aka dynamic layout, fluid design, adaptive design, and responsive design), they're these: it tends to be a lot of work, it's very hard to do it well." 
 
 I know I'm new to usability and web design in general, but I've only ever had bad experiences on mobile sites. Responsive sites, though hard to make, allow for a better experience in my opinion. That's also the direction I've seen the field heading. 
+
+Ultimately, this is a great book. It was informative and a joy to read (Krug cracks jokes and has cartoons throughout), and it opened my mind to a new way of thinking. I highly recommend it!

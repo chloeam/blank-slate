@@ -24,9 +24,9 @@ layout: default
     </div>
 
     <article class="post-content">
-      {% if page.book.stars %}
+      {% if page.book.overall %}
         <p class="stars">
-          {% for i in (1..page.book.stars) %}
+          {% for i in (1..page.book.overall) %}
             &#9733; <!--symbol for black star-->
           {% endfor %}
         </p>

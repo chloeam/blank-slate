@@ -1,5 +1,5 @@
 ---
-title: "The Elements of Typographic Style: A Review"
+title: "The Elements of Typographic Style by Robert Bringhurst: A Review"
 description: "A review of Robert Bringhurst's The Elements of Typographic Style by design student, Chloe Atchue-Mamlet"
 tagline: The tagline will go here some day
 tags: [Design, Book Reviews]
