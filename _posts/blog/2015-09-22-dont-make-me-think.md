@@ -12,6 +12,7 @@ book:
   informational: 5
   readability: 5
   enjoyability: 4
+feature: dont-make-me-think-cover.jpg
 ---
 
 *Don't Make Me Think* by Steve Krug reads like part guidebook, part essay on why usability is important, how to do usability testing, and how to solve some common usability problems. If you're interested in web design or development, or any kind of interactive design, I cannot recommend this book enough.
@@ -38,6 +39,8 @@ There is also a whole chapter describing how people use the web. Basically, they
 
 The thing I learned that stuck with me the most applies to both web and print design: don't have floating headings. Headings should be closer to the content below them than above them. This makes it clear what section the heading belongs to. 
 
+<img src="/img/dont-make-me-think/headings.jpg" alt="Steve Krug shows us what good and bad headings look like in his book, Don't Make Me Think">
+
 Krug states in the beginning that he wouldn't provide a list of hard-and-fast rules to follow when desigining or developing. However, there were several points he hit pretty hard:
 
 ### Design Rules
@@ -51,6 +54,8 @@ Krug states in the beginning that he wouldn't provide a list of hard-and-fast ru
 * Include a search bar. There are tons of users who search instead of browse.
 * Include a title on every page
 * Tabs are great but only if there's a clear connection between the current tab and the content, and there's a contrast in color between the current tab and the inactive ones.
+
+<img src="/img/dont-make-me-think/tabs.jpg" alt="Steve Krug shows us what good and bad tabs look like in his book, Don't Make Me Think">
 
 ### Copyrighting Rules
 
@@ -87,3 +92,5 @@ One place I disagreed with Krug was in his mobile section. He says, "The siren s
 I know I'm new to usability and web design in general, but I've only ever had bad experiences on mobile sites. Responsive sites, though hard to make, allow for a better experience in my opinion. That's also the direction I've seen the field heading. 
 
 Ultimately, this is a great book. It was informative and a joy to read (Krug cracks jokes and has cartoons throughout), and it opened my mind to a new way of thinking. I highly recommend it!
+
+<img src="/img/dont-make-me-think/chart.jpg" alt="">
