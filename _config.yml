@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/. Don't change unless you kno
 url: "http://chloeam.com" # the base hostname & protocol for your site
 repo: https://github.com/chloeam/chloeam.github.io
 google_analytics_code: UA-66523344-1
-rss_feed: "http://chloeam/feed.xml"
+rss_feed: "http://chloeam.com/feed.xml"
 
 # Site Owner
 
