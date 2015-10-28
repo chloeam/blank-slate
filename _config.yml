@@ -41,7 +41,7 @@ defaults:
       category: "blog"
       layout: "post"
       comments: "true"
-      current: blog
+      current: "blog"
   -
     scope:
       path: "portfolio"
