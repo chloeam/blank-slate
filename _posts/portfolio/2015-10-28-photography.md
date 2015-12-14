@@ -4,7 +4,7 @@ current: portfolio
 description: Chloe Atchue-Mamlet shares the photos she took in her first photography class.
 tagline: 
 roles: Photography
-cover: /img/photography/cover.jpg
+cover: /img/photography-1/cover.jpg
 published: false
 
 overview: In this introductory photography class, we focused on organization and composition of the photograph without relying on subject for context. We had to use the viewfinder to compose each image, and could only make small tonal edits in Photoshop.

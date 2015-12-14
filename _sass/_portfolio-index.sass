@@ -1,13 +1,21 @@
 .project-grid
   overflow: hidden
-  max-width: $screen-big
+  //max-width: $screen-big
 
 .project-preview
-  width: 25%
-  padding-bottom: 25%
+  width: 16.66%
+  padding-bottom: 16.66%
   position: relative
   float: left
   overflow: hidden
+
+  @media (max-width: 2000px)
+    width: 20%
+    padding-bottom: 20%
+
+  @media (max-width: 1500px)
+    width: 25%
+    padding-bottom: 25%
 
   @media (max-width: 1000px)
     width: 33.33%
