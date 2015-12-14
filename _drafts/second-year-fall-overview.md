@@ -5,11 +5,14 @@ tagline: The work I did, the classes I took, and my feelings about it
 tags: [School, Design, Work, Look Back]
 comments: true
 current: blog
+feature: year-2-fall.jpg
+category: blog
+layout: post
 ---
 
-{% include toc.html %} 
-
 I was so excited to start this school year. Last year, most of my classes were outside my major. Having a foundation year to learn the basics of design before you get into the specifics of your chosen field is pretty typical of art or design school. This year however, I dove into graphic design! Three out of five of my classes were in the graphic design department, and the other two were art classes of some sort. 
+
+{% include toc.html %} 
 
 ## Visual Communications I
 
@@ -28,7 +31,7 @@ We then got to use lines and dots and could choose our own words. I thought usin
 
 We tied it all together with a twenty-second animation on one of the compositions. I chose to animate "grow." We were supposed to make a gif animation using Photoshop, but I grew frustrated with it and decided to learn Adobe After Effects instead. I really enjoyed that.
 
-<img src="/img/viscom-1/grow.gif" alt="Grow animation">
+<iframe src="https://player.vimeo.com/video/148748531" width="500" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Object Series
 {:.no_toc}
@@ -63,24 +66,22 @@ Our professor was very into process, so all of our projects showed an expanded i
 
 For our first project, we created two-letter typographic marks. For the first stage, we had to use Garamond, Baskerville, Bodoni, Clarendon, and Futura to make letter pairs highlighting either the letters' similarities or differences. We then picked our favorites and continued to refine them until we got something that looked like it could be a logo. I made two: one more serious and the other whimsical.
 
-<img src="/img/typography-1/qo-main-1.jpg" alt="">
-<img src="/img/typography-1/qo-main-2.jpg" alt="">
-<img src="/img/typography-1/qo-main-3.jpg" alt="">
-<img src="/img/typography-1/qo-main-4.jpg" alt="">
-<img src="/img/typography-1/qo-main-5.jpg" alt="">
-<img src="/img/typography-1/qo-main-6.jpg" alt="">
-<img src="/img/typography-1/qo-main-7.jpg" alt="">
-<img src="/img/typography-1/qo-main-8.jpg" alt="">
-<img src="/img/typography-1/qo-main-9.jpg" alt="">
-<img src="/img/typography-1/qo-main-10.jpg" alt="">
+<img src="/img/typography-1/qo-main.jpg" alt="">
 
 <img src="/img/typography-1/qo-secondary-1.jpg" alt="">
+
 <img src="/img/typography-1/qo-secondary-2.jpg" alt="">
+
 <img src="/img/typography-1/qo-secondary-3.jpg" alt="">
+
 <img src="/img/typography-1/qo-secondary-4.jpg" alt="">
+
 <img src="/img/typography-1/qo-secondary-5.jpg" alt="">
+
 <img src="/img/typography-1/qo-secondary-6.jpg" alt="">
+
 <img src="/img/typography-1/qo-secondary-7.jpg" alt="">
+
 <img src="/img/typography-1/qo-secondary-8.jpg" alt="">
 
 ### Structure and Chaos
@@ -91,33 +92,49 @@ The rest of the class focused on expressive typography compositions based around
 For the first project, we created three free-form compositions for structure and chaos each, using those words in the compositions. The first had to use ten words, and the other two had to use many more, but be based on that first composition. I absolutely loved this project. 
 
 <img src="/img/typography-1/structure-scale-1.jpg" alt="">
+
 <img src="/img/typography-1/structure-scale-2.jpg" alt="">
+
 <img src="/img/typography-1/structure-scale-3.jpg" alt="">
 
 <img src="/img/typography-1/chaos-scale-1.jpg" alt="">
+
 <img src="/img/typography-1/chaos-scale-2.jpg" alt="">
+
 <img src="/img/typography-1/chaos-scale-3.jpg" alt="">
 
 The second project was about adapting shape into type and creating interesting textures. We created line and dot compositions (line for structure, dot for chaos) and translated them into five compositions using type, increasing in complexity.
 
 <img src="/img/typography-1/structure-line-1.jpg" alt="">
+
 <img src="/img/typography-1/structure-line-2.jpg" alt="">
+
 <img src="/img/typography-1/structure-line-3.jpg" alt="">
+
 <img src="/img/typography-1/structure-line-4.jpg" alt="">
+
 <img src="/img/typography-1/structure-line-5.jpg" alt="">
 
 <img src="/img/typography-1/chaos-dot-1.jpg" alt="">
+
 <img src="/img/typography-1/chaos-dot-2.jpg" alt="">
+
 <img src="/img/typography-1/chaos-dot-3.jpg" alt="">
+
 <img src="/img/typography-1/chaos-dot-4.jpg" alt="">
+
 <img src="/img/typography-1/chaos-dot-5.jpg" alt="">
 
 For the last project, we translated photos into a type composition. We took the photos ourselves, and they had to show either a structured system or a chaotic one. I took a picture of my mom's kitchen. We then translated the photos into black and white compositions using simple shapes, and adapted those into type compositions. We could use any words we wanted this time, but they had to be related to the photo. In the end, I had three type compositions.
 
 <img src="/img/typography-1/photo-interpretation-1.jpg" alt="">
+
 <img src="/img/typography-1/photo-interpretation-2.jpg" alt="">
+
 <img src="/img/typography-1/photo-interpretation-3.jpg" alt="">
+
 <img src="/img/typography-1/photo-interpretation-4.jpg" alt="">
+
 <img src="/img/typography-1/photo-interpretation-5.jpg" alt="">
 
 This class certainly wasn't what I was expecting. I was surprised to focus so much on typographic compositions as opposed to learning about typography and placing type into more real-world scenarios. Still, the compositions were fun to produce and I definitely got more comfortable working with type.
@@ -162,55 +179,75 @@ Each assignment consisted of taking 100 photos, narrowing them down to 25 favori
 
 Our first project was capturing photos showing an interesting relationship between positive and negative space. These photos were supposed to transcend subject, so what the photo looked like was much more important than the thing I was taking a picture of. 
 
-<img src="/img/photography/leaves.jpg" alt="">
-<img src="/img/photography/sky.jpg" alt="">
-<img src="/img/photography/stairs.jpg" alt="">
-<img src="/img/photography/lamp.jpg" alt="">
-<img src="/img/photography/curtain.jpg" alt="">
+<img src="/img/photography-1/leaves.jpg" alt="">
+
+<img src="/img/photography-1/sky.jpg" alt="">
+
+<img src="/img/photography-1/stairs.jpg" alt="">
+
+<img src="/img/photography-1/lamp.jpg" alt="">
+
+<img src="/img/photography-1/curtain.jpg" alt="">
 
 ### Volume, Space, and Scale
 {:.no_toc}
 
 For the second project, all 100 of our photos had to be taken in a large public building and show volume, space, or contrast of scale. I chose the Philadelphia Museum of Art because of its classical architecture and the fact that I could pretend to take photos of art while in fact taking photos of people. 
 
-<img src="/img/photography/duchamp.jpg" alt="">
-<img src="/img/photography/gallery.jpg" alt="">
-<img src="/img/photography/skyline.jpg" alt="">
-<img src="/img/photography/welcome.jpg" alt="">
-<img src="/img/photography/welcome2.jpg" alt="">
+<img src="/img/photography-1/duchamp.jpg" alt="">
+
+<img src="/img/photography-1/gallery.jpg" alt="">
+
+<img src="/img/photography-1/skyline.jpg" alt="">
+
+<img src="/img/photography-1/welcome.jpg" alt="">
+
+<img src="/img/photography-1/welcome2.jpg" alt="">
 
 ### Organic and Geometric Shapes
 {:.no_toc}
 
 The aim of this project was to capture contrasting geometric and organic shapes in the same photo.
 
-<img src="/img/photography/cushion.jpg" alt="">
-<img src="/img/photography/wires.jpg" alt="">
-<img src="/img/photography/evo.jpg" alt="">
-<img src="/img/photography/slainte.jpg" alt="">
-<img src="/img/photography/reflection.jpg" alt="">
+<img src="/img/photography-1/cushion.jpg" alt="">
+
+<img src="/img/photography-1/wires.jpg" alt="">
+
+<img src="/img/photography-1/evo.jpg" alt="">
+
+<img src="/img/photography-1/slainte.jpg" alt="">
+
+<img src="/img/photography-1/reflection.jpg" alt="">
 
 ### Street Photography
 {:.no_toc}
 
 This one was particularly difficult for me. We had to take photos of strangers on the street, and I'm a pretty timid person. Because of this, I focused on the composition of each photo more than getting up in people's faces.
 
-<img src="/img/photography/belgravia.jpg" alt="">
-<img src="/img/photography/girls.jpg" alt="">
-<img src="/img/photography/kid.jpg" alt="">
-<img src="/img/photography/look.jpg" alt="">
-<img src="/img/photography/station.jpg" alt="">
+<img src="/img/photography-1/belgravia.jpg" alt="">
+
+<img src="/img/photography-1/girls.jpg" alt="">
+
+<img src="/img/photography-1/kid.jpg" alt="">
+
+<img src="/img/photography-1/look.jpg" alt="">
+
+<img src="/img/photography-1/station.jpg" alt="">
 
 ### Portraits
 {:.no_toc}
 
 This project was to take portraits of people we knew. Unlike with street photography, it was with their permission and we could direct them into particular poses. I loved this one, and my subjects are my boyfriend and my two roommates.
 
-<img src="/img/photography/michael-bed.jpg" alt="">
-<img src="/img/photography/michael-2.jpg" alt="">
-<img src="/img/photography/nelou-serious.jpg" alt="">
-<img src="/img/photography/nelou-laugh.jpg" alt="">
-<img src="/img/photography/sydni.jpg" alt="">
+<img src="/img/photography-1/michael-bed.jpg" alt="">
+
+<img src="/img/photography-1/michael-2.jpg" alt="">
+
+<img src="/img/photography-1/nelou-serious.jpg" alt="">
+
+<img src="/img/photography-1/nelou-laugh.jpg" alt="">
+
+<img src="/img/photography-1/sydni.jpg" alt="">
 
 This class was hard for me becuase I was working with a camera in a way I never had before, but I really enjoyed my shooting sessions each week. I'm looking forward to my intermediate photography class winter quarter.
 
