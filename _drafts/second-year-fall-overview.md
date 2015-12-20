@@ -14,7 +14,7 @@ I was so excited to start this school year. Last year, most of my classes were o
 
 {% include toc.html %} 
 
-## Visual Communications I
+## Visual Communication I
 
 This class is somewhat similar to Design I from last year in that they both focus on abstract black and white compositions, but Visual Communications is a little more specialized. On the first day, my professor kept saying that we were learning a new language&mdash;how to communicate abstract concepts visually.
 
