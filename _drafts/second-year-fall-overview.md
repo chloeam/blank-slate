@@ -16,7 +16,7 @@ I was so excited to start this school year. Last year, most of my classes were o
 
 ## Visual Communication I
 
-This class is somewhat similar to Design I from last year in that they both focus on abstract black and white compositions, but Visual Communications is a little more specialized. On the first day, my professor kept saying that we were learning a new language&mdash;how to communicate abstract concepts visually.
+This class is somewhat similar to Design I from last year in that they both focus on abstract black and white compositions, but Visual Communication is a little more specialized. On the first day, my professor kept saying that we were learning a new language&mdash;how to communicate abstract concepts visually.
 
 This class would also place a heavy focus on craft, as we were producing these compositions by hand using nothing but black pens and gouache. 
 
@@ -25,18 +25,102 @@ This class would also place a heavy focus on craft, as we were producing these c
 
 This was a series of twelve compositions and one twenty-second gif animation portraying concepts using just black and white dots and lines. We got a list of words, including "misanthropic", "lively", and "rebuke", and had to communicate those words abstractly. First, we used black and white dots only, and we had to use exactly five. I depicted "heavy", "choke", erupt", and "emerge".
 
-Next, we had to use lines only. I portrayed "acclivity", "cadence", "decelerate", and "forlorn".
+<figure>
+  <img src="/img/viscom-1/heavy.jpg" alt="heavy composition">
+  <figcaption>Heavy</figcaption>
+</figure>
 
-We then got to use lines and dots and could choose our own words. I thought using lines and dots together would be easier, but it was actually much more difficult for me. I did "grow", "attack", "bounce", and "protrude". 
+<figure>
+  <img src="/img/viscom-1/choke.jpg" alt="choke composition">
+  <figcaption>Choke</figcaption>
+</figure>
 
-We tied it all together with a twenty-second animation on one of the compositions. I chose to animate "grow." We were supposed to make a gif animation using Photoshop, but I grew frustrated with it and decided to learn Adobe After Effects instead. I really enjoyed that.
+<figure>
+  <img src="/img/viscom-1/erupt.jpg" alt="erupt composition">
+  <figcaption>Erupt</figcaption>
+</figure>
+
+<figure>
+  <img src="/img/viscom-1/emerge.jpg" alt="emerge composition">
+  <figcaption>Emerge</figcaption>
+</figure>
+
+Next, we had to use lines only, but each line could be as thick as we wanted. I portrayed "acclivity", "cadence", "decelerate", and "forlorn".
+
+<figure>
+  <img src="/img/viscom-1/acclivity.jpg" alt="acclivity composition">
+  <figcaption>Acclivity</figcaption>
+</figure>
+
+<figure>
+  <img src="/img/viscom-1/cadence.jpg" alt="cadence composition">
+  <figcaption>Cadence</figcaption>
+</figure>
+
+<figure>
+  <img src="/img/viscom-1/decelerate.jpg" alt="decelerate composition">
+  <figcaption>Decelerate</figcaption>
+</figure>
+
+<figure>
+  <img src="/img/viscom-1/forlorn.jpg" alt="forlorn composition">
+  <figcaption>Forlorn</figcaption>
+</figure>
+
+We then got to use lines and dots and could choose our own words. We had to use at least three lines and at least three dots. I thought using lines and dots together would be easier, but it was actually much more difficult for me. I did "grow", "attack", "bounce", and "protrude". 
+
+<figure>
+  <img src="/img/viscom-1/grow.jpg" alt="grow composition">
+  <figcaption>Grow</figcaption>
+</figure>
+
+<figure>
+  <img src="/img/viscom-1/attack.jpg" alt="attack composition">
+  <figcaption>Attack</figcaption>
+</figure>
+
+<figure>
+  <img src="/img/viscom-1/bounce.jpg" alt="bounce composition">
+  <figcaption>Bounce</figcaption>
+</figure>
+
+<figure>
+  <img src="/img/viscom-1/protrude.jpg" alt="protrude composition">
+  <figcaption>protrude</figcaption>
+</figure>
+
+We tied it all together with a twenty-second animation on one of the compositions. I chose to animate "grow." We were supposed to make a gif animation using Photoshop, but I grew frustrated with it and decided to learn Adobe After Effects instead. I really enjoyed the process.
+
+Because my "grow" composition shows an object growing through time, I decided to represent my composition in the animation rather than directly translate it.
 
 <iframe src="https://player.vimeo.com/video/148748531" width="500" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Object Series
 {:.no_toc}
 
-For the second series in the class, we abstracted common mechanical objects. I chose a whisk as I was attracted to its curved forms. 
+For the second series in the class, we abstracted common mechanical objects. I chose a whisk as I was attracted to its curved forms. My goals were to abstract the whisk so much that you could barely tell what it was and to end up with four very different compositions that appeared to go together in a system.
+
+I got such interesting forms by taking very close-up pictures of the whisk while playing with the depth of field. I then brought the photos into Photoshop and increased the contrast significantly and cropped them, then I traced each composition onto bristol board and filled them in with gouache.
+
+<img src="/img/viscom-1/whisk1.jpg" alt="whisk composition">
+
+<img src="/img/viscom-1/whisk2.jpg" alt="">
+
+<img src="/img/viscom-1/whisk3.jpg" alt="">
+
+<img src="/img/viscom-1/whisk4.jpg" alt="">
+
+The next project introduced type into the mix. We had to combine a single character with an image of our object and make two compositions.
+
+<img src="/img/viscom-1/type-single-1.jpg" alt="">
+
+<img src="/img/viscom-1/type-single-2" alt="">
+
+We then had to use multiple characters and multiple images of our objects to make two compositions.
+
+<img src="/img/viscom-1/type-multiple-1.jpg" alt="">
+
+<img src="/img/viscom-1/type-multiple-2.jpg" alt="">
 
 ### Architecture Series
 {:.no_toc}
@@ -64,9 +148,9 @@ Our professor was very into process, so all of our projects showed an expanded i
 ### Type Combinations
 {:.no_toc}
 
-For our first project, we created two-letter typographic marks. For the first stage, we had to use Garamond, Baskerville, Bodoni, Clarendon, and Futura to make letter pairs highlighting either the letters' similarities or differences. We then picked our favorites and continued to refine them until we got something that looked like it could be a logo. I made two: one more serious and the other whimsical.
+For our first project, we created two-letter typographic marks. For the first stage, we had to use Garamond, Baskerville, Bodoni, Clarendon, and Futura to make letter pairs highlighting either the letters' similarities or differences. We then picked our favorites and continued to refine them until we got something that looked like it could be a logo. I made two out of Q and O: one more serious and the other whimsical.
 
-<img src="/img/typography-1/qo-main.jpg" alt="">
+<img src="/img/typography-1/qo-main.jpg" alt="Logos using the letters Q and O">
 
 <img src="/img/typography-1/qo-secondary-1.jpg" alt="">
 
