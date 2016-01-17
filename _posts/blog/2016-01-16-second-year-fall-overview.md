@@ -6,8 +6,6 @@ tags: [School, Design, Work, Look Back]
 comments: true
 current: blog
 feature: year-2-fall.jpg
-category: blog
-layout: post
 ---
 
 I was so excited to start this school year. Last year, most of my classes were outside my major. Having a foundation year to learn the basics of design before you get into the specifics of your chosen field is pretty typical of art or design school. This year however, I dove into graphic design! Three out of five of my classes were in the graphic design department, and the other two were art classes of some sort. 

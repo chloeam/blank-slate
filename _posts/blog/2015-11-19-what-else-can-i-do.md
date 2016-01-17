@@ -5,7 +5,6 @@ tagline: On pushing your work further by yourself
 tags: [Design]
 current: blog
 comments: true
-layout: post
 ---
 
 About six weeks into my second year of design school, I realized I wasn't working as hard as my peers. Sure, I was getting everything done and getting good grades, but I was done with my assignments every day around seven while my classmates worked late into the night. I was perplexed each time I heard people complain about their endless work. Am I just managing my workload better? Are they just doing more outside of school, like extracurricular activities or a job? But when I compared my work with theirs, I realized that theirs was often more thought out and polished than mine. They were simply putting more into each assignment than I was.
