@@ -258,3 +258,5 @@ Every Drexel student must take Civic Engagement: our version of community servic
 ## Conclusion
 
 Spring quarter was very difficult for me, and I was so relieved when it was over. Often, the quarter system feels like a long sprint. At the very end, I declared as a graphic design major, and I really look forward to starting the bulk of the curriculum next fall.
+
+<a class="button" href="{% post_url 2016-01-16-second-year-fall-overview%}">Read about next year</a>
