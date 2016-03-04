@@ -8,17 +8,17 @@ current: blog
 feature: year-2-fall.jpg
 ---
 
-I was so excited to start this school year. Last year, most of my classes were outside my major. Having a foundation year to learn the basics of design before you get into the specifics of your chosen field is pretty typical of art or design school. This year however, I dove into graphic design! Three out of five of my classes were in the graphic design department, and the other two were art classes of some sort. 
+I was so excited to start this school year. Last year, most of my classes were outside my major. Having a foundation year to learn the basics of design before you get into the specifics of your chosen field is pretty typical of art or design school. This year however, I dove into graphic design! Three out of five of my classes were in the graphic design department, and the other two were art classes of some sort.
 
-{% include toc.html %} 
+{% include toc.html %}
 
 ## Visual Communication I
 
 The bulk of Drexel's graphic design curriculum is made up of six classes called Visual Communication. Students take them in sequence over the course of three years, and it's where they learn most of the graphic design skills like logo design, poster design, and packaging design. Each class focuses on one specific area. Visual Communication I focuses on the conceptual work of graphic design.
 
-This class is somewhat similar to [Design I]({% post_url /blog/2015-08-28-first-year-fall-overview %}#design-i) from last year in that they both focus on abstract black and white compositions, but Visual Communication is a little more specialized. On the first day, my professor kept saying that we were learning a new language&mdash;how to communicate abstract concepts visually.
+This class is somewhat similar to [Design I]({% post_url 2015-08-28-first-year-fall-overview %}#design-i) from last year in that they both focus on abstract black and white compositions, but Visual Communication is a little more specialized. On the first day, my professor kept saying that we were learning a new language&mdash;how to communicate abstract concepts visually.
 
-This class would also place a heavy focus on craft, as we were producing these compositions by hand using nothing but black pens and gouache on bristol paper. 
+This class would also place a heavy focus on craft, as we were producing these compositions by hand using nothing but black pens and gouache on bristol paper.
 
 ### Line and Dot Series
 {:.no_toc}
@@ -67,7 +67,7 @@ Next, we had to use lines only, but each line could be as thick as we wanted. I 
   <figcaption>Forlorn</figcaption>
 </figure>
 
-We then got to use lines *and* dots and could choose our own words. We had to use at least three lines and at least three dots. I thought using lines and dots together would be easier, but it was actually much more difficult for me. I did "grow", "attack", "bounce", and "protrude". 
+We then got to use lines *and* dots and could choose our own words. We had to use at least three lines and at least three dots. I thought using lines and dots together would be easier, but it was actually much more difficult for me. I did "grow", "attack", "bounce", and "protrude".
 
 <figure>
   <img src="/img/viscom-1/grow.jpg" alt="grow composition">
@@ -100,7 +100,7 @@ I chose my "grow" composition to reimagine as an animation. Because my compositi
 
 For the first project in the object series, we created four compositions showing different vantage points of a single object. I decided to use a whisk because I was attracted to its curved form.
 
-For this project, I took many pictures of my whisk from various angles and vantage points and blew out the contrast in Photoshop. I then selected my four compositions and used the lightboard to trace them onto the bristol paper. 
+For this project, I took many pictures of my whisk from various angles and vantage points and blew out the contrast in Photoshop. I then selected my four compositions and used the lightboard to trace them onto the bristol paper.
 
 My goal was to abstract the whisk beyond recognition and focus on the forms and composition. I also wanted to create a series where each composition felt unique, but still part of a system.
 
@@ -120,7 +120,7 @@ In this project, I also experimented with stippling to preserve the gritty textu
 
 <img src="/img/viscom-1/type-single-2.jpg" alt="">
 
-For the last project in the object series, we had to use multiple views of our object along with multiple characters. The characters could form a word, but they did not have to be legible. We created two compositions for this project. 
+For the last project in the object series, we had to use multiple views of our object along with multiple characters. The characters could form a word, but they did not have to be legible. We created two compositions for this project.
 
 I focused on emphasizing the type and using a wider view of my whisk. Again, I used Garamond for the type and experimented with stippling.
 
@@ -168,9 +168,9 @@ For our first project, we created two-letter typographic marks. For the first st
 ### Structure and Chaos
 {:.no_toc}
 
-The rest of the class focused on expressive typography compositions based around the ideas of structure and chaos. 
+The rest of the class focused on expressive typography compositions based around the ideas of structure and chaos.
 
-For the first project, we created three free-form compositions for structure and chaos each, using those words in the compositions. The first had to use ten words, and the other two had to use many more, but be based on that first composition. I absolutely loved this project. 
+For the first project, we created three free-form compositions for structure and chaos each, using those words in the compositions. The first had to use ten words, and the other two had to use many more, but be based on that first composition. I absolutely loved this project.
 
 <img src="/img/typography-1/structure-scale-1.jpg" alt="">
 
@@ -222,45 +222,45 @@ This class certainly wasn't what I was expecting. I was surprised to focus so mu
 
 ## Computer Imaging II
 
-This is the second class in a series of three technical classes in the Adobe software. The [first taught us Illustrator]({% post_url /blog/2015-09-10-first-year-spring-overview %}#computer-imaging-i), and this one taught us Photoshop. On the first day, our professor emphasized that he wasn't so much teaching us Photoshop as he was teaching us how to be comfortable learning how to use the software on our own. He'd show us the basics, and it's up to us to do the rest. 
+This is the second class in a series of three technical classes in the Adobe software. The [first taught us Illustrator]({% post_url 2015-09-10-first-year-spring-overview %}#computer-imaging-i), and this one taught us Photoshop. On the first day, our professor emphasized that he wasn't so much teaching us Photoshop as he was teaching us how to be comfortable learning how to use the software on our own. He'd show us the basics, and it's up to us to do the rest.
 
 We started off with a ton of lectures and exercises meant to familiarize us with Photoshop and digital imaging. We learned about color modes, file formats, and Photoshop tools. We'd get a short demonstration in clipping paths and masks, and then the homework was to mask objects out of their backgrounds. The second half of the class was comprised of photo-heavy projects. We had to take all of the photos for the projects ourselves, and it was as much an exercise in photography as it was in Photoshop.
 
 ### Type and Image
-{:.no_toc} 
+{:.no_toc}
 
 For the first project, we drew words out of a hat and had to depict them using 3D type and images. I got "pianissimo," meaning very quiet or soft. I absolutely hated this project because it was finicky and time-consuming.
 
 <img src="/img/computer-imaging-2/pianissimo.jpg" alt="The word pianissimo with objects that exemplefy its meaning">
 
 ### Robot
-{:.no_toc} 
+{:.no_toc}
 
 Our professor told us to take apart an old mechanical object and photograph its parts, but we didn't know what we'd use the photos for. Eventually, we found out that we were going to take the photos into Photoshop and turn the machine parts into a robot. I took apart an alarm clock and stereo tuner.
 
 <img src="/img/computer-imaging-2/robot.jpg" alt="A robot made out of parts from an old alarm clock and stereo tuner">
 
 ### Self Portrait
-{:.no_toc} 
+{:.no_toc}
 
-The goal of this self portrait was to make a Photoshop collage of ourselves consisting of objects and textures that are meaningful to us. The hair is made up of scanned pages from my old diary and favorite books, the facial highlights are paintings I've done, and the glasses are my favorite shirt. This is one of my favorite projects of the year even though it is yet another self portrait. 
+The goal of this self portrait was to make a Photoshop collage of ourselves consisting of objects and textures that are meaningful to us. The hair is made up of scanned pages from my old diary and favorite books, the facial highlights are paintings I've done, and the glasses are my favorite shirt. This is one of my favorite projects of the year even though it is yet another self portrait.
 
 <img src="/img/computer-imaging-2/portrait.jpg" alt="Self portrait of Chloe Atchue-Mamlet composed of meaningful objects to her">
 
-<a href="{% post_url /portfolio/2015-12-14-self-portrait-collage %}" class="button">See the project in my portfolio</a>
+<a href="{% post_url 2015-12-14-self-portrait-collage %}" class="button">See the project in my portfolio</a>
 
-Overall, this class was really great. I learned a lot, my workflow in Photoshop got significantly more efficient, and I got to create interesting projects. 
+Overall, this class was really great. I learned a lot, my workflow in Photoshop got significantly more efficient, and I got to create interesting projects.
 
 ## Photography I
 
-This black and white digital photography course was all about learning the basics and starting to explore. In the very first class we went over how to properly expose a photo by adusting shutter speed, aperture, and ISO, and I was completely overwhelmed. But we took at least 100 photos each week, and eventually properly exposing a photo became second nature to me.
+This black and white digital photography course was all about learning the basics and starting to explore. In the very first class we went over how to properly expose a photo by adjusting shutter speed, aperture, and ISO, and I was completely overwhelmed. But we took at least 100 photos each week, and eventually properly exposing a photo became second nature to me.
 
 Each assignment consisted of taking 100 photos, narrowing them down to 25 favorites, and then picking five favorites out of those to edit and submit for critique.
 
 ### Positive and Negative Space
 {:.no_toc}
 
-Our first project was capturing photos showing an interesting relationship between positive and negative space. These photos were supposed to transcend subject, so what the photo looked like was much more important than the thing I was taking a picture of. 
+Our first project was capturing photos showing an interesting relationship between positive and negative space. These photos were supposed to transcend subject, so what the photo looked like was much more important than the thing I was taking a picture of.
 
 <img src="/img/photography-1/leaves.jpg" alt="">
 
@@ -275,7 +275,7 @@ Our first project was capturing photos showing an interesting relationship betwe
 ### Volume, Space, and Scale
 {:.no_toc}
 
-For the second project, all 100 of our photos had to be taken in a large public building and show volume, space, or contrast of scale. I chose the Philadelphia Museum of Art because of its classical architecture and the fact that I could pretend to take photos of art while in fact taking photos of people. 
+For the second project, all 100 of our photos had to be taken in a large public building and show volume, space, or contrast of scale. I chose the Philadelphia Museum of Art because of its classical architecture and the fact that I could pretend to take photos of art while in fact taking photos of people.
 
 <img src="/img/photography-1/duchamp.jpg" alt="">
 
@@ -332,8 +332,8 @@ This project was to take portraits of people we knew. Unlike with street photogr
 
 <img src="/img/photography-1/sydni.jpg" alt="">
 
-This class was hard for me becuase I was working with a camera in a way I never had before, but I really enjoyed my shooting sessions each week. I'm looking forward to my intermediate photography class winter quarter.
+This class was hard for me because I was working with a camera in a way I never had before, but I really enjoyed my shooting sessions each week. I'm looking forward to my intermediate photography class winter quarter.
 
 ## Art History: High Renaissance to Modern
 
-I had this class once each week for three hours, and boy did it feel like three hours. But the material was somewhat interesting, and I generally like art history. At Westphal, everyone needs to take three introductory art history classes, and now I've got one left. 
+I had this class once each week for three hours, and boy did it feel like three hours. But the material was somewhat interesting, and I generally like art history. At Westphal, everyone needs to take three introductory art history classes, and now I've got one left.

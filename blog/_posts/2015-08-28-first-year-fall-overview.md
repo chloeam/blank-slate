@@ -16,14 +16,14 @@ The first term of design school was tough, but I learned a lot. I took two studi
 
 ## Design I
 
-This is your typical black and white composition class that all design students in my college take their first year. This was a rough but amazing class. It met on Mondays and Wednesdays; each Monday we'd have a huge project due, and each Wednesday we'd have sketches for the next project due. Each project took about twelve hours. 
+This is your typical black and white composition class that all design students in my college take their first year. This was a rough but amazing class. It met on Mondays and Wednesdays; each Monday we'd have a huge project due, and each Wednesday we'd have sketches for the next project due. Each project took about twelve hours.
 
 We started with line and made our way through shape, form, space, and texture while learning about value, symmetry, composition, scale, proportion, weight, balance, unity, harmony, and [Gestalt principles](http://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/). I used a lot of paint that quarter.
 
 ### Line
 {:.no_toc}
 
-This was our first assignment. With black pen (I used a Sharpie, oops) we had to produce 8 compositions with various specifications on 6" x 6" board. The first had to be mostly rectilinear (straight) lines with curvilinear (not straight) accents, the second had to be the opposite, the third had to have dashed lines, etc. 
+This was our first assignment. With black pen (I used a Sharpie, oops) we had to produce 8 compositions with various specifications on 6" x 6" board. The first had to be mostly rectilinear (straight) lines with curvilinear (not straight) accents, the second had to be the opposite, the third had to have dashed lines, etc.
 
 <figure>
 	<img src="/img/design-1/lines-1.jpg" alt="Line project: rectilinear with curvilinear accent">
@@ -74,7 +74,7 @@ I think this was overall a very successful project (with some boards being bette
 ### Figure-Ground Reversal
 {:.no_toc}
 
-The first project we did using shapes was about figure-ground reversal. We had to produce four compositions: rectilinear symmetrical, rectilinear asymmetrical, curvilinear symmetrical, and curvilinear asymmetrical. This was the most fun project for me to complete. 
+The first project we did using shapes was about figure-ground reversal. We had to produce four compositions: rectilinear symmetrical, rectilinear asymmetrical, curvilinear symmetrical, and curvilinear asymmetrical. This was the most fun project for me to complete.
 
 <img src="/img/design-1/fgr-final.jpg" alt="figure-ground reversal project">
 
@@ -135,7 +135,7 @@ I loved this project. We had just learned about open and closed composition and 
 ### Abstraction of a Still Life
 {:.no_toc}
 
-For the next project, our professor set up a still life in the center of the room and we had to sketch it realistically, then abstract it based on our sketch. We then painted the abstraction. 
+For the next project, our professor set up a still life in the center of the room and we had to sketch it realistically, then abstract it based on our sketch. We then painted the abstraction.
 
 <figure>
 	<img src="/img/design-1/still-life-sketch.jpg" alt="Still life project: initial sketch">
@@ -197,27 +197,27 @@ I decided to make my boards one continuous, connected piece instead of eight pie
 
 <figure>
 	<img src="/img/design-1/final-all.jpg" alt="final project: all pieces together">
-</figure> 
+</figure>
 
 <figure>
 	<img src="/img/design-1/final-start.jpg" alt="final project: the first couple pieces">
 	<figcaption>The first couple pieces</figcaption>
-</figure> 
+</figure>
 
 <figure>
 	<img src="/img/design-1/final-start-close.jpg" alt="final project: a closeup of the first piece">
 	<figcaption>Closeup of the first piece</figcaption>
-</figure> 
+</figure>
 
 <figure>
 	<img src="/img/design-1/final-middle.jpg" alt="final project: the middle pieces">
 	<figcaption>The middle pieces</figcaption>
-</figure> 
+</figure>
 
 <figure>
 	<img src="/img/design-1/final-end.jpg" alt="final project: the final couple pieces">
 	<figcaption>The final pieces</figcaption>
-</figure> 
+</figure>
 
 This class was extremely challenging, and I definitely got burned out, but I learned and developed so much. Additionally, my communication skills have improved. Each week when a project was due, we had to stand up, hang our project on the wall, and present it to the class. We had to explain our thinking, say what we did and why, and accept critque from other students and the professor. My compositional eye is much stronger now, and I've developed a vocabulary with which to speak about design.
 
@@ -233,7 +233,7 @@ In most drawing classes you do a lot of short gesture work, and this class was n
 
 <img src="/img/drawing/gesture-2.jpg" alt="another chair covered in fabric">
 
-Mostly, the first half of the quarter was spent doing exercises to train us to see better. 
+Mostly, the first half of the quarter was spent doing exercises to train us to see better.
 
 For these, we had to draw the negative space between the objects instead of the objects themselves. This is a valuable exercise since we often see a flower and think, "I know what a flower looks like" and stop really *seeing* it when we draw. If we concentrate on negative space instead, we're less likely to see forms we recognize and just focus on the actual shapes we observe.
 
@@ -259,7 +259,7 @@ The next one shows the view if you look up towards the ceiling of the URBN Cente
 
 <img src="/img/drawing/urbn.jpg" alt="The URBN Center">
 
-This is from the second-floor balcony of our administration building, and again, the perspective is off. 
+This is from the second-floor balcony of our administration building, and again, the perspective is off.
 
 <img src="/img/drawing/main.jpg" alt="Main Building">
 
@@ -306,7 +306,7 @@ Even though I was a transfer student and had already taken quite a bit of colleg
 
 ### Still-Deciding
 
-This class was where they stuck you if you got into the design college but hadn't declared a major. I was nervous because I thought it would be silly, but it was a great class. It was taught by my academic advisor, and the goal was to get us to declare a major by the spring. We observed one upper-level class in a major we were considering each week and then wrote about it, and towards the end a panel of students from all the majors came in and answered our questions. 
+This class was where they stuck you if you got into the design college but hadn't declared a major. I was nervous because I thought it would be silly, but it was a great class. It was taught by my academic advisor, and the goal was to get us to declare a major by the spring. We observed one upper-level class in a major we were considering each week and then wrote about it, and towards the end a panel of students from all the majors came in and answered our questions.
 
 I had come into Drexel being pretty sure I wanted to be a graphic design major (which I did end up choosing), but the Product Design program director's presentation to us was so good that I seriously considered Product Design for several months. I'm still considering minoring in it, but we'll see!
 
@@ -318,4 +318,4 @@ Every Drexel freshman has to take this class. In my college, it's taught by your
 
 The first quarter of design school was a marathon of me fumbling my way through really painting for the first time, realizing that I'd be spending a fortune at the local art supply store, and pushing through a class for which I had no natural talent. I worked really hard, really struggled, pulled all-nighters, and questioned my ability to get everything done, but not once did I question my choice to come here.
 
-<a class="button" href="{% post_url /blog/2015-09-04-first-year-winter-overview %}">Read about winter quarter</a>
+<a class="button" href="{% post_url 2015-09-04-first-year-winter-overview %}">Read about winter quarter</a>

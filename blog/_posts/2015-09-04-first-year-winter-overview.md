@@ -14,9 +14,9 @@ Because I transferred to Drexel from another quarter-system school, I went into 
 
 ## Design II
 
-This is Drexel's color theory class that all design students take their first year right after [Design I]({% post_url /blog/2015-08-28-first-year-fall-overview %}#design-i), the black and white composition class. I was really looking forward to color theory because I love color, but it's always mystified me a little. I can find colors that look great together, but there's no sense of purpose when I select colors for a design project. I was excited to learn more about color and how to use it. 
+This is Drexel's color theory class that all design students take their first year right after [Design I]({% post_url 2015-08-28-first-year-fall-overview %}#design-i), the black and white composition class. I was really looking forward to color theory because I love color, but it's always mystified me a little. I can find colors that look great together, but there's no sense of purpose when I select colors for a design project. I was excited to learn more about color and how to use it.
 
-Unfortunately, this class was more about mixing paint than it was about learning how to use color well. We learned how to *make* colors, but not really what to do with them once the paint was mixed. 
+Unfortunately, this class was more about mixing paint than it was about learning how to use color well. We learned how to *make* colors, but not really what to do with them once the paint was mixed.
 
 ### The Color Wheel
 {:.no_toc}
@@ -97,7 +97,7 @@ Overall, I feel like I became a better painter in this class, but not a better d
 
 ## History and Analysis of Product Design
 
-At the time, I was deciding between majoring in graphic design and product design. Because of this, I took an introductory product design class to help me decide. 
+At the time, I was deciding between majoring in graphic design and product design. Because of this, I took an introductory product design class to help me decide.
 
 ### Redesigning A Bottle of Lotion
 {:.no_toc}
@@ -126,7 +126,7 @@ I absolutely loved this class, and like usual, I wanted more from it. I learned 
 
 ## Art History: Early to Late Modern
 
-This was the first art history class I had ever taken, and I loved it. I attribute that solely to my amazing professor who taught with such enthusiasm that I simply had no choice but to love modern art as well. I had never been interested in art history until taking this class, but I thoroughly enjoyed it. 
+This was the first art history class I had ever taken, and I loved it. I attribute that solely to my amazing professor who taught with such enthusiasm that I simply had no choice but to love modern art as well. I had never been interested in art history until taking this class, but I thoroughly enjoyed it.
 
 For our final, we had to compare and contrast two pieces found at the Philadelphia Museum of Art: Constantin Brancusi's sculpture [*Bird in Space*](http://www.philamuseum.org/collections/permanent/51057.html) (1924) and Aaron Douglas's painting [*Birds in Flight*](http://www.philamuseum.org/collections/permanent/305565.html?mulR=242991129%7C209) (1927). In my [paper](https://docs.google.com/document/d/1SUTePzg0iEyiN79IG9UXDYxBrBGV5Z7RXWuXB3s5kNk/edit?usp=sharing), I argue that both artists show the complex relationship between the organic and the mechanical in a world forever altered by industrialization.
 
@@ -134,10 +134,10 @@ For our final, we had to compare and contrast two pieces found at the Philadelph
 
 ### Composition and Rhetoric II
 
-This class is the second English class that all Drexel freshman need to take. We focused on nonfiction writing, and even though I was peeved I had to take the class, I had fun. I liked my professor and my classmates, and the assignments were interesting. 
+This class is the second English class that all Drexel freshman need to take. We focused on nonfiction writing, and even though I was peeved I had to take the class, I had fun. I liked my professor and my classmates, and the assignments were interesting.
 
 ### The Drexel Experience
 
-This class was pretty much the same as it was [last quarter](/blog/first-year-fall-overview/#the-drexel-experience).
+This class was pretty much the same as it was [last quarter]({% post_url 2015-08-28-first-year-fall-overview %}#the-drexel-experience).
 
-<a class="button" href="{% post_url /blog/2015-09-10-first-year-spring-overview %}">Read about spring quarter</a>
+<a class="button" href="{% post_url 2015-09-10-first-year-spring-overview %}">Read about spring quarter</a>

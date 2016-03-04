@@ -12,7 +12,7 @@ comments: true
 
 ## Design III
 
-This is the three-dimensional design class that every Drexel freshman design student takes after [Design I]({% post_url /blog/2015-08-28-first-year-fall-overview %}#design-i) (composition) and [Design II]({% post_url /blog/2015-09-04-first-year-winter-overview %}#design-ii) (color theory). Unfortunately I don't have very good photos of these projects since they took up a lot of space in my apartment and I had to throw them out before I got my nice camera.
+This is the three-dimensional design class that every Drexel freshman design student takes after [Design I]({% post_url 2015-08-28-first-year-fall-overview %}#design-i) (composition) and [Design II]({% post_url 2015-09-04-first-year-winter-overview %}#design-ii) (color theory). Unfortunately I don't have very good photos of these projects since they took up a lot of space in my apartment and I had to throw them out before I got my nice camera.
 
 ### Relief
 {:.no_toc}
@@ -97,7 +97,7 @@ Despite having an excellent professor, this class was really difficult for me, a
 
 ## Computer Imaging I
 
-This was by far my favorite class this quarter. I knew going into it that it was technical course where we'd learn Adobe Illustrator. Because I've been working with Illustrator for years, I expected to be bored and not really learn anything. To my surprise, I was learning things about the program by the second week! 
+This was by far my favorite class this quarter. I knew going into it that it was technical course where we'd learn Adobe Illustrator. Because I've been working with Illustrator for years, I expected to be bored and not really learn anything. To my surprise, I was learning things about the program by the second week!
 
 ### Robot
 {:.no_toc}
@@ -113,7 +113,7 @@ Because this was an Illustrator course, we did a lot of vectorizing images. The 
 ### Self Portrait
 {:.no_toc}
 
-The second large project we had to do was a self portrait. With this project, we got a lot more creative freedom than we did with the robot project, and we were allowed to use gradients and transparent shapes. 
+The second large project we had to do was a self portrait. With this project, we got a lot more creative freedom than we did with the robot project, and we were allowed to use gradients and transparent shapes.
 
 <img src="/img/computer-imaging-1/portrait.jpg" alt="Self portrait">
 
@@ -124,7 +124,7 @@ The second large project we had to do was a self portrait. With this project, we
 ### Stationery
 {:.no_toc}
 
-For this project, we had to do four pattern-based illustrations that would look great together on a set of stationery. I chose an aquatic theme and wanted to make mine both whimsical and sophisticated. 
+For this project, we had to do four pattern-based illustrations that would look great together on a set of stationery. I chose an aquatic theme and wanted to make mine both whimsical and sophisticated.
 
 <img src="/img/stationery/orange.png" alt="Orange octopus illustration">
 
@@ -134,7 +134,7 @@ For this project, we had to do four pattern-based illustrations that would look 
 
 <img src="/img/stationery/dark-blue.png" alt="Dark blue octopus illustration with starfish, bubbles, and fish">
 
-<a class="button" href="{% post_url /portfolio/2015-05-01-aquatic-stationery %}">View the portfolio piece</a>
+<a class="button" href="{% post_url 2015-05-01-aquatic-stationery %}">View the portfolio piece</a>
 
 We then had to lasercut one aspect of the piece, and I chose the details on the octopi. This was my second time using the lasercutter, and I was slightly more adept than I was during my first time.
 
@@ -162,13 +162,13 @@ For our final, we had to design a travel campaign for a city of our choice, incl
   <figcaption>Stamp, 1.5" x 2"</figcaption>
 </figure>
 
-<a class="button" href="/portfolio/chicago">View the portfolio piece</a>
+<a class="button" href="{% post_url 2015-08-03-chicago %}">View the portfolio piece</a>
 
 This was such a great class; I developed as a designer and became more adept at using Illustrator. I look forward to the fall when I'll take Computer Imaging II!
 
 ## Figure Drawing I
 
-Figure Drawing, like [Introductory Drawing]({% post_url /blog/2015-08-28-first-year-fall-overview %}#introductory-drawing), was a hard class for me because I both hate and am bad at drawing. 
+Figure Drawing, like [Introductory Drawing]({% post_url 2015-08-28-first-year-fall-overview %}#introductory-drawing), was a hard class for me because I both hate and am bad at drawing.
 
 The first phase in our figure drawing education was gesture drawings of skeletons. The model would stand and pose for two minutes and we would just draw her bones.
 
@@ -241,7 +241,7 @@ Overall, it was nice to see my figure drawing improve as the quarter went along,
 
 ## Art History: High Renaissance to Modern
 
-I debated whether or not I should even mention this class, but I think the point of recounting each quarter like this is to be honest about my experiences in school. I failed this course, and I failed because I stopped trying less than half way through. The first couple weeks were so easy and I realized I didn't have to go to the lectures to get 100% on the quizzes. Because of this, I stopped going to the lectures. This class became my lowest priority, and I stopped showing up for the quizzes. I was too embarassed to go speak to the professor, so I just sort of... let myself fail. Somewhat surprisingly, my advisor said this happens with Art History relatively frequently. Students don't care about it, or think it's easier than it is, and they just stop trying. Ultimately, I'll have to take this class again (in addition to one more required Art History course), and I've definitely learned my lesson.
+I debated whether or not I should even mention this class, but I think the point of recounting each quarter like this is to be honest about my experiences in school. I failed this course, and I failed because I stopped trying less than half way through. The first couple weeks were so easy and I realized I didn't have to go to the lectures to get 100% on the quizzes. Because of this, I stopped going to the lectures. This class became my lowest priority, and I stopped showing up for the quizzes. I was too embarrassed to go speak to the professor, so I just sort of... let myself fail. Somewhat surprisingly, my advisor said this happens with Art History relatively frequently. Students don't care about it, or think it's easier than it is, and they just stop trying. Ultimately, I'll have to take this class again (in addition to one more required Art History course), and I've definitely learned my lesson.
 
 ## Non-Design Classes
 
@@ -257,4 +257,4 @@ Every Drexel student must take Civic Engagement: our version of community servic
 
 ## Conclusion
 
-Spring quarter was very difficult for me, and I was so relieved when it was over. Often, the quarter system feels like a long sprint. At the very end, I declared as a graphic design major, and I really look forward to starting the bulk of the curriculum next fall. 
+Spring quarter was very difficult for me, and I was so relieved when it was over. Often, the quarter system feels like a long sprint. At the very end, I declared as a graphic design major, and I really look forward to starting the bulk of the curriculum next fall.
