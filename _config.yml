@@ -22,6 +22,7 @@ disqus_username: chloeam
 
 # Jekyll settings
 
+future: true
 markdown: kramdown
 permalink: /:categories/:title/
 gems: [bourbon, neat, jekyll-sitemap]
