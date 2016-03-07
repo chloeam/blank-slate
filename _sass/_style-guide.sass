@@ -18,10 +18,10 @@
   h3
     margin-bottom: 0
 
-  p 
+  p
     font-size: .8em
     margin-bottom: 0
-    
+
 .component-content
   margin: $spacing-unit / 2
 
@@ -50,12 +50,9 @@
     left: 50%
     transform: translate(-50%, -50%)
     white-space: nowrap    //no text wrap
-  
-$color: (white-color: $white, black-color: $black, gray-color: $gray, background-color: $background-color, primary-color: $primary-color, success-color: $success-color, tip-color: $tip-color, warning-color: $warning-color, info-color: $info-color, gray-light-color: $gray-light, gray-dark-color: $gray-dark, text-color: $text-color, link-color: $link-color, accent-color: $accent-color)
 
-@each $name, $bgcolor in $color 
+$color: (white-color: $white, black-color: $black, gray-color: $gray, background-color: $background-color, primary-color: $primary-color, success-color: $success-color, tip-color: $tip-color, warning-color: $warning-color, info-color: $info-color, gray-light-color: $gray-light, gray-dark-color: $gray-dark, text-color: $text-color, link-color: $link-color, accent-color: $accent-color, highlight-background: $highlight-background, highlight-foreground: $highlight-foreground, highlight-comment: $highlight-comment, highlight-red: $highlight-red, highlight-orange: $highlight-orange, highlight-yellow: $highlight-yellow, highlight-green: $highlight-green, highlight-aqua: $highlight-aqua, highlight-blue: $highlight-blue, highlight-purple: $highlight-purple, highlight-linenumbers: $highlight-linenumbers)
+
+@each $name, $bgcolor in $color
   .#{$name}-bg
     background-color: $bgcolor
-
-
-
