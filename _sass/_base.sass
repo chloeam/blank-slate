@@ -25,7 +25,7 @@ body
   +font-size(16, no)
   font-weight: 300
 
-p 
+p
   +font-size(16, yes, 28)
 
 h1, h2, h3, h4, h5, h6
@@ -116,7 +116,7 @@ h4, h5, h6
 .tagline
   +font-size(22, $spacing-unit * 2)
   text-align: center
-  
+
   @media (max-width: $medium)
     +span-columns(10)
     +shift(1)
@@ -170,26 +170,35 @@ li > a
   +shift(3)
 
 // CODE FORMATTING
+.highlighter-rouge
+  border-radius: 3px
+
+pre
+  overflow-x: scroll
+  border-radius: 10px
 
 pre,
 code
   +font-size(14, no, 20)
-  border-radius: 3px
   background-color: $highlight-background
 
-code 
-  padding: 1px 5px
+.code
+  padding-left: $spacing-unit/2
 
+.gutter
+  padding-left: $spacing-unit
+  padding-right: 0
 
-pre
-  padding: 15px 15px
-  overflow-x: scroll
+code
+  table
+    margin-bottom: 0
 
-  > code
-    border: 0
-    padding-right: 0
-    padding-left: 0
-
+code
+  table
+    tbody
+      tr:hover
+        background-color: $highlight-background
+        //border-radius: 10px
 
 // FIGURES, IMAGES
 

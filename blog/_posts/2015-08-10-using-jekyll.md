@@ -8,7 +8,7 @@ current: blog
 comments: true
 ---
 
-The site you are looking at now is the product of months of work. Although it woudn't normally take that long to make such a simple site, I was learning how to do so much for the first time, and I made a lot of missteps along the way. The biggest was overcomplicating the end goal: I first tried to build this site using Ruby on Rails. Now yes, that is insane, but I didn't really know what RoR was or what it should be used for. I just knew that everyone said that I should learn it, and that the best way to learn was through doing an actual project. The project I cared most about was my own website. It wasn't until I realized that maybe I was making this more complicated than it needed to be that I looked into other solutions. 
+The site you are looking at now is the product of months of work. Although it woudn't normally take that long to make such a simple site, I was learning how to do so much for the first time, and I made a lot of missteps along the way. The biggest was overcomplicating the end goal: I first tried to build this site using Ruby on Rails. Now yes, that is insane, but I didn't really know what RoR was or what it should be used for. I just knew that everyone said that I should learn it, and that the best way to learn was through doing an actual project. The project I cared most about was my own website. It wasn't until I realized that maybe I was making this more complicated than it needed to be that I looked into other solutions.
 
 ## Why Even Build My Own Site?
 
@@ -22,7 +22,7 @@ Currently, I have an interest in front-end development, but no major plans to se
 
 ## Why Jekyll?
 
-Jekyll is a static site generator, and if I'm not mistaken, it is the most popular one currently out. Basically, it allows me to write a post in [Markdown](http://daringfireball.net/projects/markdown/), use YAML front matter to assign the post to a layout (in my case, either 'post' or 'case study'), and Jekyll does the rest. It takes the text you've written and puts it with the layout you've specified and generates an HTML file. It's called a static site generator because this all happens without a server and without a database. 
+Jekyll is a static site generator, and if I'm not mistaken, it is the most popular one currently out. Basically, it allows me to write a post in [Markdown](http://daringfireball.net/projects/markdown/), use YAML front matter to assign the post to a layout (in my case, either 'post' or 'case study'), and Jekyll does the rest. It takes the text you've written and puts it with the layout you've specified and generates an HTML file. It's called a static site generator because this all happens without a server and without a database.
 
 ### Pros
 
@@ -46,9 +46,9 @@ The core of Jekyll lies mostly in the `_includes`, `_layouts`, `_posts`, `_site`
 
 `_includes` houses html code that goes in multiple places on the site, like the code for the header, footer, and various modules. When you want to include that code in another html file, you simply call it like this: {% raw %}`{% include file.html %}`{% endraw %} where file.html contains the code you want to include.
 
-`_posts` is where you write the bulk of your content. To make a new post, you simply create a new Markdown or HTML file called `YYYY-MM-DD-your-title` with the current date and title. At the top of the file, you need to define a couple variables, called YAML front matter. Here is the front matter for this post: 
+`_posts` is where you write the bulk of your content. To make a new post, you simply create a new Markdown or HTML file called `YYYY-MM-DD-your-title` with the current date and title. At the top of the file, you need to define a couple variables, called YAML front matter. Here is the front matter for this post:
 
-{% highlight yaml %}
+{% highlight yaml linenos %}
 ---
 layout: post
 title: "Using Jekyll: A Design Student Dives Into Front-End Development"
@@ -75,7 +75,7 @@ layout: default
 <div class="post">
 
   <h1 class="post-title">{% raw %}{{ page.title }}{% endraw %}</h1>
-  
+
   <div class="post-meta">
     <p class="post-date">{% raw %}{{ page.date | date: "%b %-d, %Y" }}{% endraw %}</p>
     {% raw %}{% if page.tags %}{% endraw %}
@@ -100,8 +100,6 @@ There are three main pages of my site: Portfolio, Blog, and About. Portfolio and
 
 ## SASS and CSS Structure
 
-This is the first project I've done using SASS and a modular file system for stylesheets, and I love it. I have one SASS file for every component (like buttons, footer, header) and every page type (like post, case study, blog) in addition to `_base.sass` and `_variables.sass` which I use to set global styles and variables respectively. 
+This is the first project I've done using SASS and a modular file system for stylesheets, and I love it. I have one SASS file for every component (like buttons, footer, header) and every page type (like post, case study, blog) in addition to `_base.sass` and `_variables.sass` which I use to set global styles and variables respectively.
 
 <a class="button-success" href="{{ site.repo }}" target="_blank">View site on Github</a>
-
-

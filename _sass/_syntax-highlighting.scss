@@ -34,7 +34,7 @@
     .m     { color: $highlight-orange } // Literal.Number
     .s     { color: $highlight-green } // Literal.String
     .na    { color: $highlight-blue } // Name.Attribute
-    .nb    { color: $highlight-foreground } // Name.Builtin
+    .nb    { color: $highlight-blue } // Name.Builtin
     .nc    { color: $highlight-yellow } // Name.Class
     .nd    { color: $highlight-aqua } // Name.Decorator
     .no    { color: $highlight-red } // Name.Constant
@@ -43,6 +43,7 @@
     .nf    { color: $highlight-blue } // Name.Function
     .nn    { color: $highlight-yellow } // Name.Namespace
     .nt    { color: $highlight-aqua } // Name.Tag
+    .nl    { color: $highlight-aqua } // Name.
     .nv    { color: $highlight-red } // Name.Variable
     .nx    { color: $highlight-blue } // Name.Other
     .ow    { color: $highlight-aqua } // Operator.Word

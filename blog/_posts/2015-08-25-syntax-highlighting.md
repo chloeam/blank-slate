@@ -6,6 +6,10 @@ tags: [Jekyll, Web Development, How-To]
 current: blog
 comments: true
 ---
+<div class="notice-info">
+  <h4>Jekyll 3 Update</h4>
+  <p>With the release of Jekyll 3, Jekyll's default syntax highlighter has changed from Pygments to Rouge. However, the basic principles outlined below are still similar.</p>
+</div>
 
 Because I like everything to be nice and pretty, I wanted to change Jekyll's default syntax highlighting theme. Along my internet travels, I had come across [Arch Wilhes's site](http://0a.io/) and found his highlighting theme to be gorgeous. When looking at his source code, I saw that he had adapted it from [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme), which was built by Chris Kempson for text editors. So I decided to adapt it as well, with a few adjustments along the way.
 
@@ -17,7 +21,7 @@ Jekyll uses Pygments for its syntax highlighting, and here is what the default t
 
 One huge thing I can do at the beginning is make the line numbers less in your face. I like that they're there, because line numbers are often helpful when referencing specific elements, but I don't want them to compete with the code because you only really want to see them when you actually need them. We can make them a little more subtle by adding the following to our `_syntax-highlighting.scss` file (which comes in every Jekyll project):
 
-{% highlight scss %}
+{% highlight scss linenos %}
 .lineno { color: $highlight-linenumbers; margin-right: 5px }
 {% endhighlight %}
 
@@ -28,7 +32,7 @@ One huge thing I can do at the beginning is make the line numbers less in your f
 
 ## Changing the Colors
 
-Now comes the fun part: customizing the colors! If you look at [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme), you'll see that it has a couple variations but all of them have the same structure. Each has a color for background, the current line, selection, foreground, comment, red, orange, yellow, green, aqua, blue, and purple. Since this isn't a text editor, I don't need to worry about current line or selection. 
+Now comes the fun part: customizing the colors! If you look at [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme), you'll see that it has a couple variations but all of them have the same structure. Each has a color for background, the current line, selection, foreground, comment, red, orange, yellow, green, aqua, blue, and purple. Since this isn't a text editor, I don't need to worry about current line or selection.
 
 Because I wanted to make this as easy to change as possible, I created new variables for each color in my variables sass file. Here are the values I ended up with:
 
@@ -120,7 +124,7 @@ Syntax highlighting works by applying a span with a specific class around variou
 
 ## Testing
 
-I wanted to test my new theme on tons of code, even if I didn't usually use or write about those languages. I really only see myself using HTML, Sass, and YAML, but I wanted to make sure other languages looked great too. I got most of the code snippets from the [Octopress syntax highlighting test docs](http://octopress.org/docs/blogging/code/test/). 
+I wanted to test my new theme on tons of code, even if I didn't usually use or write about those languages. I really only see myself using HTML, Sass, and YAML, but I wanted to make sure other languages looked great too. I got most of the code snippets from the [Octopress syntax highlighting test docs](http://octopress.org/docs/blogging/code/test/).
 
 ### HTML
 
@@ -178,17 +182,17 @@ function changeHeight(h) {
     //border-radius: $base-border-radius
     //border: $tab-border
 
-  .tab-header-and-content 
+  .tab-header-and-content
     list-style: none
 
-    @include media($tab-mode) 
+    @include media($tab-mode)
       display: inline
 
-    &:first-child .tab-link 
+    &:first-child .tab-link
       border-top-left-radius: $base-border-radius
       border-top-right-radius: $base-border-radius
 
-      @include media(max-width $tab-mode) 
+      @include media(max-width $tab-mode)
         border-top: 0
 
     &:last-child .tab-link
@@ -205,21 +209,21 @@ function changeHeight(h) {
     padding: $base-spacing/2 $gutter/2
     text-decoration: none
 
-    @include media($tab-mode) 
+    @include media($tab-mode)
       @include inline-block
       border-top-left-radius: $base-border-radius
       border-top-right-radius: $base-border-radius
       border-top: 0
-    
 
-    &:hover 
+
+    &:hover
       color: $action-color
-    
 
-    &:focus 
+
+    &:focus
       outline: none
-    
-    &.is-active 
+
+    &.is-active
       background-color: $tab-active-background
 
       @include media($tab-mode)
@@ -231,7 +235,7 @@ function changeHeight(h) {
 
 ### YAML
 
-{% highlight yaml %}
+{% highlight yaml linenos %}
 ---
 title: "This is My Title"
 category: blog
@@ -289,7 +293,7 @@ for dotfile in $DOT_FILES; do conform_link "$DATA_DIR/$dotfile" ".$dotfile"; don
 
 {% highlight python linenos %}
 # test python (sample from offlineimap)
- 
+
 class ExitNotifyThread(Thread):
     """This class is designed to alert a "monitor" to the fact that a thread has
     exited and to provide for the ability for it to find out why."""
@@ -322,10 +326,10 @@ class ExitNotifyThread(Thread):
             self.setExitCause('NORMAL')
         if not hasattr(self, 'exitmessage'):
             self.setExitMessage(None)
- 
+
         if exitthreads:
             exitthreads.put(self, True)
- 
+
     def setExitCause(self, cause):
         self.exitcause = cause
     def getExitCause(self):

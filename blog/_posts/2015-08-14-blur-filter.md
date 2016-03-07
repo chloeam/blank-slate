@@ -18,23 +18,23 @@ Here is an image with the class `blur` that gives it the property `filter: blur(
 <img class="blur" src="/img/stationery/cover.png" alt="Photo with fuzzy edges">
 
 #### HTML
-{% highlight html %}
+{% highlight html linenos %}
 <img class="blur" src="/img/stationery/cover.png">
 {% endhighlight %}
 
 #### SASS
-{% highlight sass %}
+{% highlight sass linenos %}
 .blur
   -webkit-filter: blur(4px)
   filter: blur(4px)
 {% endhighlight %}
 
 
-This is because towards the edge of the photo, the blur filter pulls in the pixels surrounding the image and includes them in the blur effect. 
+This is because towards the edge of the photo, the blur filter pulls in the pixels surrounding the image and includes them in the blur effect.
 
 ## The Solution
 
-In order to get crisp edges, there are a couple steps we need to take. We essentially want to hide the edges of the photo, so we can scale it up a little and put a container around it to hide the overflow of the fuzzy edges. 
+In order to get crisp edges, there are a couple steps we need to take. We essentially want to hide the edges of the photo, so we can scale it up a little and put a container around it to hide the overflow of the fuzzy edges.
 
 <div class="demonstration">
 	<div class="blur-wrapper">
@@ -43,7 +43,7 @@ In order to get crisp edges, there are a couple steps we need to take. We essent
 </div>
 
 #### HTML
-{% highlight html %}
+{% highlight html linenos %}
 <div class="blur-wrapper">
   <img class="blur" src="/img/stationery/cover.png">
 </div>
