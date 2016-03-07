@@ -11,9 +11,7 @@ comments: true
   <p>With the release of Jekyll 3, Jekyll's default syntax highlighter has changed from Pygments to Rouge. However, the basic principles outlined below are still similar.</p>
 </div>
 
-Because I like everything to be nice and pretty, I wanted to change Jekyll's default syntax highlighting theme. Along my internet travels, I had come across [Arch Wilhes's site](http://0a.io/) and found his highlighting theme to be gorgeous. When looking at his source code, I saw that he had adapted it from [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme), which was built by Chris Kempson for text editors. So I decided to adapt it as well, with a few adjustments along the way.
-
-Jekyll uses Pygments for its syntax highlighting, and here is what the default theme looks like while highlighting a block of HTML:
+Because I like everything to be nice and pretty, I wanted to change Jekyll's default syntax highlighting theme to something a little more attractive. Jekyll uses Pygments for its syntax highlighting, and here is what the default theme looks like while highlighting a block of HTML:
 
 ![HTML code highlighted by Jekyll](/img/old-syntax-highlighting.png)
 
@@ -32,21 +30,19 @@ One huge thing I can do at the beginning is make the line numbers less in your f
 
 ## Changing the Colors
 
-Now comes the fun part: customizing the colors! If you look at [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme), you'll see that it has a couple variations but all of them have the same structure. Each has a color for background, the current line, selection, foreground, comment, red, orange, yellow, green, aqua, blue, and purple. Since this isn't a text editor, I don't need to worry about current line or selection.
-
-Because I wanted to make this as easy to change as possible, I created new variables for each color in my variables sass file. Here are the values I ended up with:
+Now comes the fun part: customizing the colors! Because I wanted to make this as easy to change as possible, I created new variables for each color in my variables sass file. Here are the values I ended up with:
 
 {% highlight sass linenos %}
 $highlight-background: #f8f8f8
-$highlight-foreground: #2d2d2d
-$highlight-comment: #7285b7
-$highlight-red: #c82829
+$highlight-foreground: #655f6d
+$highlight-comment: #8b8792
+$highlight-red: #be4678
 $highlight-orange: #f5871f
 $highlight-yellow: #eab700
-$highlight-green: #b9ca4a
-$highlight-aqua: #66cccc
-$highlight-blue: #6699cc
-$highlight-purple: #c397d8
+$highlight-green: #2a9292
+$highlight-aqua: #398bc6
+$highlight-blue: #576ddb
+$highlight-purple: #955ae7
 $highlight-linenumbers: #ccc
 {% endhighlight %}
 
@@ -54,71 +50,72 @@ Syntax highlighting works by applying a span with a specific class around variou
 
 {% highlight scss linenos %}
 .highlight {
-    background: #fff;
-    @extend %vertical-rhythm;
-    .lineno { color: $highlight-linenumbers; margin-right: 5px }
+  background: #fff;
+  .lineno { color: $highlight-linenumbers; margin-right: 5px }
 
-    .c     { color: $highlight-comment; font-style: italic } // Comment
-    .err   { color: $highlight-red } // Error
-    .k     { color: $highlight-purple } // Keyword
-    .o     { color: $highlight-foreground } // Operator
-    .cm    { color: $highlight-comment; font-style: italic } // Comment.Multiline
-    .cp    { color: $highlight-comment } // Comment.Preproc
-    .c1    { color: $highlight-comment; font-style: italic } // Comment.Single
-    .cs    { color: $highlight-comment; font-style: italic } // Comment.Special
-    .gd    { color: $highlight-red } // Generic.Deleted
-    .gd .x { color: $highlight-red } // Generic.Deleted.Specific
-    .ge    { font-style: italic } // Generic.Emph
-    .gr    { color: $highlight-red } // Generic.Error
-    .gh    { color: $highlight-foreground } // Generic.Heading
-    .gi    { color: $highlight-green } // Generic.Inserted
-    .gi .x { color: $highlight-green } // Generic.Inserted.Specific
-    .go    { color: $highlight-foreground } // Generic.Output
-    .gp    { color: $highlight-comment } // Generic.Prompt
-    .gs    { color: $highlight-foreground } // Generic.Strong
-    .gu    { color: $highlight-aqua } // Generic.Subheading
-    .gt    { color: $highlight-red } // Generic.Traceback
-    .kc    { color: $highlight-purple } // Keyword.Constant
-    .kd    { color: $highlight-purple } // Keyword.Declaration
-    .kp    { color: $highlight-purple } // Keyword.Pseudo
-    .kr    { color: $highlight-purple } // Keyword.Reserved
-    .kt    { color: $highlight-yellow } // Keyword.Type
-    .m     { color: $highlight-orange } // Literal.Number
-    .s     { color: $highlight-green } // Literal.String
-    .na    { color: $highlight-blue } // Name.Attribute
-    .nb    { color: $highlight-foreground } // Name.Builtin
-    .nc    { color: $highlight-yellow } // Name.Class
-    .nd    { color: $highlight-aqua } // Name.Decorator
-    .no    { color: $highlight-red } // Name.Constant
-    .ni    { color: $highlight-foreground } // Name.Entity
-    .ne    { color: $highlight-red } // Name.Exception
-    .nf    { color: $highlight-blue } // Name.Function
-    .nn    { color: $highlight-yellow } // Name.Namespace
-    .nt    { color: $highlight-aqua } // Name.Tag
-    .nv    { color: $highlight-red } // Name.Variable
-    .nx    { color: $highlight-blue } // Name.Other
-    .ow    { color: $highlight-aqua } // Operator.Word
-    .w     { color: $highlight-foreground } // Text.Whitespace
-    .mf    { color: $highlight-orange } // Literal.Number.Float
-    .mh    { color: $highlight-orange } // Literal.Number.Hex
-    .mi    { color: $highlight-orange } // Literal.Number.Integer
-    .mo    { color: $highlight-orange } // Literal.Number.Oct
-    .sb    { color: $highlight-green } // Literal.String.Backtick
-    .sc    { color: $highlight-foreground } // Literal.String.Char
-    .sd    { color: $highlight-comment } // Literal.String.Doc
-    .s2    { color: $highlight-green } // Literal.String.Double
-    .se    { color: $highlight-orange } // Literal.String.Escape
-    .sh    { color: $highlight-green } // Literal.String.Heredoc
-    .si    { color: $highlight-orange } // Literal.String.Interpol
-    .sx    { color: $highlight-green } // Literal.String.Other
-    .sr    { color: $highlight-green } // Literal.String.Regex
-    .s1    { color: $highlight-green } // Literal.String.Single
-    .ss    { color: $highlight-green } // Literal.String.Symbol
-    .bp    { color: $highlight-foreground } // Name.Builtin.Pseudo
-    .vc    { color: $highlight-red } // Name.Variable.Class
-    .vg    { color: $highlight-red } // Name.Variable.Global
-    .vi    { color: $highlight-red } // Name.Variable.Instance
-    .il    { color: $highlight-orange } // Literal.Number.Integer.Long
+  .c     { color: $highlight-comment; font-style: italic } // Comment
+  .err   { color: $highlight-red } // Error
+  .k     { color: $highlight-purple } // Keyword
+  .o     { color: $highlight-foreground } // Operator
+  .p     { color: $highlight-foreground }
+  .cm    { color: $highlight-comment; font-style: italic } // Comment.Multiline
+  .cp    { color: $highlight-comment } // Comment.Preproc
+  .c1    { color: $highlight-comment; font-style: italic } // Comment.Single
+  .cs    { color: $highlight-comment; font-style: italic } // Comment.Special
+  .gd    { color: $highlight-red } // Generic.Deleted
+  .gd .x { color: $highlight-red } // Generic.Deleted.Specific
+  .ge    { font-style: italic } // Generic.Emph
+  .gr    { color: $highlight-red } // Generic.Error
+  .gh    { color: $highlight-foreground } // Generic.Heading
+  .gi    { color: $highlight-green } // Generic.Inserted
+  .gi .x { color: $highlight-green } // Generic.Inserted.Specific
+  .go    { color: $highlight-foreground } // Generic.Output
+  .gp    { color: $highlight-comment } // Generic.Prompt
+  .gs    { color: $highlight-foreground } // Generic.Strong
+  .gu    { color: $highlight-aqua } // Generic.Subheading
+  .gt    { color: $highlight-red } // Generic.Traceback
+  .kc    { color: $highlight-purple } // Keyword.Constant
+  .kd    { color: $highlight-purple } // Keyword.Declaration
+  .kp    { color: $highlight-purple } // Keyword.Pseudo
+  .kr    { color: $highlight-purple } // Keyword.Reserved
+  .kt    { color: $highlight-yellow } // Keyword.Type
+  .m     { color: $highlight-orange } // Literal.Number
+  .s     { color: $highlight-green } // Literal.String
+  .na    { color: $highlight-red } // Name.Attribute
+  .nb    { color: $highlight-red } // Name.Builtin
+  .nc    { color: $highlight-yellow } // Name.Class
+  .nd    { color: $highlight-aqua } // Name.Decorator
+  .no    { color: $highlight-red } // Name.Constant
+  .ni    { color: $highlight-foreground } // Name.Entity
+  .ne    { color: $highlight-red } // Name.Exception
+  .nf    { color: $highlight-blue } // Name.Function
+  .nn    { color: $highlight-yellow } // Name.Namespace
+  .nt    { color: $highlight-aqua } // Name.Tag
+  .nl    { color: $highlight-aqua } // Name.
+  .nv    { color: $highlight-green } // Name.Variable
+  .nx    { color: $highlight-red } // Name.Other
+  .ow    { color: $highlight-aqua } // Operator.Word
+  .w     { color: $highlight-foreground } // Text.Whitespace
+  .mf    { color: $highlight-orange } // Literal.Number.Float
+  .mh    { color: $highlight-orange } // Literal.Number.Hex
+  .mi    { color: $highlight-orange } // Literal.Number.Integer
+  .mo    { color: $highlight-orange } // Literal.Number.Oct
+  .sb    { color: $highlight-green } // Literal.String.Backtick
+  .sc    { color: $highlight-foreground } // Literal.String.Char
+  .sd    { color: $highlight-comment } // Literal.String.Doc
+  .s2    { color: $highlight-green } // Literal.String.Double
+  .se    { color: $highlight-orange } // Literal.String.Escape
+  .sh    { color: $highlight-green } // Literal.String.Heredoc
+  .si    { color: $highlight-orange } // Literal.String.Interpol
+  .sx    { color: $highlight-green } // Literal.String.Other
+  .sr    { color: $highlight-green } // Literal.String.Regex
+  .s1    { color: $highlight-green } // Literal.String.Single
+  .ss    { color: $highlight-green } // Literal.String.Symbol
+  .bp    { color: $highlight-foreground } // Name.Builtin.Pseudo
+  .vc    { color: $highlight-red } // Name.Variable.Class
+  .vg    { color: $highlight-red } // Name.Variable.Global
+  .vi    { color: $highlight-red } // Name.Variable.Instance
+  .il    { color: $highlight-orange } // Literal.Number.Integer.Long
 }
 {% endhighlight %}
 
@@ -146,7 +143,7 @@ function changeHeight(h) {
 }}
 </script>
 <h1>abc</h1>
-<h2>def</h2>
+<h2 class="heading">def</h2>
 <p>Testing page</p>
 </body></html>
 {% endhighlight %}

@@ -10,6 +10,7 @@
     .err   { color: $highlight-red } // Error
     .k     { color: $highlight-purple } // Keyword
     .o     { color: $highlight-foreground } // Operator
+    .p     { color: $highlight-foreground }
     .cm    { color: $highlight-comment; font-style: italic } // Comment.Multiline
     .cp    { color: $highlight-comment } // Comment.Preproc
     .c1    { color: $highlight-comment; font-style: italic } // Comment.Single
@@ -33,8 +34,8 @@
     .kt    { color: $highlight-yellow } // Keyword.Type
     .m     { color: $highlight-orange } // Literal.Number
     .s     { color: $highlight-green } // Literal.String
-    .na    { color: $highlight-blue } // Name.Attribute
-    .nb    { color: $highlight-blue } // Name.Builtin
+    .na    { color: $highlight-red } // Name.Attribute
+    .nb    { color: $highlight-red } // Name.Builtin
     .nc    { color: $highlight-yellow } // Name.Class
     .nd    { color: $highlight-aqua } // Name.Decorator
     .no    { color: $highlight-red } // Name.Constant
@@ -44,8 +45,8 @@
     .nn    { color: $highlight-yellow } // Name.Namespace
     .nt    { color: $highlight-aqua } // Name.Tag
     .nl    { color: $highlight-aqua } // Name.
-    .nv    { color: $highlight-red } // Name.Variable
-    .nx    { color: $highlight-blue } // Name.Other
+    .nv    { color: $highlight-green } // Name.Variable
+    .nx    { color: $highlight-red } // Name.Other
     .ow    { color: $highlight-aqua } // Operator.Word
     .w     { color: $highlight-foreground } // Text.Whitespace
     .mf    { color: $highlight-orange } // Literal.Number.Float
