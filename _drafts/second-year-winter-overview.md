@@ -12,6 +12,8 @@ category: blog
 
 After a great quarter [in the fall]({% post_url 2016-01-16-second-year-fall-overview %}), I was very excited to start winter quarter. This quarter, I took Visual Communication II (logo design), Typography II, Intermediate Photography, Art History: Ancient to Medieval, and Physics: How Things Work.
 
+I didn't produce nearly as much work this quarter as I did last quarter, but the work I did produce was much more thought-out and deliberate than most of my work last quarter. Single projects took weeks (or the whole quarter), and I've done more work that I'm proud of than I have in the past.
+
 {% include toc.html %}
 
 ## Visual Communication II (Logo Design)
@@ -26,6 +28,7 @@ Rock Paper Scissors is a high-end office supply and stationery store catering to
 {:.no_toc}
 
 I was most nervous for the pictorial logo because representing a company through a single image that can be reproduced at any size is really tough. It took me a long time to come up with my sketches (and I couldn't think of fifty ideas), and there were only a couple I liked. Thankfully, the ones I liked were pretty good. I narrowed it down to three icons to represent the high-end office supply store:
+
 ### Typographic Logo
 {:.no_toc}
 
@@ -56,16 +59,36 @@ Most of the class was spent making posters of assigned typefaces. I designed a 2
 
 ## Intermediate Photography
 
-This is the second of two black and white photography classes graphic design majors have to take. While [last quarter's class]({% post_url 2016-01-16-second-year-fall-overview %}#photography-i) focused on breadth, this class focused on depth: we had only three projects, each spanning several weeks.
+This is the second of two black and white photography classes graphic design majors have to take. While [last quarter's class]({% 2016-01-16-second-year-fall-overview %}#photography-i) focused on breadth, this class focused on depth: we had only three projects, each spanning several weeks.
 
 ### Light as Subject
 {:.no_toc}
 
+![Photo of a bed with a stream of light by Chloe Atchue-Mamlet](/img/photography-2/light-bed.jpg)
+
+![Photo of light streaming in through blinds by Chloe Atchue-Mamlet](/img/photography-2/light-blinds.jpg)
+
+![Photo of light reflected through a cup of water by Chloe Atchue-Mamlet](/img/photography-2/light-cup.jpg)
+
+![Photo looking out a window at night with a reflection from the background by Chloe Atchue-Mamlet](/img/photography-2/light-reflection.jpg)
+
 ### Time Revealed
 {:.no_toc}
 
+![Photo of rain water ripples by Chloe Atchue-Mamlet](/img/photography-2/time-ripples.jpg)
+
+![Photo of rain drops making rings by Chloe Atchue-Mamlet](/img/photography-2/time-rings.jpg)
+
 ### Independent Project
 {:.no_toc}
+
+![Photo of a group of envelopes by Chloe Atchue-Mamlet](/img/photography-2/independent-envelopes.jpg)
+
+![Photo of a wine glass reflecting sunlight by Chloe Atchue-Mamlet](/img/photography-2/independent-glass.jpg)
+
+![Closeup photo of a plant by Chloe Atchue-Mamlet](/img/photography-2/independent-plant.jpg)
+
+![Closeup photo of a whisk by Chloe Atchue-Mamlet](/img/photography-2/independent-whisk.jpg)
 
 ## Art History: Ancient to Medieval
 
