@@ -53,16 +53,16 @@ This class is what I assumed [Typography I]({% post_url 2016-01-16-second-year-f
 
 Most of the class was spent making posters of assigned typefaces. I designed a 20" x 30" poster showcasing the history and aesthetic of Souvenir, created in 1914 by Morris Fuller Benton. It was a long and arduous process, but I really enjoyed it. We started out creating typographic studies using our typeface and quotations from the time it was designed, and continued with the explorations until we had a good idea for a poster. The rest was polishing. I wrote extensively about the process in my [case study for the project]({% post_url 2016-03-03-souvenir-history-poster %}).
 
-<img src="/img/souvenir/full.jpg" src="Chloe Atchue-Mamlet designed a poster showcasing the history of the typeface Souvenir">
-
 ![Chloe Atchue-Mamlet designed a poster showcasing the history of the typeface Souvenir](/img/souvenir/full.jpg)
 
 ## Intermediate Photography
 
-This is the second of two black and white photography classes graphic design majors have to take. While [last quarter's class]({% 2016-01-16-second-year-fall-overview %}#photography-i) focused on breadth, this class focused on depth: we had only three projects, each spanning several weeks.
+This is the second of two black and white photography classes graphic design majors have to take. While [last quarter's class]({% post_url 2016-01-16-second-year-fall-overview %}#photography-i) focused on breadth, this class focused on depth: we had only three projects, each spanning several weeks.
 
 ### Light as Subject
 {:.no_toc}
+
+The goal of this project was to create imagery that is transformed by light. The point is to make light itself&mdash;the nature of illumination, or the visual effects caused by it&mdash;the primary subject of the photograph. The viewer should get the point that the images are about light, more so than about the people, places, and things also depicted.
 
 ![Photo of a bed with a stream of light by Chloe Atchue-Mamlet](/img/photography-2/light-bed.jpg)
 
@@ -75,12 +75,16 @@ This is the second of two black and white photography classes graphic design maj
 ### Time Revealed
 {:.no_toc}
 
+The passage of time is revealed in all motion. The goal for this project was to explore time through motion and use the shutter speed to control the effect of freezing motion and describing motion.
+
 ![Photo of rain water ripples by Chloe Atchue-Mamlet](/img/photography-2/time-ripples.jpg)
 
 ![Photo of rain drops making rings by Chloe Atchue-Mamlet](/img/photography-2/time-rings.jpg)
 
 ### Independent Project
 {:.no_toc}
+
+For my independent project, I decided to photograph intimate and transformative portraits of everyday objects. I am drawn to things we see all the time but do not pay attention to, and I wanted to establish a new way at looking at these objects. I aimed to show an object in a different context or from a different vantage point than how we normally view that object.
 
 ![Photo of a group of envelopes by Chloe Atchue-Mamlet](/img/photography-2/independent-envelopes.jpg)
 
@@ -92,7 +96,7 @@ This is the second of two black and white photography classes graphic design maj
 
 ## Art History: Ancient to Medieval
 
-This class was pretty boring, to be honest. It spanned about 3 thousand years, which is insane! The thing is though, painting hadn't yet been invented for much of that time, so the first half of this class was about architecture, which I'm just not interested in. "Architecture" is actually kind of a generous word for what we were studying, because most of the "buildings" we looked at were mud huts and tombs. They all kind of blended together. Things picked up a little once we got into Ancient Greece and Rome, though.
+This class was pretty boring, to be honest. It spanned about 3 thousand years, which is insane! The thing is though, painting hadn't yet been invented for much of that time, so the first half of this class was about architecture, which I'm just not interested in. "Architecture" is actually kind of a generous word for what we were studying, because most of the buildings we looked at were mud huts and tombs. They all kind of blended together. Things picked up a little once we got into Ancient Greece and Rome, though.
 
 ## Physics: How Things Work
 
