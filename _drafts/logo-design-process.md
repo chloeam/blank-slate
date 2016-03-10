@@ -46,8 +46,28 @@ Here are the narrowed down ideas:
 
 ## Typographic Logo
 
+![Rock Paper Scissors typographic logo](/img/rps/typographic.jpg)
+
+![Rock Paper Scissors typographic logo](/img/rps/typographic-draft-space.jpg)
+
+![Rock Paper Scissors typographic logo](/img/rps/typographic-draft-mortis.jpg)
+
+![Rock Paper Scissors typographic logo](/img/rps/typographic-draft-shadow.jpg)
 
 ## Combination Logo
 
+![Rock Paper Scissors typographic logo](/img/rps/combination.jpg)
+
+![Rock Paper Scissors typographic logo](/img/rps/combination-draft-cup.jpg)
+
+![Rock Paper Scissors typographic logo](/img/rps/combination-draft-underline.jpg)
 
 ## Abstract Logo
+
+![Rock Paper Scissors abstract logo](/img/rps/abstract-1.jpg)
+
+![Rock Paper Scissors abstract logo](/img/rps/abstract-2.jpg)
+
+![Rock Paper Scissors abstract logo](/img/rps/abstract-draft-papers.jpg)
+
+![Rock Paper Scissors abstract logo](/img/rps/abstract-draft-fan.jpg)
