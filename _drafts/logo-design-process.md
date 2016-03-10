@@ -5,7 +5,7 @@ tagline: Or, how I designed my first "real" corporate identity package
 tags: [School, Design, Work]
 comments: true
 current: blog
-feature: year-2-fall.jpg
+feature: rps.jpg
 layout: post
 category: blog
 ---
