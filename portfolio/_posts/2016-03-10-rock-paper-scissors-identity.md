@@ -32,8 +32,20 @@ Ultimately, I moved forward with the paper crane logo because it's elegant, is m
 
 Rock Paper Scissors needs a letterhead, envelope, and business cards. All should be elegant, subtle, and reminiscent of paper and stationery. To accomplish the latter, I put a thin stroke around every element and emphasized the rectangular shapes. I also chose a subtle color palette of white, cream, and royal blue.
 
+![Letterhead, envelope, and business cards for Rock Paper Scissors, designed by Chloe Atchue-Mamlet](/img/rps/portfolio-feature.jpg)
+
+![Letterhead for Rock Paper Scissors designed by Chloe Atchue-Mamlet](/img/rps/letterhead.jpg)
+
+![Letterhead for Rock Paper Scissors designed by Chloe Atchue-Mamlet](/img/rps/letterhead-logo.jpg)
+
+![Envelope for Rock Paper Scissors designed by Chloe Atchue-Mamlet](/img/rps/envelope.jpg)
+
+![Business cards for Rock Paper Scissors designed by Chloe Atchue-Mamlet](/img/rps/cards.jpg)
+
 Because the logo for Rock Paper Scissors is an origami crane, it was decided that the company would sell origami paper in sets of ten sheets. Wrapped around each pack would be a band with the company's identity, information, and address.
 
 ![Rock Paper Scissors branded origami paper](/img/rps/origami-band-front.jpg)
 
 ![Rock Paper Scissors branded origami paper](/img/rps/origami-band-back.jpg)
+
+<a class="button" href="{% post_url 2016-03-13-logo-design-process %}">View the design process</a>
