@@ -9,12 +9,6 @@
     <div class="component-rendered">
       {{ entry.content }}
     </div>
-    <div class="component-code">
-
-      {% highlight html linenos %}
-        {{ entry.content }}
-      {% endhighlight %}
-
-    </div>
+    <div class="component-code">{% highlight html linenos %}{{ entry.content }}{% endhighlight %}</div>
   </div>
 </article>

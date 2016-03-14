@@ -18,12 +18,12 @@ Here is an image with the class `blur` that gives it the property `filter: blur(
 <img class="blur" src="/img/stationery/cover.png" alt="Photo with fuzzy edges">
 
 #### HTML
-{% highlight html linenos %}
+{% highlight html %}
 <img class="blur" src="/img/stationery/cover.png">
 {% endhighlight %}
 
 #### SASS
-{% highlight sass linenos %}
+{% highlight sass %}
 .blur
   -webkit-filter: blur(4px)
   filter: blur(4px)
