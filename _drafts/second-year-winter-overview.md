@@ -48,6 +48,13 @@ This class is what I assumed [Typography I]({% post_url 2016-01-16-second-year-f
 ### Typographic Exercises
 {:.no_toc}
 
+![](/img/jan-t/jt-1.jpg)
+![](/img/jan-t/jt-2.jpg)
+![](/img/jan-t/jt-3.jpg)
+![](/img/jan-t/jt-4.jpg)
+![](/img/jan-t/jt-5.jpg)
+![](/img/jan-t/jt-6.jpg)
+
 ### Souvenir Poster
 {:.no_toc}
 
