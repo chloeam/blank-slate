@@ -22,31 +22,59 @@ This is the second in a series of six classes at the core of Drexel's graphic de
 
 On the first day, we got assigned fake companies that we would be "working with" for the rest of the quarter. My company is called Rock Paper Scissors, and it is an office specialty store. From that information, we had to write a description of the company, including when and why it was founded, its target demographic, and how it stands out from its competition.
 
-Rock Paper Scissors is a high-end office supply and stationery store catering to those who want their office products to be more thoughtfully designed than Office Max or Staples fare. Over the course of the quarter, I designed four logos for them: pictorial, typographic, combination, and abstract. For each project, we drew over fifty sketches, narrowed the ideas down to three with the help of our professor, polished them using Illustrator, and then chose one to present to the class for critique. For all four logos, we worked only in black and white, and at the end we chose our best to develop into a whole brand using full color.
+Rock Paper Scissors is a high-end office supply and stationery store catering to those who want their office products to be more thoughtfully designed than Office Max or Staples fare. Over the course of the quarter, I designed six logos for them in the following categories: pictorial, typographic, combination, and abstract. For each project, we drew over fifty sketches, narrowed the ideas down to three with the help of our professor, polished them using Illustrator, and then chose one or two to present to the class for critique. For all six logos, we worked only in black and white, and at the end we chose our best to develop into a whole brand using full color.
 
-### Pictorial Logo
+I go into detail on the process [in this blog post]({% post_url 2016-03-13-logo-design-process %}), but here are the logos I produced:
+
+### Pictorial Logos
 {:.no_toc}
 
-I was most nervous for the pictorial logo because representing a company through a single image that can be reproduced at any size is really tough. It took me a long time to come up with my sketches (and I couldn't think of fifty ideas), and there were only a couple I liked. Thankfully, the ones I liked were pretty good. I narrowed it down to three icons to represent the high-end office supply store:
+![Chloe Atchue-Mamlet's paper crane logo](/img/rps/pictorial-crane.jpg)
+
+![Chloe Atchue-Mamlet's paperclip pencil logo](/img/rps/pictorial-pencil.jpg)
 
 ### Typographic Logo
 {:.no_toc}
 
+![Chloe Atchue-Mamlet's typographic rock paper scissors logo](/img/rps/typographic.jpg)
+
 ### Combination Logo
 {:.no_toc}
 
-### Abstract Logo
+![Chloe Atchue-Mamlet's rock paper scissors quill pen logo](/img/rps/combination.jpg)
+
+### Abstract Logos
 {:.no_toc}
+
+![Chloe Atchue-Mamlet's rock paper scissors abstract logo](/img/rps/abstract-1.jpg)
+
+![Chloe Atchue-Mamlet's rock paper scissors abstract logo](/img/rps/abstract-2.jpg)
 
 ### Identity Package
 {:.no_toc}
 
+I chose my paper crane logo to develop into an identity system consisting of a letterhead, envelope, and business cards.
+
+![Chloe Atchue-Mamlet's rock paper scissors identity package](/img/rps/portfolio-feature.jpg)
+
+![Chloe Atchue-Mamlet's rock paper scissors letterhead](/img/rps/letterhead.jpg)
+
+![Chloe Atchue-Mamlet's rock paper scissors letterhead](/img/rps/letterhead-logo.jpg)
+
+![Chloe Atchue-Mamlet's rock paper scissors business cards](/img/rps/cards.jpg)
+
+![Chloe Atchue-Mamlet's rock paper scissors envelope](/img/rps/envelope.jpg)
+
+<a class="button" href="(% post_url 2016-03-10-rock-paper-scissors-identity %)">View the portfolio piece</a>
+
 ## Typography II
 
-This class is what I assumed [Typography I]({% post_url 2016-01-16-second-year-fall-overview %}#typography-i) would be. We learned how to set type in real-world scenarios, dealing with leading, alignment, rag, kerning, and paragraph breaks.
+This class is what I assumed [Typography I]({% post_url 2016-01-16-second-year-fall-overview %}#typography-i) would be. We learned how to set type in real-world scenarios, dealing with leading, alignment, rag, kerning, and paragraph breaks, and we made a fun poster on an assigned typeface towards the end of the quarter.
 
 ### Typographic Exercises
 {:.no_toc}
+
+The first several weeks of the quarter were spent doing typographic exercises on things like leading, kerning, rags, and paragraph breaks, which were super boring but very educational. Then we put that knowledge to the test by designing six compositions with given type. Our professor gave us an excerpt from a book along with its author, title of the book, and publication information and we had to take that information and make compositions. The only rule was that we could not do anything wild to the excerpt (had to be either Garamond or Helvetica, flush left, and extremely legible), and our designs had to grow more complex with each composition. Here are my six, starting from the most simple:
 
 ![](/img/jan-t/jt-1.jpg)
 ![](/img/jan-t/jt-2.jpg)
@@ -108,3 +136,7 @@ This class was pretty boring, to be honest. It spanned about 3 thousand years, w
 ## Physics: How Things Work
 
 Hmmm, one of these classes is not like the other.... At Drexel, everyone in every college must take a natural science. Because I like math, I thought a physics class would be most enjoyable for me. It was okay, but mostly I'm glad I got through it. I really liked everything to do with mechanics, but once we got into electricity I was pretty lost.
+
+## Conclusion
+
+This quarter was really fun for me. It was the first quarter where I felt like I was taking real design classes where we were actually making real things instead of just doing exercises (which are important but not nearly as fun!). I attribute most of this feeling to my experience in my logo design course. It was really game-changing for me, both in terms of growing my skills and the way I thought about design in general. I had an amazing professor who was hard on us and really pushed everyone to do their absolute best. As I've continued on in my design education, I've realized that I learn the most and gain the most valuable experiences from the professors that really push me. It was an amazing class, and I feel like I really grew as a designer because of it. 
