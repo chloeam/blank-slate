@@ -5,7 +5,7 @@ tagline: The work I did, the classes I took, and my feelings about it
 tags: [School, Design, Work, Look Back]
 comments: true
 current: blog
-feature: year-2-fall.jpg
+feature: year-2-winter.jpg
 layout: post
 category: blog
 ---
@@ -22,7 +22,7 @@ This is the second in a series of six classes at the core of Drexel's graphic de
 
 On the first day, we got assigned fake companies that we would be "working with" for the rest of the quarter. My company is called Rock Paper Scissors, and it is an office specialty store. From that information, we had to write a description of the company, including when and why it was founded, its target demographic, and how it stands out from its competition.
 
-Rock Paper Scissors is a high-end office supply and stationery store catering to those who want their office products to be more thoughtfully designed than Office Max or Staples fare. Over the course of the quarter, I designed six logos for them in the following categories: pictorial, typographic, combination, and abstract. For each project, we drew over fifty sketches, narrowed the ideas down to three with the help of our professor, polished them using Illustrator, and then chose one or two to present to the class for critique. For all six logos, we worked only in black and white, and at the end we chose our best to develop into a whole brand using full color.
+Rock Paper Scissors is a high-end office supply and stationery store catering to those who want their office products to be more thoughtfully designed than Office Max or Staples fare. Over the course of the quarter, I designed six logos for them in the following categories: pictorial, typographic, combination, and abstract. For each project, we drew over fifty sketches, narrowed the ideas down to three with the help of our professor, polished them using Illustrator, and then chose one or two to present to the class for critique. For all six logos, we worked only in black and white, and at the end we chose our best logo to develop into a whole brand using full color.
 
 I go into detail on the process [in this blog post]({% post_url 2016-03-13-logo-design-process %}), but here are the logos I produced:
 
@@ -65,7 +65,7 @@ I chose my paper crane logo to develop into an identity system consisting of a l
 
 ![Chloe Atchue-Mamlet's rock paper scissors envelope](/img/rps/envelope.jpg)
 
-<a class="button" href="(% post_url 2016-03-10-rock-paper-scissors-identity %)">View the portfolio piece</a>
+<a class="button" href="{% post_url 2016-03-10-rock-paper-scissors-identity %}">View the portfolio piece</a>
 
 ## Typography II
 
@@ -74,13 +74,18 @@ This class is what I assumed [Typography I]({% post_url 2016-01-16-second-year-f
 ### Typographic Exercises
 {:.no_toc}
 
-The first several weeks of the quarter were spent doing typographic exercises on things like leading, kerning, rags, and paragraph breaks, which were super boring but very educational. Then we put that knowledge to the test by designing six compositions with given type. Our professor gave us an excerpt from a book along with its author, title of the book, and publication information and we had to take that information and make compositions. The only rule was that we could not do anything wild to the excerpt (had to be either Garamond or Helvetica, flush left, and extremely legible), and our designs had to grow more complex with each composition. Here are my six, starting from the most simple:
+The first several weeks of the quarter were spent doing typographic exercises on things like leading, kerning, rags, and paragraph breaks, which were super boring but very educational. Then we put that knowledge to the test by designing six compositions with given type. Our professor gave us an excerpt from a book along with its author, title of the book, and publication information and we had to take that text and make compositions. The only rule was that we could not do anything wild to the excerpt (it had to be either Garamond or Helvetica, 10pt, and extremely legible), and our designs had to grow more complex with each composition. Here are my six, starting from the most simple:
 
 ![](/img/jan-t/jt-1.jpg)
+
 ![](/img/jan-t/jt-2.jpg)
+
 ![](/img/jan-t/jt-3.jpg)
+
 ![](/img/jan-t/jt-4.jpg)
+
 ![](/img/jan-t/jt-5.jpg)
+
 ![](/img/jan-t/jt-6.jpg)
 
 ### Souvenir Poster
@@ -119,7 +124,7 @@ The passage of time is revealed in all motion. The goal for this project was to 
 ### Independent Project
 {:.no_toc}
 
-For my independent project, I decided to photograph intimate and transformative portraits of everyday objects. I am drawn to things we see all the time but do not pay attention to, and I wanted to establish a new way at looking at these objects. I aimed to show an object in a different context or from a different vantage point than how we normally view that object.
+For my independent project, I decided to photograph intimate and transformative portraits of everyday objects. I am drawn to things we see all the time but do not pay attention to, and I wanted to establish a new way of looking at these objects. I aimed to show each object in a different context or from a different vantage point than how we normally it.
 
 ![Photo of a group of envelopes by Chloe Atchue-Mamlet](/img/photography-2/independent-envelopes.jpg)
 
@@ -131,7 +136,7 @@ For my independent project, I decided to photograph intimate and transformative 
 
 ## Art History: Ancient to Medieval
 
-This class was pretty boring, to be honest. It spanned about 3 thousand years, which is insane! The thing is though, painting hadn't yet been invented for much of that time, so the first half of this class was about architecture, which I'm just not interested in. "Architecture" is actually kind of a generous word for what we were studying, because most of the buildings we looked at were mud huts and tombs. They all kind of blended together. Things picked up a little once we got into Ancient Greece and Rome, though.
+This class was pretty boring, to be honest. It spanned about 3 thousand years, which is insane! The thing is though, painting hadn't yet been invented for much of that time, so the first half of this class was about architecture, which I'm just not interested in. "Architecture" is actually kind of a generous word for what we were studying, because most of the buildings we looked at were mud huts and tombs. They all kind of blended together. Things picked up a little once we got into Ancient Greece and Rome, though. And this class ended my art history requirement!
 
 ## Physics: How Things Work
 
@@ -139,4 +144,4 @@ Hmmm, one of these classes is not like the other.... At Drexel, everyone in ever
 
 ## Conclusion
 
-This quarter was really fun for me. It was the first quarter where I felt like I was taking real design classes where we were actually making real things instead of just doing exercises (which are important but not nearly as fun!). I attribute most of this feeling to my experience in my logo design course. It was really game-changing for me, both in terms of growing my skills and the way I thought about design in general. I had an amazing professor who was hard on us and really pushed everyone to do their absolute best. As I've continued on in my design education, I've realized that I learn the most and gain the most valuable experiences from the professors that really push me. It was an amazing class, and I feel like I really grew as a designer because of it. 
+This quarter was really fun for me. It was the first quarter where I felt like I was taking real design classes where we were actually making real things instead of just doing exercises (which are important but not nearly as fun!). I attribute most of this feeling to my experience in my logo design course. It was really game-changing for me, both in terms of growing my skills and changing the way I thought about design in general. I had an amazing professor who was hard on us and really pushed everyone to do their absolute best. As I've continued on in my design education, I've realized that I learn the most and gain the most valuable experiences from the professors that really push me. It was an amazing class, and I feel like I really grew as a designer because of it.
