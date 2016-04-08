@@ -337,3 +337,5 @@ This class was hard for me because I was working with a camera in a way I never 
 ## Art History: High Renaissance to Modern
 
 I had this class once each week for three hours, and boy did it feel like three hours. But the material was somewhat interesting, and I generally like art history. At Westphal, everyone needs to take three introductory art history classes, and now I've got one left.
+
+<a class="button" href="{% post_url 2016-04-08-second-year-winter-overview %}">Read about next quarter</a>
