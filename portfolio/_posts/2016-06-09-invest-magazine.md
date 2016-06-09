@@ -14,7 +14,7 @@ overview: Invest is a financial lifestyle magazine for people under 35. It focus
 
 I wanted the masthead to be a symbol of everything *Invest* represents: young people investing to grow their wealth. I decided early on in the sketching process that the final masthead would have to be unique, eyecatching, and highly customized to give off a youthful vibe. Ultimately, I chose to portray the rise and fall of the market with type.
 
-![](/img/invest/front.jpg)
+![Front cover for Invest Magazine designed by Chloe Atchue-Mamlet](/img/invest/front.jpg)
 
 The article I chose to feature on the cover is the introduction of Michael Watkins's book, *The First 90 Days*. In it, he articulates why the first ninety days of a new job can set you for either success or failure. I wanted the cover to convey how challenging it is to navigate your way through a new job, so I decided to illustrate a maze. The coins act both as road blocks to success and as symbols of the main goal of a job. The maze has a solution, so someone could sit down and solve it if they wanted to.
 
@@ -26,7 +26,7 @@ The structure of the stripes on the spine of the magazine will remain constant f
 
 Because this is a financial magazine, I wanted to reference numerals, charts, and graphs as much as possible throughout the piece. Each masthead is a graph reflecting slowly-increasing wealth, complete with tick marks indicating the publication date, volume number, and issue number. These values are represented in the most numeric way possible, including the use of decimal points as separators.
 
-![](/img/invest/front-masthead.jpg)
+![Masthead detail for Invest Magazine designed by Chloe Atchue-Mamlet](/img/invest/front-masthead.jpg)
 
 ![](/img/invest/front-close.jpg)
 
@@ -38,7 +38,7 @@ Because this is a financial magazine, I wanted to reference numerals, charts, an
 
 As is appropriate for a financial magazine filled with charts and numbers, the table of contents is a large graph. The x-axis represents page number, and the y-axis represents reading time. This allows readers to select articles based on how much time they have to read them. The smaller-sized graph paper also lines up with the values of the graph: each square horizontally coincides with one page, while every two squares vertically signify one minute of reading time.
 
-![](/img/invest/contents.jpg)
+![Table of contents for Invest Magazine designed by Chloe Atchue-Mamlet](/img/invest/contents.jpg)
 
 ![](/img/invest/contents-close-1.jpg)
 
@@ -48,7 +48,7 @@ As is appropriate for a financial magazine filled with charts and numbers, the t
 
 This is the first spread of the feature article. I wanted it to center around a huge, gorgeous illustration with only a small amount of text. The illustration represents the structure that is a person's career: built with dead-ends and plenty of opportunities to make a misstep.
 
-![](/img/invest/spread-1.jpg)
+![The first spread of the feature article in Invest Magazine, designed by Chloe Atchue-Mamlet](/img/invest/spread-1.jpg)
 
 ![](/img/invest/spread-1-illustration.jpg)
 
@@ -60,7 +60,7 @@ The page numbers at the bottom signify the page numbers on both sides of the spr
 
 This second spread of the feature article contains the bulk of the text. The structure of the text is reminiscent of a bar graph, and the parallel lines created by justified type naturally fit with a magazine full of charts and graphs. I also wanted to incorporate the block structure from the previous spread into this one, so I arranged them to be falling into place at the bottom of the right page.
 
-![](/img/invest/spread-2.jpg)
+![The second spread of the feature article in Invest Magazine designed by Chloe Atchue-Mamlet](/img/invest/spread-2.jpg)
 
 ![](/img/invest/spread-2-text.jpg)
 
