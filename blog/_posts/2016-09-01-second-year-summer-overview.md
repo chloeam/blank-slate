@@ -124,11 +124,11 @@ Because it was *multimedia* performance, we had to use images, sound, projected 
 
 <figure>
   <img src="/img/performance/peck.jpg" alt="interpreting the museum">
-  <figcaption>Interpreting the "feeling" of the museum</figcaption>
+  <figcaption>Interpreting the "feeling" of the museum. Note the artsy orientation.</figcaption>
 </figure>
 
 <figure>
-  <img src="/img/performance/time.jpg" alt="standing in front of a projected image of traffic">
+  <img src="/img/performance/time.jpg" alt="people's shadows in front of traffic">
   <figcaption>Interpreting time</figcaption>
 </figure>
 

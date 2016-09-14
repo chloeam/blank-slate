@@ -145,3 +145,5 @@ Hmmm, one of these classes is not like the other.... At Drexel, everyone in ever
 ## Conclusion
 
 This quarter was really fun for me. It was the first quarter where I felt like I was taking real design classes where we were actually making real things instead of just doing exercises (which are important but not nearly as fun!). I attribute most of this feeling to my experience in my logo design course. It was really game-changing for me, both in terms of growing my skills and changing the way I thought about design in general. I had an amazing professor who was hard on us and really pushed everyone to do their absolute best. As I've continued on in my design education, I've realized that I learn the most and gain the most valuable experiences from the professors that really push me. It was an amazing class, and I feel like I really grew as a designer because of it.
+
+<a class="button" href="{% post_url 2016-06-27-second-year-spring-overview %}">Read about spring quarter</a>
