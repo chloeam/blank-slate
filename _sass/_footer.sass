@@ -1,4 +1,4 @@
-.site-footer 
+.site-footer
   border-top: 1px solid $gray-light
   text-align: center
   padding-bottom: $spacing-unit
@@ -10,12 +10,25 @@
 .social-media-nav
   width: 85%
   max-width: 400px
-  +display(flex)
-  +justify-content(space-around)
   margin: $spacing-unit auto
+  display: block
 
 .icon > svg
   max-width: 30px
+  margin-right: 12px
+  margin-left: 12px
+
+.behance
+  @media (max-width: 500px)
+    display: none
+
+.github
+  @media (max-width: 500px)
+    display: none
+
+.rss
+  @media (max-width: 500px)
+    display: none
 
 .behance > svg
   max-width: 35px
