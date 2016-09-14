@@ -10,7 +10,7 @@ layout: post
 category: blog
 ---
 
-I was really excited for this quarter because I was taking only classes that I was actually interested in taking. No art history, no random requirement. It was wonderful.
+I was really excited for this quarter because I was taking only classes that I was actually interested in taking. No art history, no random requirements. It was wonderful.
 
 {% include toc.html %}
 
@@ -57,23 +57,23 @@ Because we were using vanilla HTML and CSS, I had to copy and paste the header f
 Throughout the class, I made three websites.
 
 ### The Chicago Cubs
-{.no_toc}
+{:.no_toc}
 
 We made the first website with very basic HTML and CSS about a week into the class. It could be on a topic of our choice, so I picked the Cubs, my favorite baseball team. It's a simple site, and completely unresponsive, so it only looks good on desktop.
 
 <a class="button" href="http://chloedrexel.com/cubs/">View the live site</a>
 
 ### Portfolio Site
-{.no_toc}
+{:.no_toc}
 
 Making a portfolio site was the final project for the class. Because this wasn't a class in responsive design, it just had to look good at 1200 px. However, since I had prior experience with responsive design, I made my site responsive.
 
-This was kind of a fun project even though I obviously already had a portfolio site. This site definitely portrays me as a digital designer and has a very flat aesthetic, so I wanted to switch things up for this project. I thought it would be interesting to design the site as if I were primarily a print designer and have everything look kind of tactile. The requirements were that we include a logo and a form, and I really like how it turned out.
+This was kind of a fun project even though I obviously already had a portfolio site (this one!). This site definitely portrays me as a digital designer and has a very flat aesthetic, so I wanted to switch things up for this project. I thought it would be interesting to design the site as if I were primarily a print designer and have everything look kind of tactile. The requirements were that we include a logo and a form, and I really like how it turned out.
 
 <a class="button" href="http://chloedrexel.com/portfolio/index.html">View the live site</a>
 
 ### Hogwarts Site
-{.no_toc}
+{:.no_toc}
 
 Because I already knew HTML and CSS, I finished my portfolio site with about a month left in the class. I had to do another project for the rest of the time, and my professor encouraged me to do something fun. Of course, I made a website for Hogwarts as if it were a real school that existed today.
 
