@@ -1,5 +1,11 @@
 .blog-heading
-  @extend .heading-chunky-italic
+  text-transform: uppercase
+  letter-spacing: 5px
+  font-weight: 400
+  text-align: center
+
+.tagline
+  font-style: italic
 
 .blog-preview
   max-width: 1000px
@@ -29,13 +35,14 @@
   width: 75%
   float: right
   padding-right: 10px
-  
+
   h2
     margin-bottom: $spacing-unit / 2
+    line-height: 1.3
 
     @media (max-width: $medium)
       margin-bottom: 0
-  
+
   @media (max-width: $medium)
     float: none
     padding-right: 0
@@ -45,7 +52,7 @@
   line-height: 20px
   float: right
   padding-right: 10px
-  
+
   @media (max-width: $medium)
     float: none
     padding-right: 0
