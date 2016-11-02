@@ -3,7 +3,7 @@
     <h3 id="guide-{{ entry.title | slugify }}">{{ entry.title }}</h3>
       {% if entry.usage %}<p><strong>Usage:</strong> {{ entry.usage }}</p>{% endif %}
       {% if entry.module %}<p><strong>Include file:</strong> <a href="{{ site.repo }}/blob/master/_includes/{{ entry.module }}">{{ entry.module }}</a></p>{% endif %}
-      {% if entry.sass %}<p><strong>Sass file:</strong> <a href="{{ site.repo }}/blob/master{{ entry.sass }}">{{ entry.sass }}</a></p>{% endif %}
+      {% if entry.sass %}<p><strong>SASS file:</strong> <a href="{{ site.repo }}/blob/master{{ entry.sass }}">{{ entry.sass }}</a></p>{% endif %}
   </header>
   <div class="component-content">
     <div class="component-rendered">
