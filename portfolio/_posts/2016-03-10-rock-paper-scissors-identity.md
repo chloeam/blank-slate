@@ -48,7 +48,7 @@ Because the logo for Rock Paper Scissors is an origami crane, it was decided tha
 
 ![Rock Paper Scissors branded origami paper](/img/rps/origami-band-back.jpg)
 
-<a class="button" href="{% post_url 2016-03-13-logo-design-process %}">View the design process</a>
+<a class="button" href="{% post_url /blog/2016-03-13-logo-design-process %}">View the design process</a>
 
 ## Website
 

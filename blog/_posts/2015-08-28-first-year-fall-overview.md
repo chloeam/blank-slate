@@ -318,4 +318,4 @@ Every Drexel freshman has to take this class. In my college, it's taught by your
 
 The first quarter of design school was a marathon of me fumbling my way through really painting for the first time, realizing that I'd be spending a fortune at the local art supply store, and pushing through a class for which I had no natural talent. I worked really hard, really struggled, pulled all-nighters, and questioned my ability to get everything done, but not once did I question my choice to come here.
 
-<a class="button" href="{% post_url 2015-09-04-first-year-winter-overview %}">Read about winter quarter</a>
+<a class="button" href="{% post_url /blog/2015-09-04-first-year-winter-overview %}">Read about winter quarter</a>

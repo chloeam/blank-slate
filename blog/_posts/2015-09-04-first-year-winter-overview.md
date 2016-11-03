@@ -14,7 +14,7 @@ Because I transferred to Drexel from another quarter-system school, I went into 
 
 ## Design II
 
-This is Drexel's color theory class that all design students take their first year right after [Design I]({% post_url 2015-08-28-first-year-fall-overview %}#design-i), the black and white composition class. I was really looking forward to color theory because I love color, but it's always mystified me a little. I can find colors that look great together, but there's no sense of purpose when I select colors for a design project. I was excited to learn more about color and how to use it.
+This is Drexel's color theory class that all design students take their first year right after [Design I]({% post_url /blog/2015-08-28-first-year-fall-overview %}#design-i), the black and white composition class. I was really looking forward to color theory because I love color, but it's always mystified me a little. I can find colors that look great together, but there's no sense of purpose when I select colors for a design project. I was excited to learn more about color and how to use it.
 
 Unfortunately, this class was more about mixing paint than it was about learning how to use color well. We learned how to *make* colors, but not really what to do with them once the paint was mixed.
 
@@ -138,6 +138,6 @@ This class is the second English class that all Drexel freshman need to take. We
 
 ### The Drexel Experience
 
-This class was pretty much the same as it was [last quarter]({% post_url 2015-08-28-first-year-fall-overview %}#the-drexel-experience).
+This class was pretty much the same as it was [last quarter]({% post_url /blog/2015-08-28-first-year-fall-overview %}#the-drexel-experience).
 
-<a class="button" href="{% post_url 2015-09-10-first-year-spring-overview %}">Read about spring quarter</a>
+<a class="button" href="{% post_url /blog/2015-09-10-first-year-spring-overview %}">Read about spring quarter</a>

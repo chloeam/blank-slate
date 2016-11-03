@@ -10,7 +10,7 @@ layout: post
 category: blog
 ---
 
-After a great quarter [in the fall]({% post_url 2016-01-16-second-year-fall-overview %}), I was very excited to start winter quarter. This quarter, I took Visual Communication II (logo design), Typography II, Intermediate Photography, Art History: Ancient to Medieval, and Physics: How Things Work.
+After a great quarter [in the fall]({% post_url /blog/2016-01-16-second-year-fall-overview %}), I was very excited to start winter quarter. This quarter, I took Visual Communication II (logo design), Typography II, Intermediate Photography, Art History: Ancient to Medieval, and Physics: How Things Work.
 
 I didn't produce nearly as much work this quarter as I did last quarter, but the work I did produce was much more thought-out and deliberate than most of my work last quarter. Single projects took weeks (or the whole quarter), and I've done more work that I'm proud of than I have in the past.
 
@@ -24,7 +24,7 @@ On the first day, we got assigned fake companies that we would be "working with"
 
 Rock Paper Scissors is a high-end office supply and stationery store catering to those who want their office products to be more thoughtfully designed than Office Max or Staples fare. Over the course of the quarter, I designed six logos for them in the following categories: pictorial, typographic, combination, and abstract. For each project, we drew over fifty sketches, narrowed the ideas down to three with the help of our professor, polished them using Illustrator, and then chose one or two to present to the class for critique. For all six logos, we worked only in black and white, and at the end we chose our best logo to develop into a whole brand using full color.
 
-I go into detail on the process [in this blog post]({% post_url 2016-03-13-logo-design-process %}), but here are the logos I produced:
+I go into detail on the process [in this blog post]({% post_url /blog/2016-03-13-logo-design-process %}), but here are the logos I produced:
 
 ### Pictorial Logos
 {:.no_toc}
@@ -65,11 +65,11 @@ I chose my paper crane logo to develop into an identity system consisting of a l
 
 ![Chloe Atchue-Mamlet's rock paper scissors envelope](/img/rps/envelope.jpg)
 
-<a class="button" href="{% post_url 2016-03-10-rock-paper-scissors-identity %}">View the portfolio piece</a>
+<a class="button" href="{% post_url /portfolio/2016-03-10-rock-paper-scissors-identity %}">View the portfolio piece</a>
 
 ## Typography II
 
-This class is what I assumed [Typography I]({% post_url 2016-01-16-second-year-fall-overview %}#typography-i) would be. We learned how to set type in real-world scenarios, dealing with leading, alignment, rag, kerning, and paragraph breaks, and we made a fun poster on an assigned typeface towards the end of the quarter.
+This class is what I assumed [Typography I]({% post_url /blog/2016-01-16-second-year-fall-overview %}#typography-i) would be. We learned how to set type in real-world scenarios, dealing with leading, alignment, rag, kerning, and paragraph breaks, and we made a fun poster on an assigned typeface towards the end of the quarter.
 
 ### Typographic Exercises
 {:.no_toc}
@@ -91,13 +91,13 @@ The first several weeks of the quarter were spent doing typographic exercises on
 ### Souvenir Poster
 {:.no_toc}
 
-Most of the class was spent making posters of assigned typefaces. I designed a 20" x 30" poster showcasing the history and aesthetic of Souvenir, created in 1914 by Morris Fuller Benton. It was a long and arduous process, but I really enjoyed it. We started out creating typographic studies using our typeface and quotations from the time it was designed, and continued with the explorations until we had a good idea for a poster. The rest was polishing. I wrote extensively about the process in my [case study for the project]({% post_url 2016-03-03-souvenir-history-poster %}).
+Most of the class was spent making posters of assigned typefaces. I designed a 20" x 30" poster showcasing the history and aesthetic of Souvenir, created in 1914 by Morris Fuller Benton. It was a long and arduous process, but I really enjoyed it. We started out creating typographic studies using our typeface and quotations from the time it was designed, and continued with the explorations until we had a good idea for a poster. The rest was polishing. I wrote extensively about the process in my [case study for the project]({% post_url /portfolio/2016-03-03-souvenir-history-poster %}).
 
 ![Chloe Atchue-Mamlet designed a poster showcasing the history of the typeface Souvenir](/img/souvenir/full.jpg)
 
 ## Intermediate Photography
 
-This is the second of two black and white photography classes graphic design majors have to take. While [last quarter's class]({% post_url 2016-01-16-second-year-fall-overview %}#photography-i) focused on breadth, this class focused on depth: we had only three projects, each spanning several weeks.
+This is the second of two black and white photography classes graphic design majors have to take. While [last quarter's class]({% post_url /blog/2016-01-16-second-year-fall-overview %}#photography-i) focused on breadth, this class focused on depth: we had only three projects, each spanning several weeks.
 
 ### Light as Subject
 {:.no_toc}
@@ -146,4 +146,4 @@ Hmmm, one of these classes is not like the other.... At Drexel, everyone in ever
 
 This quarter was really fun for me. It was the first quarter where I felt like I was taking real design classes where we were actually making real things instead of just doing exercises (which are important but not nearly as fun!). I attribute most of this feeling to my experience in my logo design course. It was really game-changing for me, both in terms of growing my skills and changing the way I thought about design in general. I had an amazing professor who was hard on us and really pushed everyone to do their absolute best. As I've continued on in my design education, I've realized that I learn the most and gain the most valuable experiences from the professors that really push me. It was an amazing class, and I feel like I really grew as a designer because of it.
 
-<a class="button" href="{% post_url 2016-06-27-second-year-spring-overview %}">Read about spring quarter</a>
+<a class="button" href="{% post_url /blog/2016-06-27-second-year-spring-overview %}">Read about spring quarter</a>

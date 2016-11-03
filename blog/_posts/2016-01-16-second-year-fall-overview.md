@@ -16,7 +16,7 @@ I was so excited to start this school year. Last year, most of my classes were o
 
 The bulk of Drexel's graphic design curriculum is made up of six classes called Visual Communication. Students take them in sequence over the course of three years, and it's where they learn most of the graphic design skills like logo design, poster design, and packaging design. Each class focuses on one specific area. Visual Communication I focuses on the conceptual work of graphic design.
 
-This class is somewhat similar to [Design I]({% post_url 2015-08-28-first-year-fall-overview %}#design-i) from last year in that they both focus on abstract black and white compositions, but Visual Communication is a little more specialized. On the first day, my professor kept saying that we were learning a new language&mdash;how to communicate abstract concepts visually.
+This class is somewhat similar to [Design I]({% post_url /blog/2015-08-28-first-year-fall-overview %}#design-i) from last year in that they both focus on abstract black and white compositions, but Visual Communication is a little more specialized. On the first day, my professor kept saying that we were learning a new language&mdash;how to communicate abstract concepts visually.
 
 This class would also place a heavy focus on craft, as we were producing these compositions by hand using nothing but black pens and gouache on bristol paper.
 
@@ -222,7 +222,7 @@ This class certainly wasn't what I was expecting. I was surprised to focus so mu
 
 ## Computer Imaging II
 
-This is the second class in a series of three technical classes in the Adobe software. The [first taught us Illustrator]({% post_url 2015-09-10-first-year-spring-overview %}#computer-imaging-i), and this one taught us Photoshop. On the first day, our professor emphasized that he wasn't so much teaching us Photoshop as he was teaching us how to be comfortable learning how to use the software on our own. He'd show us the basics, and it's up to us to do the rest.
+This is the second class in a series of three technical classes in the Adobe software. The [first taught us Illustrator]({% post_url /blog/2015-09-10-first-year-spring-overview %}#computer-imaging-i), and this one taught us Photoshop. On the first day, our professor emphasized that he wasn't so much teaching us Photoshop as he was teaching us how to be comfortable learning how to use the software on our own. He'd show us the basics, and it's up to us to do the rest.
 
 We started off with a ton of lectures and exercises meant to familiarize us with Photoshop and digital imaging. We learned about color modes, file formats, and Photoshop tools. We'd get a short demonstration in clipping paths and masks, and then the homework was to mask objects out of their backgrounds. The second half of the class was comprised of photo-heavy projects. We had to take all of the photos for the projects ourselves, and it was as much an exercise in photography as it was in Photoshop.
 
@@ -247,7 +247,7 @@ The goal of this self portrait was to make a Photoshop collage of ourselves cons
 
 <img src="/img/computer-imaging-2/portrait.jpg" alt="Self portrait of Chloe Atchue-Mamlet composed of meaningful objects to her">
 
-<a href="{% post_url 2015-12-14-self-portrait-collage %}" class="button">See the project in my portfolio</a>
+<a href="{% post_url /portfolio/2015-12-14-self-portrait-collage %}" class="button">See the project in my portfolio</a>
 
 Overall, this class was really great. I learned a lot, my workflow in Photoshop got significantly more efficient, and I got to create interesting projects.
 
@@ -338,4 +338,4 @@ This class was hard for me because I was working with a camera in a way I never 
 
 I had this class once each week for three hours, and boy did it feel like three hours. But the material was somewhat interesting, and I generally like art history. At Westphal, everyone needs to take three introductory art history classes, and now I've got one left.
 
-<a class="button" href="{% post_url 2016-04-08-second-year-winter-overview %}">Read about next quarter</a>
+<a class="button" href="{% post_url /blog/2016-04-08-second-year-winter-overview %}">Read about next quarter</a>

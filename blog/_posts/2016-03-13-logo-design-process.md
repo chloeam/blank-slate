@@ -130,4 +130,4 @@ The identity package needed to be subtle and elegant, so I chose a color scheme 
 
 ![Rock Paper Scissors business cards designed by Chloe Atchue-Mamlet](/img/rps/cards.jpg)
 
-<a class="button" href="{% post_url 2016-03-10-rock-paper-scissors-identity %}">View the portfolio piece</a>
+<a class="button" href="{% post_url /portfolio/2016-03-10-rock-paper-scissors-identity %}">View the portfolio piece</a>

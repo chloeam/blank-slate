@@ -16,7 +16,7 @@ I was really excited for this quarter because I was taking only classes that I w
 
 ## Visual Communications III (Publication Design)
 
-This is the third class in a series of six Visual Communications classes at the core of Drexel's graphic design curriculum. Much like [Visual Communications II]({% post_url 2016-04-08-second-year-winter-overview %}#visual-communication-ii-logo-design), where we tackled corporate identity design, there was really only one project for this class.
+This is the third class in a series of six Visual Communications classes at the core of Drexel's graphic design curriculum. Much like [Visual Communications II]({% post_url /blog/2016-04-08-second-year-winter-overview %}#visual-communication-ii-logo-design), where we tackled corporate identity design, there was really only one project for this class.
 
 We had to create a magazine on a topic of our choice. We needed to design the cover, table of contents, and at least one feature story (which had to be at least two spreads). I was really excited for this class because it was taught by one of my favorite professors, and publication design is something that I had never really attempted. So I decided to make *Invest*, a magazine about personal finance and career development for people in their 20s and 30s.
 
@@ -44,7 +44,7 @@ The second spread houses the bulk of the text and a small chart illustrating a p
 
 ![Invest Magazine second spread designed by Chloe Atchue-Mamlet](/img/invest/spread-2.jpg)
 
-<a class="button" href="{% post_url 2016-06-09-invest-magazine %}">View the case study</a>
+<a class="button" href="{% post_url /portfolio/2016-06-09-invest-magazine %}">View the case study</a>
 
 Ultimately, I'm relatively proud of my final magazine, but not over-the-moon about it. What I *can* say, however, is that I tried my very best. I asked my professor for feedback on what I could've done differently during the design process, and she said I needed to experiment more. She said that if I allowed myself to be freer in my initial experimentation before settling on an idea, I would produce great work. That makes sense, and it's a change I intend to make.
 
@@ -81,7 +81,7 @@ I designed the logo, shield, and house badges, as well as coded the actual site.
 
 I wanted to incorporate as many little details from the books as possible and make a really content-rich site. Below the slider showing recent events at the school, there is a disclaimer that pictures will not move on Muggle computers. The About page has the school motto, history, and song, and the Admissions page states that applications are neither necessary nor accepted. There is a Visit Us page that simply returns an error saying, "Accio web page! Error: not accessible from Muggle computer," because Muggles can't actually visit Hogwarts. On the Faculty and Staff page, the Defense Against the Dark Arts professor has "TBA" written next to it, because everyone knows Hogwarts can't keep a DADA professor for more than a year.
 
-<a class="button" href="{% post_url 2016-06-07-hogwarts %}">View the case study</a>
+<a class="button" href="{% post_url /portfolio/2016-06-07-hogwarts %}">View the case study</a>
 
 <a class="button" href="http://chloedrexel.com/hogwarts">View the live site</a>
 
@@ -93,10 +93,10 @@ This was a relatively boring, but definitely necessary class. It taught us InDes
 
 This was a pretty cool class. It was the training class to become a Drexel peer reader at the writing center, and I took it at the recommendation of another professor.
 
-Basically, we read a lot of educational theory and essays. It wasn't the most captivating material, but the in-class discussions were really interesting. I also wrote [a final essay]({% post_url 2016-06-07-identity-as-a-writer %}) on my identity as a thinker and writer, and how it's changed over time. I put a ton of work into it, and I'm really proud of it.
+Basically, we read a lot of educational theory and essays. It wasn't the most captivating material, but the in-class discussions were really interesting. I also wrote [a final essay]({% post_url /blog/2016-06-07-identity-as-a-writer %}) on my identity as a thinker and writer, and how it's changed over time. I put a ton of work into it, and I'm really proud of it.
 
 ## Conclusion
 
 This was also a hard quarter for me. I don't really have other thoughts except that one. It was mostly about making myself keep going, and I think sometimes that's just how college is. Even when you're doing something you love.
 
-<a class="button" href="{% post_url 2016-09-01-second-year-summer-overview %}">Read about summer quarter</a>
+<a class="button" href="{% post_url /blog/2016-09-01-second-year-summer-overview %}">Read about summer quarter</a>
