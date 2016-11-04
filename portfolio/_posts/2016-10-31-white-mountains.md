@@ -1,5 +1,5 @@
 ---
-title: "Experimental Typography Publication"
+title: "White Mountains Publication"
 current: portfolio
 description: Chloe Atchue-Mamlet designed an experimental typography publication on the White Mountains of New Hampshire
 tagline: Representing a place through typographic experimentation
@@ -66,7 +66,7 @@ The final spread is the most experimental of the entire publication. Again, the 
 
 ## Back Cover
 
-I created the back cover to be a sort of summary of the publication's contents and represent the duality of the White Mountains. The mountainous forms from the front cover are present on the back, but they obscure a haphazard composition of type, bright color, and texture from various leaves. 
+I created the back cover to be a sort of summary of the publication's contents and represent the duality of the White Mountains. The mountainous forms from the front cover are present on the back, but they obscure a haphazard composition of type, bright color, and texture from various leaves.
 
 ![Back cover for White Mountains experimental typography publication designed by Chloe Atchue-Mamlet](/img/white-mountains/back.jpg)
 
