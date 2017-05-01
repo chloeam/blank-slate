@@ -5,7 +5,7 @@
 
 .sitemap-heading {
 	@extend .blog-heading;
-	margin-top: $spacing-unit;
+	// margin-top: $spacing-unit;
 }
 
 /* ------------------------------------------------------------
@@ -85,7 +85,7 @@
   padding: 10px 0;
   display: block;
   font-size: 14px;
-  font-family: $base-font;
+  // font-family: $base-font;
   text-align: center;
   color: $black;
   background: #c3eafb;
